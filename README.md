@@ -18,7 +18,7 @@ We've compiled all this amazing content to help your group become collaboration 
   </div>
 </a>
 
-<a href="huamns_of_loomio.html">
+<a href="humans_of_loomio.html">
   <div class="tile tile-3">
     <h2>Humans of Loomio 🐒</h2>
     <p>Stories from people using Loomio across government, community and business</p>
