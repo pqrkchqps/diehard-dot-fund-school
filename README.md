@@ -1,3 +1,5 @@
+# Loomio Resource Center
+
 * How the tool works
 * Facilitation in Loomio
 * The Future of Working Together
