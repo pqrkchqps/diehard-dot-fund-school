@@ -27,7 +27,6 @@ The Resource Centre is divided into 5 sections:
 </div>
 
 <div class="tile tile-5">
-## The Future of Working Together
-
-Articles, podcasts and videos from the cutting edge of collaborative organising
+<h2>The Future of Working Together</h2>
+<p>Articles, podcasts and videos from the cutting edge of collaborative organising</p>
 </div>
