@@ -25,7 +25,7 @@ We've compiled all this amazing content to help your group become collaboration 
   </div>
 </a>
 
-<a href="coaching_resources">
+<a href="coaching_resources.html">
   <div class="tile tile-4">
     <h2>Coaching resources ⚽️</h2>
     <p>Runsheets and training guides</p>

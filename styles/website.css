@@ -17,7 +17,7 @@
   float: left;
 }
 
-.tile a{ color: #333; }
+a .tile{ color: #333; }
 .tile h2{ margin: 0; }
 .tile p{ margin-bottom: 0; }
 
