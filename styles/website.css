@@ -35,6 +35,7 @@
   float: left;
 }
 
+.media-tile a{color: #333;}
 .media-tile img{width: 100%;}
 
 h1#how-the-tool-works-🖥    { background: lightyellow; padding-left: 10px; }

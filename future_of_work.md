@@ -8,12 +8,11 @@ Stories from cofounders and friends of Loomio:
 
 <a href="https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248#.4h7ilp3w4)">
   <div class="media-tile" id="full-circle-leadership">
-    <img src="img/full-cirle-leadership.jpeg">
+    <img src="img/full-circle-leadership.jpeg">
     <h3>Beyond “Dreamers vs Doers” — Full Circle Leadership</h3>
     <p>Teams hum when you make space for many kinds of leadership...</p>
   </div>
 </a>
- <i class="fa fa-external-link" title="Link opens in new tab"></i>
 
 How to Grow Distributed Leadership
 
