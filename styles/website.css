@@ -12,16 +12,27 @@
 
 .tile{
   padding: 0.5em;
-  margin-bottom: 1em;
+  margin: 0 10px 10px 0;
+  width: 48%;
+  float: left;
 }
 .tile h2{ margin: 0; }
 .tile p{ margin-bottom: 0; }
 
-.tile-1{ background: lavendar; }
-.tile-2{ background: lightblue; }
-.tile-3{ background: lightpink; }
-.tile-4{ background: lightyellow; }
+.tile-1{ background: lightyellow; }
+.tile-2{ background: lightpink; }
+.tile-3{ background: lavender; }
+.tile-4{ background: lightblue; }
 .tile-5{ background: lightcoral; }
+
+@media only screen and (max-width: 600px) {
+  .tile{
+    width: 100%;
+    margin-right: 0;
+    float: none;
+    clear: both;
+  }
+}
 
 /* IMAGES */
 
