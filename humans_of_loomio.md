@@ -1,4 +1,4 @@
-# Humans of Loomio
+# Humans of Loomio 🐒
 
 ## Coops
 

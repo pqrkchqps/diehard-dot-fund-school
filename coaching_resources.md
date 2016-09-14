@@ -1,4 +1,4 @@
-# Coaching Resources
+# Coaching Resources ⚽
 
 * [Intro to Loomio Training Runsheet](https://docs.google.com/document/d/1e6tSj-LdQU_QTorIfe3ezpNDaQZr6uPA-VO2qYN1DTU/edit#heading=h.ay4bhfapm5fm)
 * Other runsheets/templates/etc

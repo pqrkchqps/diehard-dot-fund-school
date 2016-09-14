@@ -1,4 +1,4 @@
-# How the Tool Works
+# How the Tool Works 🖥
 
 ## Loomio 101
 

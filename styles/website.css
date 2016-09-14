@@ -27,7 +27,13 @@
 .tile-4{ background: lightblue; }
 .tile-5{ background: lightcoral; }
 
-@media only screen and (max-width: 600px) {
+h1#how-the-tool-works     { background: lightyellow; padding-left: 10px; }
+h1#facilitation-in-loomio { background: lightpink; padding-left: 10px; }
+h1#humans-of-loomio       { background: lavender; padding-left: 10px; }
+h1#coaching-resources     { background: lightblue; padding-left: 10px; }
+h1#future-of-work         { background: lightcoral; padding-left: 10px; }
+
+@media only screen and (max-width: 970px) {
   .tile{
     width: 100%;
     margin-right: 0;

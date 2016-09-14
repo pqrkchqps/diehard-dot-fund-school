@@ -1,4 +1,4 @@
-# The Future of Working Together
+# Future of Work 🚀
 
 * [Loomio Cooperative Handbook](http://loomio.coop)
 * [Beyond “Dreamers vs Doers” — Full Circle Leadership](https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248#.4h7ilp3w4)
