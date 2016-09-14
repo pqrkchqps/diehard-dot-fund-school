@@ -8,6 +8,7 @@
   color: auto;
 }
 
+/*FRONT PAGE TILES*/
 .tile{
   padding: 0.5em;
   margin: 0 10px 10px 0;
@@ -24,6 +25,17 @@
 .tile-3{ background: lavender; }
 .tile-4{ background: lightblue; }
 .tile-5{ background: lightcoral; }
+
+/*CHAPTER PAGE TILES*/
+
+.media-tile{
+  padding: 0.5em;
+  margin: 0 10px 10px 0;
+  width: calc(50% - 10px);
+  float: left;
+}
+
+.media-tile img{width: 100%;}
 
 h1#how-the-tool-works-🖥    { background: lightyellow; padding-left: 10px; }
 h1#facilitation-in-loomio-🐝{ background: lightpink; padding-left: 10px; }
