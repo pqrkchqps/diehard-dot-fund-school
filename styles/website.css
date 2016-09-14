@@ -46,7 +46,7 @@ h1#coaching-resources-⚽    { background: lightblue; padding-left: 10px; }
 h1#future-of-work-🚀        { background: lightcoral; padding-left: 10px; }
 
 @media only screen and (max-width: 970px) {
-  .tile{
+  .tile, .media-tile{
     width: 100%;
     margin-right: 0;
     float: none;
