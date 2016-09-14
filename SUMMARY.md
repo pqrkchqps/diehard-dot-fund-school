@@ -1,4 +1,4 @@
-* How the tool works.
+* [How the tool works](tool.md)
   * invite people in
   * discussion threads
   * proposals 101
@@ -11,7 +11,7 @@
   * Likes emojis.
   * User manual: comprehensive explanation of each feature (help.loomio.org)
 
-* Facilitation in Loomio
+* [Facilitation in Loomio](facilitation.md)
   * Facilitator's FAQ
     * how to get critical mass?
     * how to deal with technophobic people?
@@ -40,7 +40,7 @@
     * Host an AGM online
     * Develop a new policy over 3 months
 
-* The Future of Working Together
+* [The Future of Working Together](future_of_work.md)
   * [Loomio Cooperative Handbook](http://loomio.coop)
   * [Beyond “Dreamers vs Doers” — Full Circle Leadership](https://medium.com/enspiral-tales/beyond-dreamers-vs-doers-full-circle-leadership-869557da1248#.4h7ilp3w4)
   * [How to Grow Distributed Leadership](https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
@@ -49,7 +49,7 @@
   * [Teddy's 20 minute Loomio Podcast](https://humanmethodslab.org/2016/01/19/what-loomio-does-human-encounters-on-the-network/)
 
 
-* Humans of Loomio
+* [Humans of Loomio](humans_of_loomio.md)
   * Coops
     * [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/)
     * [NEIT](http://blog.loomio.org/2016/08/30/neit/)
@@ -87,7 +87,7 @@
     * [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/)
     * [Gen Zero](http://blog.loomio.org/2013/11/19/nation-changing-decision-makers-generation-zero/)
 
-* Resources for consultants/collab coach
+* [Coaching resources](coaching_resources.md)
   * [Intro to Loomio Training Runsheet](https://docs.google.com/document/d/1e6tSj-LdQU_QTorIfe3ezpNDaQZr6uPA-VO2qYN1DTU/edit#heading=h.ay4bhfapm5fm)
   * Other runsheets/templates/etc
   * [The facilitators guide to Loomio - reframe Alanna's doc for public consumption](https://docs.google.com/document/d/1iIG3GRd58BkVyq2v7I2vd6mWBK71Hpb5lPPEOywRALc/edit#)
