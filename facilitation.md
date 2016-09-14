@@ -26,6 +26,7 @@
   * [9 ways to to use a Loomio proposal to turn a conversation into action](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
 
 * What people do with Loomio
+  * Supercharge a meeting
   * Engage the public in policy development
   * Host an AGM online
   * Develop a new policy over 3 months
