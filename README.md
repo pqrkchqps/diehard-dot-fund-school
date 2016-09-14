@@ -7,27 +7,23 @@ We've compiled all this amazing content to help your group become collaboration 
 The Resource Centre is divided into 5 sections:
 
 <div class="tile tile-1">
-## How the tool works
-
-A quick introduction to the software
+<h2>How the tool works</h2>
+<p>A quick introduction to the software</p>
 </div>
 
 <div class="tile tile-2">
-## Facilitation in Loomio
-
-Learn how to be efficient and effective
+<h2>Facilitation in Loomio</h2>
+<p>Learn how to be efficient and effective</p>
 </div>
 
 <div class="tile tile-3">
-## Humans of Loomio
-
-Stories from people using Loomio across government, community and business
+<h2>Humans of Loomio</h2>
+<p>Stories from people using Loomio across government, community and business</p>
 </div>
 
 <div class="tile tile-4">
-## Coaching resources
-
-Runsheets and training guides
+<h2>Coaching resources</h2>
+<p>Runsheets and training guides</p>
 </div>
 
 <div class="tile tile-5">

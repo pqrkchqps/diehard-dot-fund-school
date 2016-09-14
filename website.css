@@ -8,6 +8,15 @@
   color: auto;
 }
 
+/* FRONT PAGE TILES */
+
+.tile{
+  padding: 0.5em;
+  max-width: 50%;
+  margin-bottom: 1em;
+}
+
+
 /* IMAGES */
 
 .img-left{
