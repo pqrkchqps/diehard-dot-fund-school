@@ -11,7 +11,7 @@
 * How do I deal with rants and horrible people?
 * How do I get people to use the tool?
 * How do I introduce people?
-* Help there are too many loomios!
+* Help there are too many Loomios!
 
 ## Acts of facilitation
 *More indepth articles, specifically targetted at group facilitators.*
