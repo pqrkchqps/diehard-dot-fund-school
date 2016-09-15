@@ -1,4 +1,4 @@
-# Loomio Resource Center 🎓
+# Loomio School 🎓
 
 There are thousands of groups around the world using [Loomio](http://loomio.org) to make decisions together.
 

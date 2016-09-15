@@ -5,9 +5,9 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## Coops
 
-* [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/)
-* [NEIT](http://blog.loomio.org/2016/08/30/neit/)
-* [Trusty Amigos](http://blog.loomio.org/2016/08/17/trustyamigos/)
+* [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/) - get their members to participate in an important thing
+* [NEIT](http://blog.loomio.org/2016/08/30/neit/) - unlock great ideas from the introverts
+* [Trusty Amigos](http://blog.loomio.org/2016/08/17/trustyamigos/) - bilingual members jamming together
 * [Robin Hood Coop](http://blog.loomio.org/2016/01/05/robinhood/)
 
 ## Business
@@ -19,9 +19,9 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## NGO/NFP/Trust
 
-* [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/)
-* [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/)
-* [Newtown Ethical Lending Trust](http://blog.loomio.org/2013/10/18/trustees-trust-loomio/)
+* [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/) - turned a conference into a meeting
+* [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/) - create strong small teams within their organisation
+* [Newtown Ethical Lending Trust](http://blog.loomio.org/2013/10/18/trustees-trust-loomio/) - approve loan applications without having a meeting
 
 ## Government
 
