@@ -1,6 +1,6 @@
 # Loomio School 🎓
 
-There are thousands of groups around the world using [Loomio](http://loomio.org) to make decisions together.
+Thousands of groups around the world are using [Loomio](http://loomio.org) to make decisions together.
 
 We've compiled all this amazing content to help your group become collaboration experts.
 
