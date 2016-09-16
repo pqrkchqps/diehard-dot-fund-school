@@ -1,4 +1,4 @@
-# 6 Circles For a Group That Works Without a Boss
+# 6 Circles For a Collaborative Group That Works
 
 <img src="https://i.imgur.com/tf5a6SE.jpg" width="50px" style="float: left; margin-right: 1em">
 
