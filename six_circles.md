@@ -156,7 +156,6 @@ We have a structure, but it's a structure that we've all actively consented to.
 
 <img src="https://i.imgur.com/tf5a6SE.jpg" width="100px" style="float: left; margin-right: 1em">
 
-
 *Richard D. Bartlett is an [Enspiral](http://enspiral.com) member and one of the co-founders of [Loomio](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles): an online decision-making tool for collaborative organisations.*
 
 *He’s [@richdecibels](https://twitter.com/richdecibels) on Twitter. If you want to chat about this stuff, drop him a line.* 🐢
