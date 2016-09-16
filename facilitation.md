@@ -1,4 +1,4 @@
-# Facilitation in Loomio 🐝
+<h1 id="facilitation">Loomio Facilitation 🐝</h1>
 
 ## Facilitator's FAQ
 *The FAQ that trip everyone up as soon as they have an active group.*
@@ -16,7 +16,7 @@
 ## Acts of facilitation
 *More indepth articles, specifically targetted at group facilitators.*
 
-* How to activate your group
+* [How to activate your group](activate_your_group.md)
 * Start a welcome thread.
 * Include voices that are not present.
 * diverge clearly, converge clearly.

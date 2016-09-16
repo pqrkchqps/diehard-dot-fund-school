@@ -13,7 +13,7 @@ We've compiled all this amazing content to help your group become collaboration 
 
 <a href="facilitation.html">
   <div class="tile tile-2">
-    <h2>Facilitation in Loomio 🐝</h2>
+    <h2>Loomio Facilitation 🐝</h2>
     <p>Learn how to be efficient and effective</p>
   </div>
 </a>
