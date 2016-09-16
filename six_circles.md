@@ -12,7 +12,7 @@ By Loomio co-founder Richard D. Bartlett
 
 ![](https://i.imgur.com/w6JzH1k.png)
 
-I picked up these lessons from 5 years of working in non-hierarchical groups, from Occupy, to [Loomio](http://loomio.org), to [Enspiral](http://enspiral.com). Here's the six circles:
+I picked up these lessons from 5 years of working in non-hierarchical groups, from Occupy, to [Loomio](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles), to [Enspiral](http://enspiral.com). Here's the six circles:
 
 1. Concentric rings
 2. Magical spaces
@@ -115,7 +115,7 @@ The working group went away and did some research, to develop a first draft of t
 
 The working group developed a second draft in response to the first round of input. 
 
-Finally, we used [Loomio, our online decision-making tool](http://loomio.org?utm_campaign=six_circles&utm_medium=blog&utm_source=hackmd), to officially agree to the new policy, which is now [published in our cooperative handbook](http://loomio.coop/conflict_resolution.html).
+Finally, we used [Loomio, our online decision-making tool](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles), to officially agree to the new policy, which is now [published in our cooperative handbook](http://loomio.coop/conflict_resolution.html).
 
 ![](https://i.imgur.com/Yf4Lj9Z.png)
 
@@ -157,7 +157,7 @@ We have a structure, but it's a structure that we've all actively consented to.
 <img src="https://i.imgur.com/tf5a6SE.jpg" width="100px" style="float: left; margin-right: 1em">
 
 
-*Richard D. Bartlett is an [Enspiral](http://enspiral.com) member and one of the co-founders of [Loomio](http://loomio.org): an online decision-making tool for collaborative organisations.*
+*Richard D. Bartlett is an [Enspiral](http://enspiral.com) member and one of the co-founders of [Loomio](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles): an online decision-making tool for collaborative organisations.*
 
 *He’s [@richdecibels](https://twitter.com/richdecibels) on Twitter. If you want to chat about this stuff, drop him a line.* 🐢
 
