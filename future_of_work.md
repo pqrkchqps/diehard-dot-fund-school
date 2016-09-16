@@ -4,11 +4,13 @@
 
 ## Articles
 
-<a href="https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c">
+
+
+<a href="six_circles.html">
   <div class="media-tile">
-    <img src="img/grow-distributed-leadership.jpeg">
-    <h3>How to Grow Distributed Leadership</h3>
-    <p>Teams hum when you make space for many kinds of leadership...</p>
+    <img src="https://i.imgur.com/w6JzH1k.png">
+    <h3>6 Circles For a Group That Works Without a Boss</h3>
+    <p>Lessons from 5 years working in non-hierarchical groups...</p>
   </div>
 </a>
 
@@ -33,6 +35,14 @@
     <img src="img/a-caring-organisation.png">
     <h3>A Caring Organisation: Feelings, Magic & Gendered work</h3>
     <p>What happens when we talk about out feelings at work...</p>
+  </div>
+</a>
+
+<a href="https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c">
+  <div class="media-tile">
+    <img src="img/grow-distributed-leadership.jpeg">
+    <h3>How to Grow Distributed Leadership</h3>
+    <p>Teams hum when you make space for many kinds of leadership...</p>
   </div>
 </a>
 

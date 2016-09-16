@@ -1,6 +1,6 @@
 # How To Activate Your Group
 
-<div id="facilitation">Part of the <a href="facilitation.html">Loomio Facilitation</a> guide. 🐝</div>
+<div id="facilitation"><p>Part of the <a href="facilitation.html">Loomio Facilitation</a> guide. 🐝</p></div>
 
 
 ![](http://cdn.oscarmini.com/wp-content/uploads/2015/02/youtube-vid.jpg)
