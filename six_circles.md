@@ -4,14 +4,15 @@
 
 By Loomio co-founder Richard D. Bartlett
 
+---
 
-*Today I drew 6 circular diagrams to convey just about everything I’ve learned about forming a truly collaborative group.
+*Today I drew 6 circular diagrams to convey just about everything I’ve learned about forming a truly collaborative group.*
 
 *I was discussing the challenges of working inclusively with Katrina Donaghy from [openCoLab](http://www.opencolab.com.au/) in Australia, a new group of 16 people with an ambition to work in a decentralised, collaborative way.*
 
 ![](https://i.imgur.com/w6JzH1k.png)
 
-Here's the six circles:
+I picked up these lessons from 5 years of working in non-hierarchical groups, from Occupy, to [Loomio](http://loomio.org), to [Enspiral](http://enspiral.com). Here's the six circles:
 
 1. Concentric rings
 2. Magical spaces
@@ -20,15 +21,13 @@ Here's the six circles:
 5. A place to make decisions
 6. Community is defined by its boundaries
 
-I picked up these lessons from 5 years of working in non-hierarchical groups, from Occupy, to [Loomio](http://loomio.org), to [Enspiral](http://enspiral.com).
-
 ## #1: Concentric rings
 
 <img src="https://i.imgur.com/Yp1GRgP.png" width="150px" style="float: left">
 
-If you don't want to organise with a hierarchy, but you don't want to be a formless blob either, then I can highly recommend the **concentric rings model**. 
+If you don't want to organise with a hierarchy, but you don't want to be a formless blob either, then I can highly recommend the **concentric rings model**.
 
-We [use this pattern at Enspiral](http://handbook.enspiral.com/people_agreement.html): the people in the outer ring are **Contributors**, and the people in the center are **Members**. 
+We [use this pattern at Enspiral](http://handbook.enspiral.com/people_agreement.html): the people in the outer ring are **Contributors**, and the people in the center are **Members**.
 
 We share as much as possible with Contributors; we only use the Members-only space by exception.
 
