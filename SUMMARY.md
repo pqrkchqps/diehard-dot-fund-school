@@ -4,4 +4,4 @@
 * [Humans of Loomio](humans_of_loomio.md)
 * [Coaching resources](coaching_resources.md)
 * [The Future of Working Together](future_of_work.md)
-  * [6 Circles](six_circles.md)
+  <!-- * [6 Circles](six_circles.md) -->
