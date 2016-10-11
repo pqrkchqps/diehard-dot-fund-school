@@ -1,22 +1,7 @@
 # How the Tool Works 🖥
 
-*Brief articles, each with a 1 minute video and accompanying text. Targetted at all users.*
+This is a user manual for the software. Brief instructions for every feature.
 
-## Loomio 101
+**TODO**: import most of the content from http://help.loomio.org
 
-* invite people in
-* discussion threads
-* proposals 101
-* set the privacy and options
-* use it on your phone.
-* mentions
-* control what emails you get
-* reply from your email.
-* turn off all the emails
-* Likes emojis.
-* [10 tips for making great decisions with Loomio](https://blog.loomio.org/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)
-* [9 ways to to use a Loomio proposal to turn a conversation into action](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
-
-## User Manual
-
-A [comprehensive guide to all the Loomio features](http://help.loomio.org).
+If you want to know what you can **do** with those features, check out the [Loomio Facilitation section](facilitation.md), or [these stories of what other people are doing](humans_of_loomio.md).
