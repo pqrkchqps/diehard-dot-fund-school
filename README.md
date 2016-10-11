@@ -42,3 +42,7 @@ We've compiled all this amazing content to help your group become collaboration 
 ---
 
 Get in touch if you want!
+
+This is a work in progress.
+
+This is how to contribute.
