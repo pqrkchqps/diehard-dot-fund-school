@@ -12,7 +12,8 @@ You're reading Phase 3 of the [5 Phases of Faciliation in Loomio](five_phases_of
 * Managing the Attention Economy
 * Facilitation Interventions
 
----
+<img src="img/underway_1200.jpg">
+
 
 ## Where are we on the Map?
 

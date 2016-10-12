@@ -8,7 +8,8 @@ You're reading Phase 2 of the [5 Phases of Faciliation in Loomio](five_phases_of
 * Who’s NOT in the Room
 * Culture, Protocol, Expectations
 
----
+<img src="img/commencing_1200.jpg">
+
 
 ## Invitation
 

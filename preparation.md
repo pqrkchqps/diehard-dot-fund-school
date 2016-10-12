@@ -9,7 +9,8 @@ You're reading Phase 1 of the [5 Phases of Faciliation in Loomio](five_phases_of
 * Contextualise the Moment
 * The Role of the Facilitator
 
----
+<img src="img/preparation_1200.jpg">
+
 
 <img src="img/silvia_200.png" class="img-right img-100px"/>
 

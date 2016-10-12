@@ -7,7 +7,8 @@ You're reading Phase 4 of the [5 Phases of Faciliation in Loomio](five_phases_of
 * Turning Discussion into Action
 * It Ain’t Over Til It’s Over
 
----
+<img src="img/concluding_1200.jpg">
+
 
 ## Outcomes & Next Steps
 
