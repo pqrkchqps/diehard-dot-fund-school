@@ -7,7 +7,7 @@
 # Preparation
 
 
-<img src="img/silvia_100.png" class="img-left"/>
+<img src="img/silvia_200.png" class="img-left img-100"/>
 
 > For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. - Silvia Zuur
 
