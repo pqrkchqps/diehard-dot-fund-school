@@ -1,18 +1,18 @@
 # Underway
 
-> Phase 3 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
-
-
+You're reading Phase 3 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
 
 * Where are we on the Map?
 * The Art of Noticing
 * Hearing Diverse Voices
 * Counter Cognitive Bias
-* Balancing Divergent / Convergent 
+* Balancing Divergent / Convergent
 * Working with Scope
 * Pacing and Timing
 * Managing the Attention Economy
 * Facilitation Interventions
+
+---
 
 ## Where are we on the Map?
 
@@ -222,7 +222,7 @@ There are as many facilitation techniques as there are facilitators in the world
 1. Supportive interventions: inviting contribution, going deeper, drawing out, coaxing, nurturing, protecting, creating space
 2. Assertive interventions: pulling back, shutting down, drawing lines, interrupting, challenging, steering on course, excluding bad behavior
 
-> Singling people out for a contribution will just make them feel like the stupid kid in class who doesn’t know the answer. Instead, a general invite to people who haven’t spoken yet to contribute tells the regular contributors to stay quiet, and gives quieter people the opportunity to step forward. -- Silvia Zuur*
+> Singling people out for a contribution will just make them feel like the stupid kid in class who doesn’t know the answer. Instead, a general invite to people who haven’t spoken yet to contribute tells the regular contributors to stay quiet, and gives quieter people the opportunity to step forward. — Silvia Zuur
 
 Almost all interventions in face-to-face facilitation can be reimagined and employed in the online space.
 

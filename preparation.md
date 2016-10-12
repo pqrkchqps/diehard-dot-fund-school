@@ -1,6 +1,6 @@
 # Preparation
 
-> Phase 1 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
+You're reading Phase 1 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
 
 * Understand Purpose
 * Rearrange the Furniture
@@ -8,6 +8,8 @@
 * Design the Experience
 * Contextualise the Moment
 * The Role of the Facilitator
+
+---
 
 <img src="img/silvia_200.png" class="img-right img-100px"/>
 

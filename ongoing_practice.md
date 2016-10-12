@@ -1,13 +1,13 @@
 # Ongoing Practice
 
-> Phase 5 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
-
+You're reading Phase 5 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
 
 * Continuous Improvement
 * Distributed Facilitation / Self-facilitation
 * The Art of Being Facilitated
 * Culture Change
 
+---
 
 ## Continuous Improvement
 
