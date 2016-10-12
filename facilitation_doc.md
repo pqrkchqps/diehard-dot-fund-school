@@ -2,47 +2,12 @@
 
 ## Introduction
 
-There are many inputs to thinking about the Loomio product (the broader conception of the product as the software, documentation/training, and overall user experience), including user feedback, market demand, and technical expertise. This document is intended to be a reference framework for the input channel defined by facilitation expertise. 
+*Set the context for this doc*
 
-*If we begin thinking from facilitation first principles and best practice, and interpret it in the Loomio context of an online tool, what can we learn?*
-
-Whether it’s being employed by a professional facilitator explicitly in that role, or people peer-facilitating each other, or a group that has no awareness of facilitation at all, Loomio’s essential function is to mediate and support group communication and interaction toward a desired outcome. This is facilitation. 
-
-Loomio is groupware. This is a term with a specific meaning:
-
-*Collaborative software or groupware is an application software designed to help people involved in a common task to achieve their goals. One of the earliest definitions of collaborative software is 'intentional group processes plus software to support them.'*
-
-Groupware is essentially about interpreting facilitation into software. This is the heart of what we’re here to do with Loomio. We need to understand our product’s identity as groupware, and think deeply about the intersection of traditional facilitation - what we can learn from generations who have come before us - and emerging future possibilities enabled by communication in the online space.
-
-There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation - but the art and science of their intersection is only just emerging. This is the specific space in which Loomio should work to be a world class product.
-
-## Big-picture Vision Questions
-
-* How might we design Loomio so users feel like they are working with an experienced facilitator, even if they don’t have one in their group? 
-
-* How might the Loomio software itself provide a facilitated experience, when each user has slightly different needs? 
-
-* How might Loomio be a tool that working facilitators can use to go much further in what they can achieve, taking the craft itself to a new level?
-
-## About this Document
-
-This is not a narrative, but a reference. It’s intended to be used as a jumping off point for further research, and a place to check when delving into problem-solving in Loomio design. The current state of this document is not intended to be final - ideally this would be a living document that others could work with, add to, and extend.
-
-Each section follows the same format: an explication of one aspect of facilitation, followed by an analysis of how it works in the existing Loomio design, and a range of suggestions for future research. 
-
-You will not find a specific argument for prioritising one solution over another, just a jumping off point for asking more questions. Some possible solutions will relate to software features, others to documentation or help resources, and others simply to deepening our internal understanding and awareness as we make decisions about the product. Think of it as a Roadmap of Questions.
-
-You will also notice a lot of redundancy in the text. The same ideas crop up several times in different areas. This is because this document attempts to look at the same issues through a variety of lenses.
-
-## Author’s Note
-
-I am not a seminal facilitation expert. I consider myself only a beginner, in a craft which one can spend a lifetime honing. I am also only one person with one perspective and approach to facilitation. I do not claim to be any kind of definitive source. What I can offer is help translating between the offline and online spaces, as a practitioner in both. 
-
-If I am making an argument here, it’s that giving users what they think they want, what feels "easiest" to them, is not the whole story of providing value. If people already knew exactly what to do, they would not need our help. They are looking to us to provide a certain level of guidance, a certain degree of opinionatedness in the experience we invite them into. In other words, to facilitate them. 
 
 # Preparation
 
-*For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. - Silvia Zuur*
+> For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. - Silvia Zuur
 
 ## Understand Purpose
 
