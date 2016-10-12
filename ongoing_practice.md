@@ -7,7 +7,8 @@ You're reading Phase 5 of the [5 Phases of Faciliation in Loomio](five_phases_of
 * The Art of Being Facilitated
 * Culture Change
 
----
+<img src="img/practicing_1200.jpg">
+
 
 ## Continuous Improvement
 

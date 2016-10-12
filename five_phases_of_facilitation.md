@@ -39,7 +39,7 @@ Format: thinking about facilitation first, then applying each concept to the Loo
 
 <a href="ongoing_practice.html">
   <div class="media-tile">
-    <img src="img/ongoing_practice_600.jpg">
+    <img src="img/practicing_600.jpg">
     <h3>5. Ongoing Practice</h3>
     <p>Going on together...</p>
   </div>
