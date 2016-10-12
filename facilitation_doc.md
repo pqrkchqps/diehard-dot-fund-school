@@ -2,10 +2,12 @@
 
 ## Introduction
 
-*Set the context for this doc*
-
+*Set the context for this doc: what is facilitation? why should I care? what does it have to do with software?*
 
 # Preparation
+
+
+<img src="img/silvia_100.png" class="img-left"/>
 
 > For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. - Silvia Zuur
 
