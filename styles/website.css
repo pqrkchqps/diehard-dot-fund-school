@@ -74,7 +74,7 @@ h1#future-of-work-🚀        { background: lightcoral; padding-left: 10px; }
 .img-300px{ width: 300px; }
 .img-50pc{ width: 50%; }
 
-hr{clear: both;}
+hr, .clear{clear: both;}
 
 .mobile-visible{
   display: none;
