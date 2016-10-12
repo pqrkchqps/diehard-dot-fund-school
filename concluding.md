@@ -1,5 +1,8 @@
 # Concluding
 
+> Phase 4 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
+
+
 * Outcomes & Next Steps
 * Reporting & Harvesting
 * Turning Discussion into Action
@@ -66,4 +69,4 @@ Participants often look to the leader or facilitator for confirmation of when it
 * Make a point of celebrating milestones
 
 
-* How can we celebrate or help users complete a process?
+> Move on to [Phase 5](ongoing_practice.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).

@@ -1,5 +1,9 @@
 # Underway
 
+> Phase 3 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
+
+
+
 * Where are we on the Map?
 * The Art of Noticing
 * Hearing Diverse Voices
@@ -227,3 +231,5 @@ Almost all interventions in face-to-face facilitation can be reimagined and empl
 * The main tools Loomio offers currently for making interventions are comments, @mentions, adding/removing users, and deleting comments/discussions. These can be employed for various forms of supportive and assertive interventions. The most commonly used is probably comments - simply talking to the group and inviting or trying to reduce certain behavior.
 * Participation permissions offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals, etc.
 * Loomio offers some trust-based features that other tools lack, such as the ability for all participants to edit discussion contexts (even if it was posted originally by another user). These ideas are inspired by things like Wikipedia and open source software development.
+
+> Move on to [Phase 4](concluding.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).

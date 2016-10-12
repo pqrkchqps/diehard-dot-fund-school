@@ -1,5 +1,7 @@
 # Preparation
 
+> Phase 1 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
+
 * Understand Purpose
 * Rearrange the Furniture
 * Supplies, Tools, Materials
@@ -105,3 +107,6 @@ Facilitators do their best work when they can adapt effectively to the emergent 
 * Many groups using Loomio are experienced with facilitation and already have a shared understanding of the role. They already adapt the tool to meet these needs with some success.
 * Often the person who starts a discussion is assumed to be facilitating it, barring another agreed understanding in the group.
 * Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc (but this often left implicit).
+
+
+> Move on to [Phase 2](commencing.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).

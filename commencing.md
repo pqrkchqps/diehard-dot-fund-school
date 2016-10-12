@@ -1,5 +1,8 @@
 # Commencing
 
+> Phase 2 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md): [1](preparation.md) [2](commencing.md) [3](underway.md) [4](concluding.md) [5](ongoing_practice.md)
+
+
 * Invitation
 * Arrival
 * Who’s in the Room
@@ -111,3 +114,5 @@ Like a legal contract, you hope you never have to enforce your code of conduct, 
 * Many groups use Loomio itself to decide their group protocols, such as how to engage, what is allowed, what a decision means and what makes it valid, etc.
 * Some core protocol issues are answered simply by using Loomio in the most basic way - who is allowed here, how do we communicate.
 * One of the most basic protocol related decisions Loomio users all encounter is their decision-making protocol - Consensus? Majority? Quorum? Unanimity?
+
+> Move on to [Phase 3](underway.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).
