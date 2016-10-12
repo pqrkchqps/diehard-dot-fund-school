@@ -24,7 +24,7 @@ As a group becomes more experienced with collaboration, more individuals in it b
 
 People who are less used to taking acts of facilitation can be supported with education, invitations, and suggestions of first steps. Some examples of acts of facilitation almost anyone can be encouraged to try: reflecting back what you’re hearing or summarising, inviting others to contribute, asking questions to enhance collective understanding, noticing who is and is not participating, appreciating other’s contributions explicitly.
 
-<img src="img/silvia_200.png" class="img-right img-100"/>
+<img src="img/silvia_200.png" class="img-right img-100px"/>
 
 > You don’t need an agenda to be a facilitator. Facilitating is just about making a group situation easy. Next time you’re at a family gathering, party or morning tea: approach it like a facilitator and make sure everybody in the group feels included and able to participate. — Silvia Zuur
 
@@ -32,7 +32,7 @@ Distributed facilitation can work beautifully - and it can also cause people to 
 
 It’s important to consciously decide when peer facilitation is a good choice, and when a specific facilitator is called for. In certain situations, such as a high-conflict discussion where a specified neutral party is needed, or there is a lack of trust, distributed facilitation might not work.
 
-<img src="img/rich_200.png" class="img-right img-100"/>
+<img src="img/rich_200.png" class="img-right img-100px"/>
 
 > Acts of facilitation are not just for the manager, or the person who called the meeting — they are for everyone. — Richard Bartlett
 

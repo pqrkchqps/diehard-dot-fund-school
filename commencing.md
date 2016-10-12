@@ -10,7 +10,7 @@
 
 How participants are invited into a facilitated space is incredibly important. People understand huge amounts of information from the invitation, and use it to judge how carefully a space will be held, and if they feel they belong there. The moment of invitation is in many ways the defining opportunity to set the tone and establish trust.
 
-<img src="img/rich_200.png" class="img-right img-100"/>
+<img src="img/rich_200.png" class="img-right img-100px"/>
 
 > Decision-making is all about communication: your group can only make good decisions together if there’s a foundation of good communications in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect. — Richard Bartlett
 

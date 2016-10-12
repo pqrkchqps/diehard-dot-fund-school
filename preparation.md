@@ -7,7 +7,7 @@
 * Contextualise the Moment
 * The Role of the Facilitator
 
-<img src="img/silvia_200.png" class="img-right img-100"/>
+<img src="img/silvia_200.png" class="img-right img-100px"/>
 
 > For every minute of time with the group, consider spending 3 minutes planning. That means spending three hours preparing for a one hour session. Only as you improve should you spend less time planning. — Silvia Zuur
 

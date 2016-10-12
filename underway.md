@@ -43,7 +43,7 @@ The informational inputs, and the ability to interpret and act on them, make all
 
 In our society, multiple layers of history, power dynamics, culture, and psychology conspire to amplify certain voices and suppress others. This plays out at every level of experience, from our innermost subconscious beliefs to our political system and laws, and everything in between. But the best ideas and important information does not always come from the loudest voices: the role of facilitation is to counteract these biases. It’s a big concept to take on all of society’s baggage, but it’s important to be aware of the dynamics we are collectively grappling with if our goal is social justice, group effectiveness, and high quality decision-making.
 
-<img src="img/rich_200.png" class="img-right img-100"/>
+<img src="img/rich_200.png" class="img-right img-100px"/>
 
 > If you want to innovate, you have to make space for different points of view — luckily, this is also what you need to do if you want a team where everyone is empowered. All kinds of cultural and technical factors conspire to privilege some voices at the expense of others. There are many practices you can implement to systematically challenge that bias, but just being aware of it is a good starting point. — Richard Bartlett
 
@@ -51,7 +51,7 @@ Perhaps due to the universal lived human experience of inhabiting a singular con
 
 There is no such thing as one size fits all - any mode of interacting enhances some voices and quiets others, or emphasises different tendencies within an individual. So it’s necessary to employ a range of approaches and modes if the goal is to invite the best from multiple diverse voices.
 
-<img src="img/silvia_200.png" class="img-right img-100"/>
+<img src="img/silvia_200.png" class="img-right img-100px"/>
 
 > Check you’re catering to different learning styles. One simple way to check is with the Head, Heart, Hands metaphor. People who learn with their Head need facts and detailed information. A Heart learner thrives off stories. They need an emotional connection to the work. Learning with the Hands is all about doing stuff and getting active. — Silvia Zuur
 
