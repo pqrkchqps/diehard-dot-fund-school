@@ -7,7 +7,8 @@
         "video",
         "ga",
         "youtube",
-        "anchors"
+        "anchors",
+        "anchor-navigation"
     ],
     "pluginsConfig": {
         "ga": {
