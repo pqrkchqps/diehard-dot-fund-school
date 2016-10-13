@@ -7,7 +7,8 @@
         "video",
         "ga",
         "youtube",
-        "anchorjs"
+        "anchorjs",
+        "addcssjs"
     ],
     "pluginsConfig": {
         "ga": {
@@ -15,6 +16,10 @@
             "configuration": {
                 "alwaysSendReferrer": true
             }
+        },
+        "addcssjs": {
+            "js": ["js/custom.js"]
+            // "css": ["css/custom.css"]
         }
     }
 }
