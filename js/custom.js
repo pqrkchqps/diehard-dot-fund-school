@@ -1,0 +1,1 @@
+anchors.remove('.no-anchor');
