@@ -7,7 +7,7 @@
         "video",
         "ga",
         "youtube",
-        "anchors",
+        "anchorjs",
         "anchor-navigation"
     ],
     "pluginsConfig": {
