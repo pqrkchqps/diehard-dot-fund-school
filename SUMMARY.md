@@ -3,8 +3,6 @@
   * [Activate Your Group](activate_your_group.md)
   * [Advanced: 5 Phases of Facilitation in Loomio](five_phases_of_facilitation.md)
     * [1. Preparation](preparation.md)
-      * [Understand Purpose](#understand-purpose)
-      * [Rearrange the Furniture](#rearrange-the-furniture)
     * [2. Commencing](commencing.md)
     * [3. Underway](underway.md)
     * [4. Concluding](concluding.md)
