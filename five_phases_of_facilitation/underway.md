@@ -1,6 +1,6 @@
 # Underway
 
-You're reading Phase 3 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
+You're reading Phase 3 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
 
 * Where are we on the Map?
 * The Art of Noticing
@@ -233,4 +233,4 @@ Almost all interventions in face-to-face facilitation can be reimagined and empl
 * Participation permissions offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals, etc.
 * Loomio offers some trust-based features that other tools lack, such as the ability for all participants to edit discussion contexts (even if it was posted originally by another user). These ideas are inspired by things like Wikipedia and open source software development.
 
-> Move on to [Phase 4](concluding.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).
+> Move on to [Phase 4](concluding.md) of the [5 Phases of Faciliation in Loomio](index.md).

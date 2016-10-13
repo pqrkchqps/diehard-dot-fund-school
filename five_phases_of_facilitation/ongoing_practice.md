@@ -1,6 +1,6 @@
 # Ongoing Practice
 
-You're reading Phase 5 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
+You're reading Phase 5 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
 
 * Continuous Improvement
 * Distributed Facilitation / Self-facilitation

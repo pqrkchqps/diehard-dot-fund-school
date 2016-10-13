@@ -1,6 +1,6 @@
 # Preparation
 
-You're reading Phase 1 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
+You're reading Phase 1 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
 
 * Understand Purpose
 * Rearrange the Furniture
@@ -112,4 +112,4 @@ Facilitators do their best work when they can adapt effectively to the emergent 
 * Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc (but this often left implicit).
 
 
-> Move on to [Phase 2](commencing.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).
+> Move on to [Phase 2](commencing.md) of the [5 Phases of Faciliation in Loomio](index.md).

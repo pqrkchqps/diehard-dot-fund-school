@@ -44,16 +44,3 @@ Format: thinking about facilitation first, then applying each concept to the Loo
     <p>Going on together... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae quam elit.</p>
   </div>
 </a>
-
-<!--
-* [1. Preparation](preparation.md)
-* [2. Commencing](commencing.md)
-* [3. Underway](underway.md)
-* [4. Concluding](concluding.md)
-* [5. Ongoing Practice](ongoing_practice.md)
-
-One sentence about each phase.
-
-Diagrams or images for each section.
-
--->

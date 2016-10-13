@@ -1,6 +1,6 @@
 # Commencing
 
-You're reading Phase 2 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
+You're reading Phase 2 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
 
 * Invitation
 * Arrival
@@ -117,4 +117,4 @@ Like a legal contract, you hope you never have to enforce your code of conduct, 
 * Some core protocol issues are answered simply by using Loomio in the most basic way - who is allowed here, how do we communicate.
 * One of the most basic protocol related decisions Loomio users all encounter is their decision-making protocol - Consensus? Majority? Quorum? Unanimity?
 
-> Move on to [Phase 3](underway.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).
+> Move on to [Phase 3](underway.md) of the [5 Phases of Faciliation in Loomio](index.md).

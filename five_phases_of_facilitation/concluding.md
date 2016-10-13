@@ -1,6 +1,6 @@
 # Concluding
 
-You're reading Phase 4 of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md). In this phase we'll cover:
+You're reading Phase 4 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
 
 * Outcomes & Next Steps
 * Reporting & Harvesting
@@ -71,4 +71,4 @@ Participants often look to the leader or facilitator for confirmation of when it
 * Make a point of celebrating milestones
 
 
-> Move on to [Phase 5](ongoing_practice.md) of the [5 Phases of Faciliation in Loomio](five_phases_of_facilitation.md).
+> Move on to [Phase 5](ongoing_practice.md) of the [5 Phases of Faciliation in Loomio](index.md).
