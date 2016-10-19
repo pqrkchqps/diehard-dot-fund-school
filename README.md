@@ -4,10 +4,10 @@ Thousands of groups around the world are using [Loomio](http://loomio.org) to ma
 
 We've compiled all this amazing content to help your group become collaboration experts.
 
-<a href="tool.html">
+<a href="user_manual.html">
   <div class="tile tile-1">
-    <h2>How the tool works 🖥</h2>
-    <p>A quick introduction to the software</p>
+    <h2>User manual 🖥</h2>
+    <p>Detailed explanations for every part of the software</p>
   </div>
 </a>
 
