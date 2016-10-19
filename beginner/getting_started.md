@@ -15,7 +15,7 @@ Check who’s here and **invite people** if anyone is missing:
 * you can copy the **shareable link** and send it to people by email or instant messenger,
 * or **enter their email address** and Loomio will send them an invitation.
 
-[<small>❓ More about invitations.</small>](./user_manual/inviting_new_members.html)
+[<small>❓ More about invitations.</small>](../user_manual/inviting_new_members.html)
 
 
 ---
@@ -32,7 +32,7 @@ Use the **thread title** and **context** to introduce the topic: keep each threa
 
 Anyone in the group can contribute to the discussion by posting a **comment**, where they can **@mention** people to get their attention and **attach files** to share additional information.
 
-<small>❓ More about <a href="./user_manual/discussion_threads.html">discussion threads</a> and <a href="./user_manual/comments.html">comments</a>.</small>
+<small>❓ More about <a href="../user_manual/discussion_threads.html">discussion threads</a> and <a href="../user_manual/comments.html">comments</a>.</small>
 
 
 
@@ -67,7 +67,7 @@ While the proposal is open, everyone in the group can **state their position**, 
 
 When the proposal closes, notify everyone of the **outcome** so the next steps are clear.
 
-<small>❓ More about <a href="./user_manual/proposals.html">proposals</a>.</small>
+<small>❓ More about <a href="../user_manual/proposals.html">proposals</a>.</small>
 
 ---
 
