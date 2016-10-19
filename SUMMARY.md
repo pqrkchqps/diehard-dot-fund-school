@@ -18,8 +18,8 @@
      * [Terms of Service](user_manual/terms_of_service.md)
      * [Privacy Policy](user_manual/privacy_policy.md)
      * [Third Party Services](user_manual/third_party_services.md)
-
-
+* [Loomio 101](loomio_101/index.md)
+  * [Getting Started: 2 minute intro](loomio_101/getting_started.md)
 * [Facilitation in Loomio](facilitation.md)
   * [Activate Your Group](activate_your_group.md)
   * [Advanced: 5 Phases of Facilitation in Loomio](five_phases_of_facilitation/index.md)
@@ -28,6 +28,6 @@
     * [3. Underway](five_phases_of_facilitation/underway.md)
     * [4. Concluding](five_phases_of_facilitation/concluding.md)
     * [5. Ongoing Practice](five_phases_of_facilitation/ongoing_practice.md)
-* [Humans of Loomio](humans_of_loomio.md)
+* [Stories from Loomio users](humans_of_loomio.md)
 * [Coaching resources](coaching_resources.md)
 * [The Future of Working Together](future_of_work.md)
