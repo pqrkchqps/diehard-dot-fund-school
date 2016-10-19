@@ -2,6 +2,7 @@
 
 *More heavy-duty articles explaining a workflow in depth, with a video from a real example, also available in pdf form*
 
+* [How to deal with trolls](trolls.md)
 * Supercharge a meeting (need example)
 * Engage the public in policy development (Stats)
 * Host an AGM online (Robin Hood?)

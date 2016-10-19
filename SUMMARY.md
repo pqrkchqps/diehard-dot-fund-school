@@ -2,6 +2,7 @@
   * [Getting Started: 2 minute intro](beginner/getting_started.md)
   * [Starting a Loomio group](beginner/starting_a_loomio_group.md)
 * [Intermediate: How to...](intermediate/index.md)
+  * [How To Handle Trolls](intermediate/trolls.md)
 * [Advanced](advanced/index.md)
   * [5 Phases of Facilitation in Loomio](five_phases_of_facilitation/index.md)
     * [1. Preparation](five_phases_of_facilitation/preparation.md)
