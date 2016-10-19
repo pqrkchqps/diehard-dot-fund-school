@@ -4,40 +4,28 @@ Thousands of groups around the world are using [Loomio](http://loomio.org) to ma
 
 We've compiled all this amazing content to help your group become collaboration experts.
 
-<a href="user_manual.html">
-  <div class="tile tile-1">
-    <h2>User manual 🖥</h2>
-    <p>Detailed explanations for every part of the software</p>
-  </div>
-</a>
 
-<a href="facilitation.html">
-  <div class="tile tile-2">
-    <h2>Loomio Facilitation 🐝</h2>
-    <p>Learn how to be efficient and effective</p>
-  </div>
-</a>
+[## Beginner 📕](beginner/index.md)
+[2-minute guides to introduce the Loomio basics](beginner/index.md)
 
-<a href="humans_of_loomio.html">
-  <div class="tile tile-3">
-    <h2>Humans of Loomio 🐒</h2>
-    <p>Stories from people using Loomio across government, community and business</p>
-  </div>
-</a>
+[## Intermediate 📙](intermediate/index.md)
+[Workflows: use Loomio to supercharge meetings, engage staff for policy development, or host your AGM online](intermediate/index.md)
 
-<a href="coaching_resources.html">
-  <div class="tile tile-4">
-    <h2>Coaching resources ⚽️</h2>
-    <p>Runsheets and training guides</p>
-  </div>
-</a>
+[## Advanced 📙](advanced/index.md)
+[In-depth courses to push the limit of digital facilitation](advanced/index.md)
 
-<a href="future_of_work.html">
-  <div class="tile tile-5">
-    <h2>Future of Work 🚀</h2>
-    <p>Articles, podcasts and videos from the cutting edge of collaborative organising</p>
-  </div>
-</a>
+[## Stories 🐒](humans_of_loomio.html)
+[Stories from people using Loomio across government, community and business.](humans_of_loomio.html)
+
+[## Future of Work 🚀](future_of_work.html)
+[Articles, podcasts and videos from the cutting edge of collaborative organising](future_of_work.html)
+
+[## Coaching resources ⚽️](coaching_resources.html)
+[Workshop runsheets and training guides.](coaching_resources.html)
+
+[## User manual 🖥](user_manual.html)
+[Detailed explanations for every part of the software](user_manual.html)
+
 
 ---
 

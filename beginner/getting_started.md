@@ -1,7 +1,7 @@
 # Getting Started With Loomio
 
 
-{% video %}https://www.youtube.com/watch?v=KS-_g437VD4{% endvideo %}
+{% video %}https://www.youtube.com/watch?v=REgF_cGYqOs{% endvideo %}
 
 
 ## 1. Gather
