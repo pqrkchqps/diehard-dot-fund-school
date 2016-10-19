@@ -73,7 +73,7 @@ When the proposal closes, notify everyone of the **outcome** so the next steps a
 
 ## Next Chapter
 
-Being a Loomio group coordinator is a lot like hosting a great meeting. [Read on for some tips for being a great host...](#)
+Being a Loomio group coordinator is a lot like hosting a great meeting. [Read on for some tips on **starting a Loomio group**](starting_a_loomio_group.md)
 
 Building a habit...
 

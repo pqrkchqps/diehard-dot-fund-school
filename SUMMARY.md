@@ -1,5 +1,6 @@
 * [Beginner: Loomio 101](beginner/index.md)
   * [Getting Started: 2 minute intro](beginner/getting_started.md)
+  * [Starting a Loomio group](starting_a_loomio_group.md)
 * [Intermediate: How to...](intermediate/index.md)
 * [Advanced](advanced/index.md)
   * [5 Phases of Facilitation in Loomio](five_phases_of_facilitation/index.md)

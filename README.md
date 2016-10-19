@@ -12,7 +12,7 @@ We've compiled all this amazing content to help your group become collaboration 
 * **[Advanced](advanced/index.md)** in-depth courses to push the limit of digital facilitation
 
 ### [Humans of Loomio 🐒](humans_of_loomio.html)
-[Stories from people using Loomio across government, community and business.](humans_of_loomio.html)
+[Stories from people using Loomio in co-ops, government, community and business.](humans_of_loomio.html)
 
 ### [Future of Work 🚀](future_of_work.html)
 [Articles, podcasts and videos from the cutting edge of collaborative organising](future_of_work.html)
