@@ -8,23 +8,6 @@
   color: auto;
 }
 
-/*FRONT PAGE TILES*/
-.tile{
-  padding: 0.5em;
-  margin: 0 10px 10px 0;
-  width: calc(50% - 10px);
-  float: left;
-}
-
-.tile a, .media-list a{ color: #333; }
-.tile h2{ margin: 0; }
-.tile p{ margin-bottom: 0; }
-
-.tile-1{ background: lightyellow; }
-.tile-2{ background: lightpink; }
-.tile-3{ background: lavender; }
-.tile-4{ background: lightblue; }
-.tile-5{ background: lightcoral; }
 
 /*CHAPTER PAGE TILES*/
 
@@ -38,12 +21,6 @@
 .media-tile a{color: #333;}
 .media-tile img{width: 100%;}
 .media-tile h3{font-size: 120%}
-
-h1#user-manual-🖥    { background: lightyellow; padding-left: 10px; }
-#facilitation{ background: lightpink; padding-left: 10px; }
-h1#humans-of-loomio-🐒      { background: lavender; padding-left: 10px; }
-h1#coaching-resources-⚽    { background: lightblue; padding-left: 10px; }
-h1#future-of-work-🚀        { background: lightcoral; padding-left: 10px; }
 
 @media only screen and (max-width: 970px) {
   .tile, .media-tile{

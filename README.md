@@ -7,9 +7,9 @@ We've compiled all this amazing content to help your group become collaboration 
 
 ### Guides 📗
 
-* **[Beginner: Getting Started 📕](beginner/index.md)** 2-minute guides to introduce the basics.
-* **[Intermediate: How to... 📙](intermediate/index.md)** use Loomio to supercharge meetings, engage staff for policy development, or host your AGM online.
-* **[Advanced 📗](advanced/index.md)** in-depth courses to push the limit of digital facilitation
+* **[Beginner: Getting Started](beginner/index.md)** 2-minute guides to introduce the basics.
+* **[Intermediate: How to...](intermediate/index.md)** use Loomio to supercharge meetings, engage staff for policy development, or host your AGM online.
+* **[Advanced](advanced/index.md)** in-depth courses to push the limit of digital facilitation
 
 ### [Humans of Loomio 🐒](humans_of_loomio.html)
 [Stories from people using Loomio across government, community and business.](humans_of_loomio.html)
