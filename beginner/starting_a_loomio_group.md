@@ -38,7 +38,7 @@ Uploading a cover photo that has some meaning to your group significantly improv
 
 If you have one, use a photo from the last time you gathered together as a group. Or, if you need some inspiration, Check out [Unsplash](https://unsplash.com/), a gallery of beautiful, free images.
 
-## Start an introductions thread
+## Edit the introductions thread
 
 When you arrive in a new space it can feel strange until you meet some other people there. A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable about using the tool.
 
