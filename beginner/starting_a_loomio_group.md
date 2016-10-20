@@ -1,16 +1,22 @@
 # Setting up a Loomio group and inviting people in.
 
-Don't rush through setting up your group- it's when you create the arrival experience for the rest of your group.
+Getting started is often the hardest part of using Loomio within a group. The promise is that if you take care to ensure that everyone is signed up, familiar with the tool, and comfortable about practicing decision making together, then the group will come to life as people start discussions and raise proposals under their own initiative.
 
-It's likely that people have some apprehensions about joining an online decision making space - For now, you're the host, and this is your opportunity to make them feel welcome and comfortable.
+It's easy to get excited about a potentially transformative experience at this point, but before you get too carried away, you have to get the basics right.
+
+It's realistic to expect that people have some apprehensions about joining an online decision making space, so before you invite people in, we recommend you spend some time preparing the online space to ensure a good arrival experience for the others.
 
 You can learn a lot about how to host a Loomio group by looking at how to host an in-person meeting.
 
 For example: It's important to send invitations which explain what the meeting is about, when it is and how to get there. On the day of, you would arrange the furniture and setup the space to create a sense of purpose. Once people have arrived, a round of introductions lets people know who is in the room. Beginning the discussion with a short presentation ensures that people have the information they need to partipate well.
 
-It sounds simple but it takes some thought and experience to do it well.
-
 This is list of the main things you can do to shape the experience people have when they arrive in your group. We recommend you adapt the advice to suit the needs of your group.
+
+## Have a play around
+If you're inviting people to your own space, you'll need to point out the bathrooms, and instruct people about what to do during an emergency.
+
+Likewise, It's important that you have a good grasp of tool, so you can assist others.
+Take particular note of the group settings panel. Ensure the privacy setting is right for your group, and have a look at the advanced settings to ensure they meet your needs.
 
 ## Define your group puprose
 
@@ -24,7 +30,7 @@ If you have not discussed purpose with your group, then we highly recommend that
 
 Seeing someone's face next to what they've written can make a big difference to the reading experience.
 
-The invitation email people get when you invite them to join your group includes your profile photo to make it feel more trustworthy. So before you send invitations out you need to upload your profile photo.
+The invitation email people receive when you invite them to join your group includes your profile photo to make it feel more trustworthy. So before you send invitations out you need to upload your profile photo.
 
 ## Upload a group cover photo
 
@@ -34,11 +40,9 @@ If you have one, use a photo from the last time you gathered together as a group
 
 ## Start an introductions thread
 
-When you arrive in a new space it can feel strange until you meet some other people there.
+When you arrive in a new space it can feel strange until you meet some other people there. A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable about using the tool.
 
-Start a thread inviting people to introduce themselves  and share something about why they've joined, or what's on their mind, or what experience they have. It's a great way to start building relationships within the group.
-
-It's also the first time of writing a comment in a Loomio thread for many people, so it's a good time for people get comfortable with using Loomio.
+New groups start with an introductions thread created automatically, but we recommend you edit the thread to make it yours. Maybe add a question prompting people to share questions they are holding, or what experience they bring to the group.
 
 ## Invite people into their new space.
 
