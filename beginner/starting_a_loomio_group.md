@@ -48,6 +48,6 @@ New groups start with an introductions thread created automatically, but we reco
 
 So you've written up your purpose, uploaded your profile picture, set a group photo and started a thread for people to participate in when they arrive. You're ready to invite people into the group!
 
-You can enter email addresses to have invitation emails sent to people, or share a team link with people if that's easier. The important thing at this stage is that you followup on people who miss the invitation email or get stuck when signing up. You don't want people feeling left out, or a group of people making decisions without some of the people.
+You can enter email addresses to have invitation emails sent to people, or share a team link with people if that's easier. The important thing at this stage is that you followup on people who miss the invitation email or get stuck when signing up. You don't want people feeling left out, or a group of people making decisions without some of the members.
 
 You can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention.
