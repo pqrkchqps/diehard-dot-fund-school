@@ -59,6 +59,8 @@ This is really great way to remind people what was agreed to in the meeting.
 Are there voices that the decision effects, who have not shared an opinion?
 Are there experts in the field that you could bring into the room?
 
+Hold space for differing opinions.
+
 
 ## When there are complex things to get your head around, Delegate to a working group which then reports back to the group
 
