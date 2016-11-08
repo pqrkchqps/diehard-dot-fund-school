@@ -2,55 +2,47 @@
 
 To facilitate means to mediate and support group communication and interaction toward a desired outcome.
 
-That outcome might be something like, everyone participated in the process to plan how organisation is going to focus on and why for the next 90 days
+That outcome might be something like, everyone participated in the process to plan how what organisation is going to focus on for the next 90 days
 
-Or.. We acknowledge some issue, and agree a way through it.
+Or.. address some issue, and agree a way through it.
 
 Facilitation - to me - means enabling a group to have a good discussion.
 
-Acts of facilitation can come from anywhere. As you practice collaborative decision making everyone will learn how to work together to have a good discussion.
+Acts of facilitation can come from anywhere. As you practice collaborative decision making your group will gradualy, and continuously learn about this work together.
 
-You're on a journey to learn how to make decisions together.
+Facilitation is a deep subject, an art, that takes a life time of practice.
 
-Facilitation is a deep subject, an art, that takes a life time of practice. Making decisions with a group of people is real work, as well as care.
+Facilitation takes many shapes and forms. Groups learn to be facilitated.
 
-Facilitation takes many shapes and forms.
-Groups learn to be facilitated.
-
-
-But this is the list of things you'll want to know when starting out on this journey.
+This is the list of things you'll want to know when starting out on this journey.
 
 
-## Look after your group.
+## Safety first: Look after your group.
 
-Or ask someone else to do so.
+Look after the fabric of your group it's more important than any issue at hand.
 
-You're doing this out of care and belief in your group. Good on you.
+If things sound hurtful, or super tense, check in on people. Pickup the phone and ask if they're ok, ask people who don't seem to be making progress to talk to each other in person or video call.
 
-Monitor how things are going. Sometimes writing on the internet can get really intense, and it's worth checking in with people (maybe outside of Loomio) to check they are ok. Or asking people who don't seem to be making progress to talk to each other in person or video call.
+Be open about getting feedback about how the group is running. It helps build trust when you discuss your use of Loomio together.
 
-Be open about getting feedback about how the group is running. It helps build the group to discuss your use of Loomio together.
+Remember to look out for those people who are usually quiet. Consider what experience they are having. Don't just call them out.
 
-Another tip is look out for those people who are usually quiet. Consider what experience they are having.
-
-## Safety first.
-If things sound hurtful, or super tense, check in on people. Pickup the phone and ask if they're ok. Look after the fabric of your group.
-
-Pickup the phone and talk with people.
-This can be challenging stuff, be there to listen and offer alternatives and patients to people. Look after people.
-Have video calls and in person time if you can too.
+* silvia quote about putting quiet people on the spot *
 
 ## Host a discussion about how you want use Loomio together.
+Talk about facilitation together. Have a proposal to confirm who is going to take the role of facilitator and for how long.
+
+Seek permission to facilitate your group or start a discussion on facilitation and see what emerges.
+
 What kind of things are you happy to talk about?
 Who's responsible for the safety of people in the group?
 What kind of behaviour is not ok?
 We recommend you ask people to commit to using Loomio for a time period with a retrospective at the end.
-Seek permission to facilitate your group or start a discussion on facilitation and see what emerges.
 
 ## Suggest that someone moves their discussion to loomio.
-If you hear people discussing something, or you see an email conversation that should be on loomio.. say so, kindly ask people to commit to using the tool.
+If you hear people discussing something in a meeting, or you see an email conversation that should be on loomio.. say so, kindly ask people to commit to using the tool. If you've discussed using loomio together this will just be a helpful reminder.
 
-Or make a comment like: As we discussed today, we've decied that ...
+Keep threads up to date with conversation: make a comment like: As we discussed today, we've decided that ...
 
 ## take notes in your meetings and post them to loomio.
 This is really great way to remind people what was agreed to in the meeting.

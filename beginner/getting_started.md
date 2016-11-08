@@ -1,10 +1,9 @@
 # Start a group and welcome people in
 
-Getting started - it's often the hardest step of anything.
 
 Take your time to setup your Loomio group. This is when you create the experience for those who join the group.
 
-For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together. The promise is, if you do it well, the group will come to life as people start discussions and raise proposals under their own initiative.
+Getting started - it's often the hardest part. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together. The promise is, if you do it well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
 It's easy to get excited about a potentially transformative experience at this point, but before you get too carried away, you have to get the basics right.
 
@@ -67,3 +66,5 @@ So you've written up your purpose, uploaded your profile picture, set a group ph
 You can enter email addresses to have invitation emails sent out, or share a team link with people if that's easier. The important thing at this stage is that you followup on people who miss the invitation email or get stuck when signing up. You don't want people feeling left out, or a group of people making decisions without some of the members.
 
 You can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention. --link to explain at mention--
+
+Next: Read our [Facilitation tips](discussions.md).

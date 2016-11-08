@@ -5,7 +5,7 @@
   * [Practical facilitation tips](beginner/discussions.md)
   * [Ways to use Proposals](beginner/proposals.md)
 
-* [Facilitation](intermediate/index.md)
+* [Facilitation Guides](intermediate/index.md)
   * [How To Handle Trolls](intermediate/trolls.md)
   * Talk about facilitation with your group.
   * [Did we mention proposals already?](intermediate/proposals_are_usually_the_answer.md)
