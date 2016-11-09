@@ -1,33 +1,35 @@
-# Start a group and welcome people in
+# Starting your group on Loomio
 
+The value of Loomio is unlocked when everyone in the group is able to participate.
 
+This means getting everyone signed up, familiar with the software, and comfortable making decisions together.
 
+If you do it well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
-Getting started - it's often the hardest part. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together. The promise is, if you do it well, the group will come to life as people start discussions and raise proposals under their own initiative.
+## Talk about using Loomio.
 
-<div class="emoji-bullet">🍰</div> _Take your time to setup your Loomio group. This is when you create an experience for those who join the group._
+_Meta: I'm going to talk to our consultatnts about this section_
 
-It's easy to get excited about a potentially transformative experience at this point, but before you get too carried away, you have to get the basics right.
+It's realistic to expect that people have some apprehensions about joining an online decision making space, so we recommend you spend time talking to your group about using Loomio.
 
-## Have conversations about using Loomio.
+Identify what the group wants to achieve together. Write this down.
 
-It's realistic to expect that people have some apprehensions about joining an online decision making space, so before you do anything else, we recommend you spend some time talking to people in your group about using Loomio.
+Talk to your group about your interest in trying Loomio to see if it suits your needs. Discuss what Loomio is, and how you might use it in your group.
 
-Talk to your group about your interest in trying Loomio to see if it suits your needs. Discuss what Loomio is, and how you might use it in your group. Here are some resources you can share with people, which will hopefully answer their questions.
-
-* It's a very easy to use tool for having discussions and making collaborative decisions online.
-* It works on your phone and your computer.
 * It can save time on meetings - some things are easier to sort out online.
 * Everyone can have input on decisions and Loomio helps to ensure that decision making is clear.
 * The software does not decide anything for you. It just helps to draw discussion to conclusion.
-* It's free to use, but we appreciate it if people pay a subscription, which gives you Slack integration and removes donation prompts. (wonky)
+
 
 ## Start a group and familiarise yourself with the settings.
-If you're inviting people to your own space, they'll look to you when they need something.
 
-Likewise, It's important that you have a good grasp of the tool, so you can assist others - there are so many factors to having a smooth experience of new technology, a little help can get people through a frustrating time.
+It's important that you have a good understanding of how to use Loomio so you can assist others.
 
-Take particular note of the group settings panel. Ensure the privacy setting is right for your group, and have a look at the advanced settings to ensure they meet your needs.
+There are so many factors to having a smooth experience of new technology, the right support can get people through a frustrating time unscathed.
+
+Join the [Learning to use Loomio group](), where you can practice using Loomio in a demo environment.
+
+Also make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are, and take particular note of the privacy settings and ensure they're right for your situation.
 
 ## Define your group purpose
 
