@@ -1,19 +1,15 @@
 # Start a group and welcome people in
 
 
-Take your time to setup your Loomio group. This is when you create the experience for those who join the group.
+
 
 Getting started - it's often the hardest part. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together. The promise is, if you do it well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
+<div class="emoji-bullet">🍰</div> _Take your time to setup your Loomio group. This is when you create an experience for those who join the group._
+
 It's easy to get excited about a potentially transformative experience at this point, but before you get too carried away, you have to get the basics right.
 
-<!-- You can learn a lot about how to host a Loomio group by looking at how to host an in-person meeting.
-
-For example: It's important to send invitations which explain what the meeting is about, when it is and how to get there. On the day of, you would arrange the furniture and setup the space to create a sense of purpose. Once people have arrived, a round of introductions lets people know who is in the room. Beginning the discussion with a short presentation ensures that people have the information they need to participate well.
-
-This is list of the main things you can do to shape the experience people have when they arrive in your group. We recommend you adapt the advice to suit the needs of your group. -->
-
-## Talk to people about using Loomio.
+## Have conversations about using Loomio.
 
 It's realistic to expect that people have some apprehensions about joining an online decision making space, so before you do anything else, we recommend you spend some time talking to people in your group about using Loomio.
 
