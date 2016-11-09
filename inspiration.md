@@ -1,4 +1,4 @@
-# Future of Work 🚀
+# Inspiration 🚀
 
 *Podcasts, videos, and articles from the cutting edge of non-hierarchical organising and decentralised leadership.*
 
