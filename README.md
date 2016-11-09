@@ -1,36 +1,46 @@
-# Loomio School 🎓
+# Loomio School
 
-Thousands of groups around the world are using [Loomio](http://loomio.org) to make decisions together.
+Thousands of groups around the world are using [Loomio](http://loomio.org): a software tool for making group decisions online.
 
-We've compiled all this amazing content to help your group become collaboration experts.
+While the tool is very easy to use, we all know that group decision-making can be hard, so we've compiled these resources to help your group become collaboration experts.
 
 
-### Learn to use Loomio
-[2-minute guides to introduce the basics.](beginner/index.md)
 
-### Guides & How To's...
-[Use Loomio to supercharge meetings, engage staff for policy development, or host your AGM online.](guides/index.md)
+<div style="font-size: 250%; float: left; margin:-4px 4px 0 0;">💡</div>
 
-### Extended Learning
-[In-depth courses to push the limit of digital facilitation](extended/index.md)
+**Learn to use Loomio**
+[Spend a few minutes getting familiar with the basics.](beginner/index.md)
 
-### Case Studies & User Stories 🐒
+
+<div style="font-size: 250%; float: left; margin:-4px 4px 0 0;">📗</div>
+
+**Guides & How To's**
+[Practical guides explaining how Loomio fits in with your other group processes.](guides/index.md)
+
+
+<div style="font-size: 250%; float: left; margin:-4px 4px 0 0;">🐒</div>
+
+**Case Studies & User Stories**
 [Stories from people using Loomio in co-ops, government, community and business.](case_studies.html)
 
-### Inspiration 🚀
-[Articles, podcasts and videos from the cutting edge of collaborative organising](inspiration.html)
 
-### Coaching Resources ⚽
+<div style="font-size: 250%; float: left; margin:-4px 4px 0 0;">🎓</div>
+
+**Extended Learning**
+[In-depth courses to push the limit of digital collaboration.](extended/index.md)
+
+
+<div style="font-size: 250%; float: left; margin:-4px 6px 0 0;">⚽</div>
+
+**Coaching Resources**
 [Workshop runsheets and training guides.](coaching_resources.html)
 
-### User manual 🖥
-[Detailed explanations for every part of the software](https://help.loomio.org/)
+
+<div style="font-size: 250%; float: left; margin:-4px 6px 0 0;">🚀</div>
+
+**Inspiration**
+[Articles, podcasts and videos from the cutting edge of collaborative organising.](inspiration.html)
 
 
----
 
-Get in touch if you want!
-
-This is a work in progress.
-
-This is how to contribute.
+If you're looking for more support, [get in touch](https://loomio.org/contact). We have a global network of collaboration experts available.
