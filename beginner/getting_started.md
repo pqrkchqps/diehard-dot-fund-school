@@ -8,11 +8,13 @@ If you do it well, the group will come to life as people start discussions and r
 
 ## Talk about using Loomio.
 
-_Meta: I'm going to talk to our consultatnts about this section_
+_Meta: I need to get input from our team and consultants for this section._
 
 It's realistic to expect that people have some apprehensions about joining an online decision making space, so we recommend you spend time talking to your group about using Loomio.
 
 Identify what the group wants to achieve together. Write this down.
+
+Discuss a trial? Ensure you have commitment so you can follow up when people don't participate.
 
 Talk to your group about your interest in trying Loomio to see if it suits your needs. Discuss what Loomio is, and how you might use it in your group.
 
@@ -57,12 +59,16 @@ When you arrive in a new space it can feel strange until you meet some other peo
 
 New groups start with an introductions thread created automatically, but we recommend you edit the thread to make it yours. Maybe ask people to share questions they are holding, or what experience they bring to the group.
 
-## Invite people into their new space.
+## Invite people into their new space and follow up those who don't get in.
 
-So you've written up your purpose, uploaded your profile picture, set a group photo and setup a thread for people to participate in when they arrive. You're ready to invite people into the group!
+You're ready to invite people into the group!
 
-You can enter email addresses to have invitation emails sent out, or share a team link with people if that's easier. The important thing at this stage is that you followup on people who miss the invitation email or get stuck when signing up. You don't want people feeling left out, or a group of people making decisions without some of the members.
+If you have email addresses, you can send invitations to each member of your group.
 
-You can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention. --link to explain at mention--
+If your group already has a space to chat together, share the team link in that channel.
+
+The important thing at this stage is that you followup on people who don't sign up. You don't want people feeling left out, or a group of people making decisions without some of the members.
+
+If you sent email invitations, you can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention. --link to explain at mention--
 
 Next: Read our [Facilitation tips](discussions.md).
