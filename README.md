@@ -5,19 +5,22 @@ Thousands of groups around the world are using [Loomio](http://loomio.org) to ma
 We've compiled all this amazing content to help your group become collaboration experts.
 
 
-### Guides 📗
+### Learn to use Loomio
+[2-minute guides to introduce the basics.](beginner/index.md)
 
-* **[Beginner: Getting Started](beginner/index.md)** 2-minute guides to introduce the basics.
-* **[Intermediate: How to...](intermediate/index.md)** use Loomio to supercharge meetings, engage staff for policy development, or host your AGM online.
-* **[Advanced](advanced/index.md)** in-depth courses to push the limit of digital facilitation
+### Guides & How To's...
+[Use Loomio to supercharge meetings, engage staff for policy development, or host your AGM online.](guides/index.md)
 
-### Humans of Loomio 🐒
-[Stories from people using Loomio in co-ops, government, community and business.](humans_of_loomio.html)
+### Extended Learning
+[In-depth courses to push the limit of digital facilitation](extended/index.md)
 
-### Future of Work 🚀
-[Articles, podcasts and videos from the cutting edge of collaborative organising](future_of_work.html)
+### Case Studies & User Stories 🐒
+[Stories from people using Loomio in co-ops, government, community and business.](case_studies.html)
 
-### Coaching resources ⚽️
+### Inspiration 🚀
+[Articles, podcasts and videos from the cutting edge of collaborative organising](inspiration.html)
+
+### Coaching Resources ⚽
 [Workshop runsheets and training guides.](coaching_resources.html)
 
 ### User manual 🖥

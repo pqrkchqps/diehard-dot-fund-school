@@ -1,4 +1,4 @@
-# Intermediate
+# Guides & How To's
 
 *More heavy-duty articles explaining a workflow in depth, with a video from a real example, also available in pdf form*
 

@@ -3,14 +3,14 @@
   * [Starting your group](beginner/getting_started.md)
   * [Joining a Loomio group](beginner/joining_a_group.md)
   * [Practical facilitation tips](beginner/discussions.md)
-  * [Ways to use Proposals](beginner/proposals.md)
+  * [Ways to use proposals](beginner/proposals.md)
 
-* [Facilitation Guides](intermediate/index.md)
-  * [How To Handle Trolls](intermediate/trolls.md)
+* [Guides & How To's](guides/index.md)
+  * [How To Handle Trolls](guides/trolls.md)
   * Talk about facilitation with your group.
-  * [Did we mention proposals already?](intermediate/proposals_are_usually_the_answer.md)
+  * [Did we mention proposals already?](guides/proposals_are_usually_the_answer.md)
 
-* [Advanced](advanced/index.md)
+* [Extended Learning](extended/index.md)
   <!-- * Enspiral Practices
     * [Taking notes at a meeting](facilitation/taking_notes.md)
     * [Hosting a meeting with local and remote people](facilittion/hosting_a_meeting.md)
@@ -26,4 +26,4 @@
     * [5. Ongoing Practice](five_phases_of_facilitation/ongoing_practice.md)
 * [Stories from Loomio users](humans_of_loomio.md)
 * [Coaching resources](coaching_resources.md)
-* [The Future of Working Together](future_of_work.md)
+* [Inspiration](inspiration.md)
