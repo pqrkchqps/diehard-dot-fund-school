@@ -10,8 +10,11 @@
 
 
 /*FRONT PAGE*/
+
 .emoji-bullet{
-  font-size: 250%; float: left; margin:-4px 4px 0 0;
+  font-size: 250%;
+  float: left;
+  margin: -4px 4px 0 0;
 }
 
 
