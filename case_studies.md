@@ -1,4 +1,4 @@
-# Humans of Loomio 🐒
+# Case Studies & User Stories 🐒
 
 Stories from people using Loomio to make the world a better place. 1 feature video for each category, followed by a list of all the stories we have.
 

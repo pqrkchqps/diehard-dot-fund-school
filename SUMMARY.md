@@ -24,6 +24,6 @@
     * [3. Underway](five_phases_of_facilitation/underway.md)
     * [4. Concluding](five_phases_of_facilitation/concluding.md)
     * [5. Ongoing Practice](five_phases_of_facilitation/ongoing_practice.md)
-* [Stories from Loomio users](humans_of_loomio.md)
+* [Case Studies & User Stories](case_studies.md)
 * [Coaching resources](coaching_resources.md)
 * [Inspiration](inspiration.md)
