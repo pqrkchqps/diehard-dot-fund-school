@@ -1,6 +1,6 @@
 # Joining your first Loomio group
 
-If you don't know anything about Loomio, check out [overview](overview.md) first.
+If you're not sure what Loomio is, check out [overview](overview.md) first.
 
 If you've just been invited to a group and want to know things you can do to help it be a sucessful and nice place to be. Follow the tips below.
 
