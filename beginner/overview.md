@@ -1,6 +1,5 @@
-# Overview: Loomio in 2 minutes
+# What is Loomio?
 
-What is Loomio?
 
 {% video %}https://www.youtube.com/watch?v=REgF_cGYqOs{% endvideo %}
 
