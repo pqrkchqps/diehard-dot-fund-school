@@ -6,33 +6,33 @@ While the tool is very easy to use, we all know that group decision-making can b
 
 
 
-<div class=".emoji-bullet">💡</div>
-<strong>Learn to use Loomio</strong></br>
+<div class="emoji-bullet">💡</div>
+<strong>Learn to use Loomio</strong><br />
 [Spend a few minutes getting familiar with the basics.](beginner/index.md)
 
 
-<div class=".emoji-bullet">📗</div>
-<strong>Guides & How To's</strong></br>
+<div class="emoji-bullet">📗</div>
+<strong>Guides & How To's</strong><br />
 [Practical guides explaining how Loomio fits in with your other group processes.](guides/index.md)
 
 
-<div class=".emoji-bullet">🐒</div>
-<strong>Case Studies & User Stories</strong></br>
+<div class="emoji-bullet">🐒</div>
+<strong>Case Studies & User Stories</strong><br />
 [Stories from people using Loomio in co-ops, government, community and business.](case_studies.html)
 
 
-<div class=".emoji-bullet">🎓</div>
-<strong>Extended Learning</strong></br>
+<div class="emoji-bullet">🎓</div>
+<strong>Extended Learning</strong><br />
 [In-depth courses to push the limit of digital collaboration.](extended/index.md)
 
 
-<div class=".emoji-bullet">⚽</div>
-<strong>Coaching Resources</strong></br>
+<div class="emoji-bullet">⚽</div>
+<strong>Coaching Resources</strong><br />
 [Workshop runsheets and training guides.](coaching_resources.html)
 
 
-<div class=".emoji-bullet">🚀</div>
-<strong>Inspiration</strong></br>
+<div class="emoji-bullet">🚀</div>
+<strong>Inspiration</strong><br />
 [Articles, podcasts and videos from the cutting edge of collaborative organising.](inspiration.html)
 
 ---
