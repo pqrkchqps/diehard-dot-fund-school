@@ -1,5 +1,6 @@
 # Loomio Etiquette
 
+Every mode of communication comes with expectations about how it is used. 
 
 ## Respond in a timely fashion
 Staying up to date with the conversation is super important. Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. Generally it's a good idea to respond to Loomio posts within about a day.
@@ -12,6 +13,8 @@ if you notice that you are writing a comment that isn’t about the topic of the
 
 ## Be concise
 Summarise your thoughts into a paragraph or two. Long comments can be hard to follow.
+
+## Share what's on your mind
 
 ## Keep the title and context up to date
 Make it easy for people to catch up by updating the thread context and title with concise information as the discussion progresses. *link to help*
