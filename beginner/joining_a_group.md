@@ -13,7 +13,7 @@ Reading text on a screen can be a bit impersonal. Make things friendlier by addi
 ## Check if anyone is missing
 Check the members list on your Loomio group page. Are people missing? Maybe give them a phone call or an email to make sure they’ve got their invitation.
 
-## Introduce yourself
+## Say "Hello"
 There’s a thread in your group where you can introduce yourself. What part of your background is relevant to this group? What do you want to achieve together?
 
 ## Share relevant information: you can post links to other online content, or attach files and pictures to your comments.
