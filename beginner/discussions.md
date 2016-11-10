@@ -17,7 +17,7 @@ Facilitation takes many shapes and forms. Groups learn to be facilitated.
 This is the list of things you'll want to know when starting out on this journey.
 
 
-## Maintaining a safe environment.
+## Maintain a safe environment.
 
 Keeping people safe is more important than any issue you might discuss. As a facilitator it's part of your job to help the group to hold space for differing opinions.
 
