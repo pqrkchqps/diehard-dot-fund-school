@@ -1,10 +1,10 @@
 # Learn to use Loomio
 
-* [What is Loomio?](getting_started.md)
-* [Starting your group](starting_a_loomio_group.md)
+* [What is Loomio?](overview.md)
+* [Starting your group](getting_started.md)
 * [Joining a group](joining_a_group.md)
 * [Loomio Etiquette](loomio_etiquette.md)
-* Practical facilitation tips
-* How to use proposals
+* [Facilitating discussions](discussions.md)
+* [Using proposals](proposals.md)
 
 Once you've mastered the basics, check out some more advanced training resources, or stories of how people use Loomio.
