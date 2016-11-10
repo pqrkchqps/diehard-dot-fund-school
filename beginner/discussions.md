@@ -41,8 +41,6 @@ If you hear people discussing something in a meeting, or you see an email conver
 
 Keep threads up to date with conversation: make a comment like: As we discussed today, we've decided that ...
 
-## take notes in your meetings and post them to loomio.
-This is really great way to remind people what was agreed to in the meeting.
 
 ## bring people into the discussion
 Bring people into the discussion by mentioning them: type “@” followed by their name to let them know you’re looking for their input. Try to notice if people have not participated and mention them if you would like to hear them in the conversation.
