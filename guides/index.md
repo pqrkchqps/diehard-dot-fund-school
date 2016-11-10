@@ -9,3 +9,6 @@
 * Host an AGM online (Robin Hood?)
 * Develop a new policy over 3 months (Enspiral stewardship project)
 * Engage distributed members in nationwide policy (Action Station)
+
+Articles we recommend:
+* [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) by Joshua Vial.

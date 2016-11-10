@@ -12,7 +12,7 @@
    * [How To Handle Trolls](guides/trolls.md)
    * Talk about facilitation with your group.
    * [Did we mention proposals already?](guides/proposals_are_usually_the_answer.md)
-   * using_loomio_in_meetings.md
+   * [using_loomio_in_meetings.md](guides/using_loomio_in_meetings.md)
 * [Extended Learning](extended/index.md)
    * [5 Phases of Facilitation in Loomio](five_phases_of_facilitation/index.md)
        * [1. Preparation](five_phases_of_facilitation/preparation.md)
