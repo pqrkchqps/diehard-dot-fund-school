@@ -1,4 +1,4 @@
-# Ways to use proposals
+# Using proposals
 Proposals are our thing. We over use them. We really need to build more decision types into Loomio.. but we've managed a lot with a very simple too.
 
 Proposals have
