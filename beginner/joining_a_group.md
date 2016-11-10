@@ -27,7 +27,7 @@ Check the members list on your Loomio group page. Are people missing? Maybe give
 ## Say "Hello"
 _video of visiting group from sidebar, clicking thread, and saying hello_
 
-Every Loomio group starts off with an Introductions thread. This is a place where you can say hello and introduce yourself. Sharing why you've joined the group, and a little bit of information about yourself builds relationships within the group, which can help when you're making decisions together.
+Every Loomio group starts off with an Introductions thread. This is a place where you can say hello and introduce yourself. Share why you've joined the group, tell people something about yourself so they can understand you a bit better.
 
 
 *link to: Learn more about facilittion and proposals. *
