@@ -1,4 +1,4 @@
-# Advanced Course: 5 Phases of Facilitation in the Loomio Context
+# The Facilitator's Guide to Loomio 🐺
 
 Set the context for this section/course/set of chapters: what is facilitation? why should I care? what does it have to do with software? Who is writing this? What should I do after reading it?
 

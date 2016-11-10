@@ -10,20 +10,12 @@
   * Talk about facilitation with your group.
   * [Did we mention proposals already?](guides/proposals_are_usually_the_answer.md)
 
-* [Extended Learning](extended/index.md)
-  <!-- * Enspiral Practices
-    * [Taking notes at a meeting](facilitation/taking_notes.md)
-    * [Hosting a meeting with local and remote people](facilittion/hosting_a_meeting.md)
-    * [Start with a check-in]()
-    * [Have retrospectives]()
-    * [Iterate your processes together]() -->
-
-  * [5 Phases of Facilitation in Loomio](five_phases_of_facilitation/index.md)
-    * [1. Preparation](five_phases_of_facilitation/preparation.md)
-    * [2. Commencing](five_phases_of_facilitation/commencing.md)
-    * [3. Underway](five_phases_of_facilitation/underway.md)
-    * [4. Concluding](five_phases_of_facilitation/concluding.md)
-    * [5. Ongoing Practice](five_phases_of_facilitation/ongoing_practice.md)
+* [Facilitator's Guide to Loomio](facilitators_guide/index.md)
+  * [1. Preparation](facilitators_guide/preparation.md)
+  * [2. Commencing](facilitators_guide/commencing.md)
+  * [3. Underway](facilitators_guide/underway.md)
+  * [4. Concluding](facilitators_guide/concluding.md)
+  * [5. Ongoing Practice](facilitators_guide/ongoing_practice.md)
 * [Case Studies & User Stories](case_studies.md)
 * [Coaching resources](coaching_resources.md)
 * [Inspiration](inspiration.md)
