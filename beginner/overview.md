@@ -3,20 +3,15 @@
 
 {% video %}https://www.youtube.com/watch?v=REgF_cGYqOs{% endvideo %}
 
+Loomio is a online tool for groups of people to make decisions together. There are 4 key steps to using Loomio with your group.
 
 ## 1. Gather
 
 ![](https://i.imgur.com/0GuZDL3.png)
 
+A Loomio group is an online place for people to have discussions make decisions together.
 
-All your Loomio activity happens within a **group**.
-
-Check who’s here and **invite people** if anyone is missing:
-* you can copy the **shareable link** and send it to people by email or instant messenger,
-* or **enter their email address** and Loomio will send them an invitation.
-
-[<small>❓ More about invitations.</small>](https://loomio.gitbooks.io/manual/content/en/inviting_new_members.html)
-
+[Starting your group](getting_started.md) is our guide to making your group welcoming, purposeful and effective.
 
 ---
 
@@ -25,6 +20,11 @@ Check who’s here and **invite people** if anyone is missing:
 
 ![](https://i.imgur.com/NYkZvjk.png)
 
+
+Discussions are where people share their experience, preferences and points of view. Update the group on what's happening. 
+Each topic being discussed lives within it's own thread. Over time you'll create an archive of discussions.
+
+Robust discussion allows people to understand issues
 
 Start a **thread** to have a discussion with your group members.
 
