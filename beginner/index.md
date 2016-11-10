@@ -1,10 +1,10 @@
-# Loomio 101: the Basics
+# Learn to use Loomio
 
-* [Getting Started](getting_started.md)
-* [Starting a Loomio group](starting_a_loomio_group.md)
-* Forming a habit...
-* Navigating and keeping up to date...
-* 10 tips for great decisions
-* 9 ways to use a Loomio propsal
+* [What is Loomio?](overview.md)
+* [Starting your group](getting_started.md)
+* [Joining a group](joining_a_group.md)
+* [Loomio Etiquette](loomio_etiquette.md)
+* [Facilitating discussions](discussions.md)
+* [Using proposals](proposals.md)
 
 Once you've mastered the basics, check out some more advanced training resources, or stories of how people use Loomio.
