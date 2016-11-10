@@ -8,10 +8,9 @@ Staying up to date with the conversation is super important. Each communication 
 ## Think of others 💆🏽
 Bring people into the discussion by mentioning them: type “@” followed by their name to let them know you’re looking for their input. Try to notice if people have not participated and mention them if you would like to hear them in the conversation.
 
-## Stay on topic ☝️
+## Stay on topic and be concise☝️
 if you notice that you are writing a comment that isn’t about the topic of the thread, but is about something else... start a new thread!
 
-## Be concise
 Summarise your thoughts into a paragraph or two. Long comments can be hard to follow.
 
 ## Share what's on your mind 🗣
