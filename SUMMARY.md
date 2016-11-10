@@ -7,6 +7,7 @@
    * [Joining a group](beginner/joining_a_group.md)
    * [Practical facilitation tips](beginner/discussions.md)
    * [Ways to use proposals](beginner/proposals.md)
+   * Loomio Etiquette
 * [Guides & How To's](guides/index.md)
    * [How To Handle Trolls](guides/trolls.md)
    * Talk about facilitation with your group.
