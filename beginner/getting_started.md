@@ -1,6 +1,6 @@
 # Starting your group on Loomio
 
-Getting started - it's often the hardest part. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together. 
+Getting started - it's often the hardest part of anything you do. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together.
 
 The promise is, if done well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
