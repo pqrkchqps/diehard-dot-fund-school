@@ -6,7 +6,7 @@ The promise is, if done well, the group will come to life as people start discus
 
 This guide is for people who want to help their group adopt Loomio to make decisions together.
 
-## Talk about why you want to use Loomio. 👂👄🗣
+## Talk about how you want to use Loomio. 👂👄🗣
 
 _Meta: I need to get input from our team and consultants for this section._
 
@@ -23,6 +23,13 @@ Talk to your group about your interest in trying Loomio to see if it suits your 
 * It can save time on meetings - some things are easier to sort out online.
 * Everyone can have input on decisions and Loomio helps to ensure that decision making is clear.
 * The software does not decide anything for you. It just helps to draw discussion to conclusion.
+
+Seek permission to facilitate your group or start a discussion on facilitation and see what emerges.
+
+What kind of things are you happy to talk about?
+Who's responsible for the safety of people in the group?
+What kind of behaviour is not ok?
+We recommend you ask people to commit to using Loomio for a time period with a retrospective at the end.
 
 
 ## Start a group and familiarise yourself with the settings. 👀
