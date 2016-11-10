@@ -21,9 +21,9 @@ While the tool is very easy to use, we all know that group decision-making can b
 [Stories from people using Loomio in co-ops, government, community and business.](case_studies.html)
 
 
-<div class="emoji-bullet">🎓</div>
-<strong>Extended Learning</strong><br />
-[In-depth courses to push the limit of digital collaboration.](extended/index.md)
+<div class="emoji-bullet">🐺</div>
+<strong>The Facilitator's Guide to Loomio</strong><br />
+[How an experienced facilitator approaches Loomio.](facilitators_guide/index.md)
 
 
 <div class="emoji-bullet">⚽</div>
