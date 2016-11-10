@@ -4,7 +4,7 @@ Getting started - it's often the hardest part of anything you do. For a Loomio g
 
 The promise is, if done well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
-This is a guide for people who want to help their group adopt Loomio to make decisions together.
+This guide is for people who want to help their group adopt Loomio to make decisions together.
 
 ## Talk about using Loomio.
 
