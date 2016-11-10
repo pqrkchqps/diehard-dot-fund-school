@@ -23,6 +23,7 @@ Check the members list on your Loomio group page. Are people missing? Maybe give
 ## Say "Hello"
 There’s a thread in your group where you can introduce yourself. What part of your background is relevant to this group? What do you want to achieve together?
 
+## Loomio ettiquite
 
 ## Respond in a timely fashion
 
