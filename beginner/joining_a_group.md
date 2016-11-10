@@ -11,8 +11,7 @@ Reading text on a screen can be a bit impersonal. Make things friendlier by addi
 ## 📬 Configure your email settings.
 _video of visiting email page from loomio dashboard and modifying group settings_
 
-Email notifications are the main way Loomio keeps you updated on what's happening in 
-your group.
+Email notifications are the main way Loomio keeps you updated on what's happening in your group.
 
 By default we email you most of the activity on Loomio as it happens. This helps to keep people engaged in the early stages of a group, but can get overwhelming if there is a lot of activity.
 
