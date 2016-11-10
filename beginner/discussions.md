@@ -1,4 +1,4 @@
-# Practical facilitation of your group with Loomio.
+# Practical facilitation tips.
 
 To facilitate means to mediate and support group communication and interaction toward a desired outcome.
 
