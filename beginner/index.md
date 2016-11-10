@@ -3,7 +3,7 @@
 * [What is Loomio?](getting_started.md)
 * [Starting your group](starting_a_loomio_group.md)
 * [Joining a group](joining_a_group.md)
-* Loomio Etiquette
+* [Loomio Etiquette](loomio_etiquette.md)
 * Practical facilitation tips
 * How to use proposals
 
