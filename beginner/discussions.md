@@ -17,17 +17,14 @@ Facilitation takes many shapes and forms. Groups learn to be facilitated.
 This is the list of things you'll want to know when starting out on this journey.
 
 
-## Safety first: Look after your group.
+## Maintaining a safe environment.
 
-Look after the fabric of your group it's more important than any issue at hand.
+Keeping people safe is more important than any issue you might discuss. As a facilitator it's part of your job to help the group to hold space for differing opinions.
 
-If things sound hurtful, or super tense, check in on people. Pickup the phone and ask if they're ok, ask people who don't seem to be making progress to talk to each other in person or video call.
+If things sound hurtful, or super tense, be supportive of individuals on both sides. Sometimes it's a good idea to pick up the phone and have a conversation. When people don't seem to be making progress on Loomio, ask them to talk to each other in person or on a video call.
 
-Be open about getting feedback about how the group is running. It helps build trust when you discuss your use of Loomio together.
+Joshua Vial has written a great article on [resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) which you may find helpful.
 
-Remember to look out for those people who are usually quiet. Consider what experience they are having. Don't just call them out.
-
-* silvia quote about putting quiet people on the spot *
 
 ## Host a discussion about how you want use Loomio together.
 Talk about facilitation together. Have a proposal to confirm who is going to take the role of facilitator and for how long.
@@ -53,7 +50,11 @@ Bring people into the discussion by mentioning them: type “@” followed by th
 Are there voices that the decision effects, who have not shared an opinion?
 Are there experts in the field that you could bring into the room?
 
-Hold space for differing opinions.
+
+
+Remember to look out for those people who are usually quiet. Consider what experience they are having. Don't just call them out.
+
+* silvia quote about putting quiet people on the spot *
 
 ## Keep the title and context up to date
 Make it easy for people to catch up by updating the thread context and title with concise information as the discussion progresses. *link to help*
