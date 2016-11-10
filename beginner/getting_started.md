@@ -6,7 +6,7 @@ The promise is, if done well, the group will come to life as people start discus
 
 This guide is for people who want to help their group adopt Loomio to make decisions together.
 
-## Talk about why you want to use Loomio.
+## Talk about why you want to use Loomio. 👂👄🗣
 
 _Meta: I need to get input from our team and consultants for this section._
 
