@@ -4,11 +4,11 @@ If you're not sure what Loomio is, check out ["What is Loomio?"](overview.md).
 
 Someone has invited you to join a Loomio group! Here are the essential things you can do to support the group to get off to a good start.
 
-## 😀 Add your profile photo
+## 👩🏽 Add your profile photo
 _video of saving your facebook profile photo and uploading it to loomio_
 Reading text on a screen can be a bit impersonal. Make things friendlier by adding a profile photo to give a face to your name. 
 
-## ✉️ Configure your email settings.
+## 📬 Configure your email settings.
 _video of visiting email page from loomio dashboard and modifying group settings_
 
 Email notifications are the main way Loomio keeps you updated on what's happening in 
