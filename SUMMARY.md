@@ -5,9 +5,9 @@
    * [What is Loomio?](beginner/overview.md)
    * [Starting your group](beginner/getting_started.md)
    * [Joining a group](beginner/joining_a_group.md)
+   * [Loomio Etiquette](beginner/loomio_etiquette.md)
    * [Practical facilitation tips](beginner/discussions.md)
    * [Ways to use proposals](beginner/proposals.md)
-   * [Loomio Etiquette](beginner/loomio_etiquette.md)
 * [Guides & How To's](guides/index.md)
    * [How To Handle Trolls](guides/trolls.md)
    * Talk about facilitation with your group.
