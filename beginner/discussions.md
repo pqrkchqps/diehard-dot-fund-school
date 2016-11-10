@@ -26,16 +26,6 @@ If things sound hurtful, or super tense, be supportive of individuals on both si
 Joshua Vial has written a great article on [resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) which you may find helpful.
 
 
-## Host a discussion about how you want use Loomio together.
-Talk about facilitation together. Have a proposal to confirm who is going to take the role of facilitator and for how long.
-
-Seek permission to facilitate your group or start a discussion on facilitation and see what emerges.
-
-What kind of things are you happy to talk about?
-Who's responsible for the safety of people in the group?
-What kind of behaviour is not ok?
-We recommend you ask people to commit to using Loomio for a time period with a retrospective at the end.
-
 ## Suggest that someone moves their discussion to loomio.
 If you hear people discussing something in a meeting, or you see an email conversation that should be on loomio.. say so, kindly ask people to commit to using the tool. If you've discussed using loomio together this will just be a helpful reminder.
 
