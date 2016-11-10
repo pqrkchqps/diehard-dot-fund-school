@@ -1,4 +1,4 @@
-# Loomio Etiquette
+# Loomio Etiquette 
 
 Every mode of communication comes with expectations about how it is used. 
 
@@ -16,7 +16,7 @@ Summarise your thoughts into a paragraph or two. Long comments can be hard to fo
 
 ## Share what's on your mind
 
-## Help maintain the vibe!
+## Help maintain the vibe
 Be expressive! Use emojis (click the smiley face in the Add a Comment box) to add colour, fun, and extra meaning to your comments.
 
 Be positive. Thank people. And use emojis. Respect difference, it's where the good stuff is when you work together.
