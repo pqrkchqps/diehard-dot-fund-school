@@ -47,7 +47,9 @@ Keep threads up to date with conversation: make a comment like: As we discussed 
 ## take notes in your meetings and post them to loomio.
 This is really great way to remind people what was agreed to in the meeting.
 
-## notice who is not in the conversation but should be
+## bring people into the discussion
+Bring people into the discussion by mentioning them: type “@” followed by their name to let them know you’re looking for their input. Try to notice if people have not participated and mention them if you would like to hear them in the conversation.
+
 Are there voices that the decision effects, who have not shared an opinion?
 Are there experts in the field that you could bring into the room?
 
