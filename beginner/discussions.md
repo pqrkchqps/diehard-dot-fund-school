@@ -1,4 +1,4 @@
-# Practical facilitation tips.
+# Facilitating discussions
 
 To facilitate means to mediate and support group communication and interaction toward a desired outcome.
 
