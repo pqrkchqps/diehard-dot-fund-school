@@ -53,6 +53,9 @@ Are there experts in the field that you could bring into the room?
 
 Hold space for differing opinions.
 
+## Keep the title and context up to date
+Make it easy for people to catch up by updating the thread context and title with concise information as the discussion progresses. *link to help*
+
 
 ## When there are complex things to get your head around, Delegate to a working group which then reports back to the group
 
