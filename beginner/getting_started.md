@@ -1,14 +1,16 @@
 # Starting your group on Loomio
 
-The value of Loomio is unlocked when everyone in the group is able to participate.
+Getting started - it's often the hardest part. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together. 
 
-This means getting everyone signed up, familiar with the software, and comfortable making decisions together.
+The promise is, if done well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
-If you do it well, the group will come to life as people start discussions and raise proposals under their own initiative.
+This is a guide for people who want to help their group adopt Loomio to make decisions together.
 
 ## Talk about using Loomio.
 
 _Meta: I need to get input from our team and consultants for this section._
+
+> People have this weird idea that online communication is “the opposite” of place-based connection - but in actuality it can greatly enhance it. Loomio case studies like 17 Tory St, La Coroutine Coworking, and the Red Vic show how a Loomio group can greatly enhance communities that are co-located, allowing async comms to do what it does best (considered deliberation, reviewing documents, signing things off, making sure everyone’s been heard), so there’s more time and energy for what makes in-person interaction special. -- Alanna Krause
 
 It's realistic to expect that people have some apprehensions about joining an online decision making space, so we recommend you spend time talking to your group about using Loomio.
 
