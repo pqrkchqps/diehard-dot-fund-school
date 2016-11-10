@@ -6,7 +6,7 @@ The promise is, if done well, the group will come to life as people start discus
 
 This guide is for people who want to help their group adopt Loomio to make decisions together.
 
-## Talk about using Loomio.
+## Talk about why you want to use Loomio.
 
 _Meta: I need to get input from our team and consultants for this section._
 
@@ -61,7 +61,7 @@ When you arrive in a new space it can feel strange until you meet some other peo
 
 New groups start with an introductions thread created automatically, but we recommend you edit the thread to make it yours. Maybe ask people to share questions they are holding, or what experience they bring to the group.
 
-## Invite people into their new space and follow up those who don't get in.
+## Invite people in
 
 You're ready to invite people into the group!
 
@@ -69,7 +69,7 @@ If you have email addresses, you can send invitations to each member of your gro
 
 If your group already has a space to chat together, share the team link in that channel.
 
-The important thing at this stage is that you followup on people who don't sign up. You don't want people feeling left out, or a group of people making decisions without some of the members.
+The important thing at this stage is that you follow up on people who make it in. You don't want people feeling left out, or a group of people making decisions without some of the members.
 
 If you sent email invitations, you can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention. --link to explain at mention--
 
