@@ -16,13 +16,10 @@ Summarise your thoughts into a paragraph or two. Long comments can be hard to fo
 
 ## Share what's on your mind
 
-## Keep the title and context up to date
-Make it easy for people to catch up by updating the thread context and title with concise information as the discussion progresses. *link to help*
-
 ## Help maintain the vibe!
 Be expressive! Use emojis (click the smiley face in the Add a Comment box) to add colour, fun, and extra meaning to your comments.
+
 Be positive. Thank people. And use emojis. Respect difference, it's where the good stuff is when you work together.
+
 Be positive. eg: "Great correction! That's a much better way to do it."
 Equire "Can you clarify what you mean?"
-
-Next up:
