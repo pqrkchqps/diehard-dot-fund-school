@@ -16,6 +16,7 @@ Summarise your thoughts into a paragraph or two. Long comments can be hard to fo
 
 ## Share what's on your mind 🗣
 
+
 ## Help maintain the vibe 😎
 Be expressive! Use emojis (click the smiley face in the Add a Comment box) to add colour, fun, and extra meaning to your comments.
 
