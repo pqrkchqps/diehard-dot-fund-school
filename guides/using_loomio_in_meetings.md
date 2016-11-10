@@ -1,2 +1,3 @@
-# using_loomio_in_meetings.md
+# Supercharge your meetings with Loomio
+
 
