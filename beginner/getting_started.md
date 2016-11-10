@@ -25,7 +25,7 @@ Talk to your group about your interest in trying Loomio to see if it suits your 
 * The software does not decide anything for you. It just helps to draw discussion to conclusion.
 
 
-## Start a group and familiarise yourself with the settings.
+## Start a group and familiarise yourself with the settings. 👀
 
 It's important that you have a good understanding of how to use Loomio so you can assist others.
 
@@ -35,7 +35,7 @@ Join the [Learning to use Loomio group](), where you can practice using Loomio i
 
 Also make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are, and take particular note of the privacy settings and ensure they're right for your situation.
 
-## Define your group purpose
+## Define your group purpose 🌟
 
 With a clear purpose, people can make judgement calls about how to best serve the group, what how to participate, and what outcomes to aim for.
 
@@ -43,25 +43,25 @@ Your Loomio group page has a space for a short purpose statement right under the
 
 If you have not discussed purpose with your group, then we highly recommend that one of your first Loomio discussions be about what you want to achieve together.
 
-## Upload your profile photo
+## Upload your profile photo 👩🏽
 
 Seeing someone's face next to what they've written can make a big difference to the online reading experience.
 
 The invitation email people receive when you invite them to join your group includes your profile photo to make it feel more trustworthy. So before you send invitations out you need to upload your profile photo. -- link to upload profile photo help page --
 
-## Upload a group cover photo
+## Upload a group cover photo 🖼
 
 Uploading a cover photo that has some meaning to your group significantly improves the sense of belonging when you arrive on the group page.
 
 If you have one, use a photo from the last time you gathered together as a group. Or, if you need some inspiration, Check out [Unsplash](https://unsplash.com/), a gallery of beautiful, free images.
 
-## Edit the introductions thread
+## Edit the introductions thread 👋🏽
 
 When you arrive in a new space it can feel strange until you meet some other people there. A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable using the tool.
 
 New groups start with an introductions thread created automatically, but we recommend you edit the thread to make it yours. Maybe ask people to share questions they are holding, or what experience they bring to the group.
 
-## Invite people in
+## Invite people in 🙋
 
 You're ready to invite people into the group!
 
