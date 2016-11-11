@@ -11,4 +11,5 @@
 * Engage distributed members in nationwide policy (Action Station)
 
 Articles we recommend:
+* [Move the Advice Process Online in 3 Steps](http://blog.loomio.org/2016/11/09/advice-process/)
 * [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) by Joshua Vial.
