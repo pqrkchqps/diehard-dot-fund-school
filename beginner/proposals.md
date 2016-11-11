@@ -6,10 +6,10 @@ What is the first decision you need to make? Maybe ask the group to commit to tr
 
 Once you have people discussing, the next step is to prompt people to start proposals. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
 
-Proposals don't have to pass. That's not realistic. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
 What proposal can you run to develop the practice of using loomio within your group?
 
 ## Consider the whole pie graph.
+Proposals don't have to pass. That's not realistic. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
 
 <!-- Proposals have
 ## Find volunteers to address a problem and report back to the group.
