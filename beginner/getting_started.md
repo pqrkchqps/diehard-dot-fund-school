@@ -80,4 +80,10 @@ The important thing at this stage is that you follow up on people who make it in
 
 If you sent email invitations, you can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention. --link to explain at mention--
 
+## Champion the use of Loomio
+
+
+The task now is to make using Loomio a habit of your group. Often it helps to lead by example. Post things to Loomio regularly. If people are discussing things in other places like email, ask the to move the discussion to Loomio.
+
+
 Next: Read our [Facilitation tips](discussions.md).

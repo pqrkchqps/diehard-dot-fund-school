@@ -1,6 +1,16 @@
 # Using proposals
 Proposals are our thing. We over use them. We really need to build more decision types into Loomio.. but we've managed a lot with a very simple too.
 
+## your first proposal
+What is the first decision you need to make? Maybe ask the group to commit to trying Loomio for the next two weeks? Maybe ask for permission to facilitate the group through some process. Or start a proposal to see if someone wants to volunteer to facilitate the group for a period of time.
+
+Once you have people discussing, the next step is to prompt people to start proposals. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
+
+Proposals don't have to pass. That's not realistic. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
+What proposal can you run to develop the practice of using loomio within your group?
+
+get permission to be the facilitator or get someone else to be.
+
 Proposals have
 Find volunteers to address a problem and report back to the group.
 Anyone can raise a proposal, and they give your group members an opportunity to have their say about a specific course of action.
