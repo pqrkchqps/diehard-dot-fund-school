@@ -39,7 +39,7 @@ While proposals are open, everyone in the group can **vote** using one of four p
 * **Disagree** if you believe there might be a better alternative.
 * **Block** if you’ve got serious objections to the proposal going ahead.
 
-As you vote you can also enter a brief **statement** to explain your reasoning.
+You can also enter a brief **statement** with your vote, to explain why you voted the way you did.
 
 When the proposal closes, the author can share an **outcome** to interpret the results back to the group.
 
