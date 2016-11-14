@@ -39,16 +39,12 @@ While proposals are open, everyone in the group can **vote** using one of four p
 * **Disagree** if you believe there might be a better alternative.
 * **Block** if you’ve got serious objections to the proposal going ahead.
 
-When you vote you can also enter a brief **statement** to explain your reasoning.
+As you vote you can also enter a brief **statement** to explain your reasoning.
 
-Everyone in the group can see the results as they come in. If some new information causes you to change your mind, you can update your vote to reflect that.
-
-When the proposal closes, the author will usually share an **outcome** to interpret the results back to the group.
+When the proposal closes, the author can share an **outcome** to interpret the results back to the group.
 
 ## That's it.
-In practice you'll find that you repeat steps 2 to 4 as you work together to find the best course of action for the group.
-
-We've got more helpful content waiting for you.
+In practice you'll find that you repeat steps 2 to 4 as you work together to find the best course of action for the group. Over time you'll build a history of decisions you can refer to.
 
 ---
 
