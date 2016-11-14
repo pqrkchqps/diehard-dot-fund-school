@@ -72,17 +72,15 @@ New groups start with an introductions thread created automatically, but we reco
 
 You're ready to invite people into the group!
 
-![](https://i.imgur.com/vBQ0urS.png)
-
-Visit your group page and click the "Invite people" button as shown above.
+Visit your group page and click the "Invite people" button.
 
 If you have email addresses, you can send invitations to each member of your group.
 
 If your group already has a space to chat together, you can share the team link there.
 
-The important thing at this stage is that you follow up on people who make it in. You don't want people feeling left out, or a group of people making decisions without some of the members.
+The important thing at this stage is that you follow up on people who don't make it into the group. You don't a group of people making decisions without some of the members.
 
-If you sent email invitations, you can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves in the introductions thread, you might like to welcome them to the group with an @mention.
+If people join but don't introduce themselves in the introductions thread, you might like to welcome them to the group with an @mention.
 
 ## Champion the use of Loomio
 
