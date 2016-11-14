@@ -31,18 +31,18 @@ Who's responsible for the safety of people in the group?
 What kind of behaviour is not ok?
 We recommend you ask people to commit to using Loomio for a time period with a retrospective at the end.
 
-
-## Start a group and familiarise yourself with the settings. 👀
-
-It's important that you have a good understanding of how to use Loomio so you can assist others.
-
 There are so many factors to having a smooth experience of new technology, the right support can get people through a frustrating time unscathed.
 
 Join the [Learning to use Loomio group](), where you can practice using Loomio in a demo environment.
 
-Also make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are, and take particular note of the privacy settings and ensure they're right for your situation.
 
-## Define your group purpose 🌟
+## Start a group and have a look around. 👀
+
+It's important that you have a good understanding of how to use Loomio so you can assist others.
+
+Make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are, and take particular note of the privacy settings and ensure they're right for your situation.
+
+## Set your group purpose 🌟
 
 With a clear purpose, people can make judgement calls about how to best serve the group, what how to participate, and what outcomes to aim for.
 
@@ -72,16 +72,19 @@ New groups start with an introductions thread created automatically, but we reco
 
 You're ready to invite people into the group!
 
+![](https://i.imgur.com/vBQ0urS.png)
+
+Visit your group page and click the "Invite people" button as shown above.
+
 If you have email addresses, you can send invitations to each member of your group.
 
-If your group already has a space to chat together, share the team link in that channel.
+If your group already has a space to chat together, you can share the team link there.
 
 The important thing at this stage is that you follow up on people who make it in. You don't want people feeling left out, or a group of people making decisions without some of the members.
 
-If you sent email invitations, you can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves, then welcome them to the group in the introductions thread with an @mention. --link to explain at mention--
+If you sent email invitations, you can check who has accepted their invitation and who is yet to accept on the members page. If people join but don't introduce themselves in the introductions thread, you might like to welcome them to the group with an @mention.
 
 ## Champion the use of Loomio
-
 
 The task now is to make using Loomio a habit of your group. Often it helps to lead by example. Post things to Loomio regularly. If people are discussing things in other places like email, ask the to move the discussion to Loomio.
 
