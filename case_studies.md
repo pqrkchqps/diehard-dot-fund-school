@@ -12,19 +12,14 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## Business
 
-<div class="clear">
-  <img src="http://consciousconsumers.org.nz/themes/conscious/images/logo.png"class="img-left img-70px">
-  <h3>Conscious Consumers</h3>
-</div>
+<h3>Conscious Consumers</h3>
 
-<div class="tile tile-30pc">
-  <p><strong><a href="http://consciousconsumers.org.nz/">Conscious Consumers</a></strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:
-</div>
+<img src="http://consciousconsumers.org.nz/themes/conscious/images/logo.png"class="img-left img-70px">
 
-<div class="tile tile-70pc">
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
-  </div>
+<p><strong><a href="http://consciousconsumers.org.nz/">Conscious Consumers</a></strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:
+
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="tile tile-30pc">
