@@ -18,9 +18,8 @@
 }
 
 
-/*CHAPTER PAGE TILES*/
 
-.media-tile{
+.half-width{
   padding: 0.5em;
   margin: 0 10px 10px 0;
   width: calc(50% - 10px);
@@ -32,7 +31,7 @@
 .media-tile h3{font-size: 120%}
 
 @media only screen and (max-width: 970px) {
-  .tile, .media-tile{
+  .half-width{
     width: 100%;
     margin-right: 0;
     float: none;
