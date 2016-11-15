@@ -18,8 +18,6 @@ Have a discussion with your group about using Loomio.
 
 It's realistic to expect that some people have apprehensions about adopting a new piece of software for online decision making. We recommend you spend time talking to people in your group to work through ant concerns before you start.
 
-
-
 Seek permission to facilitate your group or start a discussion on facilitation and see what emerges.
 
 What kind of things are you happy to talk about?
