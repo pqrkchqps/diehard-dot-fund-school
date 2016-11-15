@@ -12,10 +12,21 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## Business
 
-* Conscious Consumers (video coming soon)
-* [Envision NZ](http://blog.loomio.org/2016/02/09/spreading-the-contagious-idea-of-collaborative-decision-making/)
-* [Social Media Squad](http://blog.loomio.org/2016/01/14/socialmediasquad/)
-* [Urban Adventures](http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/)
+<div class="tile tile-70pc">
+  <strong>Conscious Consumers</strong> use Loomio for good governance:
+
+  <div class="video-wrapper">
+    <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+
+<div class="tile tile-30pc">
+  <p>The <strong>Social Media Squad</strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
+
+  <p><strong>Urban Adventures</strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
+</div>
+
+---
 
 ## NGO/NFP/Trust
 
