@@ -8,22 +8,16 @@ This guide is for people who want to help their group adopt Loomio to make decis
 
 ## Talk about how you want to use Loomio. 👂👄🗣
 
-_Meta: I need to get input from our team and consultants for this section._
+Have a discussion with your group about using Loomio.
 
-
-Have a discussion with your group about using Loomio. 
 - What kind of decisions do you want to make on Loomio?
-- Do you want to try it out for a specific purpose or length of time? 
 - Does everyone in the group need to use it?
+- What kind of behaviour is not ok?
+- How will Loomio compliment existing decision making?
 
-It's realistic to expect that some people have apprehensions about adopting a new piece of software for online decision making. We recommend you spend time talking to people in your group to work through ant concerns before you start.
+It's realistic to expect that some people have apprehensions about adopting a new piece of software for online decision making. We recommend you spend time talking to people in your group to work through any concerns before you start.
 
-Seek permission to facilitate your group or start a discussion on facilitation and see what emerges.
-
-What kind of things are you happy to talk about?
-Who's responsible for the safety of people in the group?
-What kind of behaviour is not ok?
-We recommend you ask people to commit to using Loomio for a time period with a retrospective at the end.
+At this stage we also recommend you seek permission to facilitate your group or offer to start a discussion on facilitation and see what emerges.
 
 ## Start a group and have a look around. 👀
 
