@@ -21,8 +21,11 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 </div>
 
 <div class="tile tile-30pc">
+  <img src="https://i.imgur.com/I5IMMWc.png" width="100%" />
   <p>The <strong>Social Media Squad</strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
 
+
+  <img src="https://loomio.files.wordpress.com/2014/02/ua_logo_red-copy.jpg?w=650" width="100%"/>
   <p><strong>Urban Adventures</strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
 </div>
 
