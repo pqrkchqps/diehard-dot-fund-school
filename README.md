@@ -1,6 +1,6 @@
 # Loomio School
 
-Thousands of groups around the world are using [Loomio](http://loomio.org): a software tool for making group decisions online!
+Thousands of groups around the world are using [Loomio](http://loomio.org): a software tool for making group decisions online...
 
 While the tool is very easy to use, we all know that group decision-making can be hard, so we've compiled these resources to help your group become collaboration experts.
 
