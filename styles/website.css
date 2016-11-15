@@ -24,9 +24,9 @@
 }
 
 
-.tile-30pc{width: calc(30% - 10px);}
+.tile-33pc{width: calc(33% - 10px);}
 .tile-50pc{width: calc(50% - 10px);}
-.tile-70pc{width: calc(70% - 10px);}
+.tile-67pc{width: calc(67% - 10px);}
 
 .tile-media a{color: #333;}
 .tile-media img{width: 100%;}
