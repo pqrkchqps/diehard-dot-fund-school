@@ -23,3 +23,4 @@
 * [Case Studies & User Stories](case_studies.md)
 * [Coaching resources](coaching_resources.md)
 * [Inspiration](inspiration.md)
+* [User Manual](http://help.loomio.org)
