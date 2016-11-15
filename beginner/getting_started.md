@@ -10,15 +10,17 @@ This guide is for people who want to help their group adopt Loomio to make decis
 
 _Meta: I need to get input from our team and consultants for this section._
 
-> People have this weird idea that online communication is “the opposite” of place-based connection - but in actuality it can greatly enhance it. Loomio case studies like 17 Tory St, La Coroutine Coworking, and the Red Vic show how a Loomio group can greatly enhance communities that are co-located, allowing async comms to do what it does best (considered deliberation, reviewing documents, signing things off, making sure everyone’s been heard), so there’s more time and energy for what makes in-person interaction special. -- Alanna Krause
+What kind of decisions do you want to make on Loomio? Do you want to try it out for a specific purpose or length of time? Does everyone in the group need to use it? 
 
-It's realistic to expect that people have some apprehensions about joining an online decision making space, so we recommend you spend time talking to your group about using Loomio.
+It's realistic to expect that some people have apprehensions about adopting a new piece of software for online decision making. 
+
+We recommend you spend time talking to people in your group to work through ant concerns before you start.
 
 Identify what the group wants to achieve together. Write this down.
 
 Discuss a trial? Ensure you have commitment so you can follow up when people don't participate.
 
-Talk to your group about your interest in trying Loomio to see if it suits your needs. Discuss what Loomio is, and how you might use it in your group.
+Talk to the members of your group about your interest in trying Loomio to see if it suits your needs. Discuss what Loomio is, and how you might use it in your group.
 
 * It can save time on meetings - some things are easier to sort out online.
 * Everyone can have input on decisions and Loomio helps to ensure that decision making is clear.
@@ -30,11 +32,6 @@ What kind of things are you happy to talk about?
 Who's responsible for the safety of people in the group?
 What kind of behaviour is not ok?
 We recommend you ask people to commit to using Loomio for a time period with a retrospective at the end.
-
-There are so many factors to having a smooth experience of new technology, the right support can get people through a frustrating time unscathed.
-
-Join the [Learning to use Loomio group](), where you can practice using Loomio in a demo environment.
-
 
 ## Start a group and have a look around. 👀
 
