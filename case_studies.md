@@ -32,6 +32,11 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
   <p><strong><a href="http://www.urbanadventures.com/">Urban Adventures</a></strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
 </div>
 
+<div class="tile tile-33pc your-story">
+  <h3>Your Story Here</h3>
+  If you've got a Loomio story you'd like to share, <a href="https://loomio.org/contact">get in touch</a>.
+</div>
+
 ---
 
 ## NGO/NFP/Trust
