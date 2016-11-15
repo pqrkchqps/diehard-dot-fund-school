@@ -12,23 +12,27 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## Business
 
-<img src="http://consciousconsumers.org.nz/themes/conscious/images/logo.png"class="img-left img-70px">
-<h3>Conscious Consumers</h3>
+<div class="clear">
+  <img src="http://consciousconsumers.org.nz/themes/conscious/images/logo.png"class="img-left img-70px">
+  <h3>Conscious Consumers</h3>
+</div>
+
 <div class="tile tile-30pc">
   <p><strong><a href="http://consciousconsumers.org.nz/">Conscious Consumers</a></strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:
 </div>
+
 <div class="tile tile-70pc">
   <div class="video-wrapper">
     <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
-<div class="tile tile-50pc">
+<div class="tile tile-30pc">
   <img src="https://i.imgur.com/I5IMMWc.png" width="100%" />
   <p>The <strong><a href="http://socialmediasquad.cc/">Social Media Squad</a></strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
 </div>
 
-<div class="tile tile-50pc">
+<div class="tile tile-30pc">
   <img src="https://loomio.files.wordpress.com/2014/02/ua_logo_red-copy.jpg?w=650" width="100%"/>
   <p><strong><a href="http://www.urbanadventures.com/">Urban Adventures</a></strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
 </div>
