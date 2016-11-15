@@ -1,7 +1,8 @@
 # What is Loomio?
 
-
-{% video %}https://www.youtube.com/watch?v=REgF_cGYqOs{% endvideo %}
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/REgF_cGYqOs" frameborder="0" allowfullscreen></iframe>
+</div>
 
 There are 4 key steps to using Loomio with your group.
 

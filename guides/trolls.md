@@ -51,4 +51,4 @@ These tips come from Cam Findlay [who used Loomio to development government poli
 * Get them on the phone or talk in person if possible. It might be a matter of perception given that we only get 7% of communication by the actual words we use, the rest being tone, gesture, body language etc. which doesn't come across in the online space (yet).
 * Banning is a last resort, shouldn't be taken lightly and should be carried out in accordance with your code of conduct to ensure it's done fairly and consistently.
 
-<div><a href="https://www.loomio.org/?utm_source=blog"><img class="  wp-image-4870 aligncenter" src="https://loomio.files.wordpress.com/2016/10/screen-shot-2016-10-12-at-12-40-06-pm.png" alt="Check Out Loomio" width="225" height="66" /></a></div>
+<div><a href="https://www.loomio.org/?utm_source=school"><img src="https://loomio.files.wordpress.com/2016/10/screen-shot-2016-10-12-at-12-40-06-pm.png" alt="Check Out Loomio" width="225" height="66" /></a></div>
