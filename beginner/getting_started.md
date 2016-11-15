@@ -65,10 +65,9 @@ The important thing at this stage is that you follow up on people who don't make
 
 If people join but don't introduce themselves in the introductions thread, you might like to welcome them to the group with an @mention.
 
-## Champion the use of Loomio
+## Champion the use of Loomio 🏆
 
-Successful groups build habits around using Loomio. It helps to have someone in the team designated the champion of developing these habits.
-Don't let the group fall inactive for too long. If people don't respond then use @mentions to get their attention. If discussions are happening via email, remind the group you've agreeed to use Loomio and request people move the thread over there.
+Successful groups form habits around using Loomio. It helps to have someone in the team designated the champion of developing these habits within the group. If this person is you, don't let the group fall inactive for too long. If people don't respond then use @mentions to get their attention. If discussions are happening via email, remind the group you've agreeed to use Loomio and request people move the thread over there.
 
 Loomio a habit of your group. Often it helps to lead by example. Post things to Loomio regularly. If people are discussing things in other places like email, ask the to move the discussion to Loomio. This is easier if you've already taken time to seek permission to facilitate the group.
 
