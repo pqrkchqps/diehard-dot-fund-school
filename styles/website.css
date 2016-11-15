@@ -43,8 +43,9 @@
 
 
 .your-story{
-
-  
+  color: #888;
+  border: 1px dashed;
+  padding: 0em 1em 2em 1em;
 }
 
 /* VIDEO */
