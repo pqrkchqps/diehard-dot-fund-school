@@ -23,7 +23,7 @@ At this stage we also recommend you seek permission to facilitate your group or 
 
 It's important that you have a good understanding of how to use Loomio so you can assist others.
 
-Make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are, and take particular note of the privacy settings and ensure they're right for your situation.
+Make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are. Take particular note of the privacy settings and ensure they're right for your situation.
 
 ## Set your group purpose 🌟
 
@@ -67,7 +67,10 @@ If people join but don't introduce themselves in the introductions thread, you m
 
 ## Champion the use of Loomio
 
-The task now is to make using Loomio a habit of your group. Often it helps to lead by example. Post things to Loomio regularly. If people are discussing things in other places like email, ask the to move the discussion to Loomio.
+Successful groups build habits around using Loomio. It helps to have someone in the team designated the champion of developing these habits.
+Don't let the group fall inactive for too long. If people don't respond then use @mentions to get their attention. If discussions are happening via email, remind the group you've agreeed to use Loomio and request people move the thread over there.
+
+Loomio a habit of your group. Often it helps to lead by example. Post things to Loomio regularly. If people are discussing things in other places like email, ask the to move the discussion to Loomio. This is easier if you've already taken time to seek permission to facilitate the group.
 
 
 Next: Read our [Facilitation tips](discussions.md).
