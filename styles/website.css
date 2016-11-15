@@ -26,12 +26,26 @@
   float: left;
 }
 
+.70pc-width{
+  padding: 0.5em;
+  margin: 0 10px 10px 0;
+  width: calc(70% - 10px);
+  float: left;
+}
+
+.30pc-width{
+  padding: 0.5em;
+  margin: 0 10px 10px 0;
+  width: calc(30% - 10px);
+  float: left;
+}
+
 .media-tile a{color: #333;}
 .media-tile img{width: 100%;}
 .media-tile h3{font-size: 120%}
 
 @media only screen and (max-width: 970px) {
-  .half-width{
+  .half-width, .70pc-width, .30pc-width{
     width: 100%;
     margin-right: 0;
     float: none;

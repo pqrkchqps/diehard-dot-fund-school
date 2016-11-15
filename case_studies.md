@@ -12,7 +12,7 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## Business
 
-<div class="half-width">
+<div class="70pc-width">
   <strong>Conscious Consumers</strong> use Loomio for good governance:
 
   <div class="video-wrapper">
@@ -20,7 +20,7 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
   </div>
 </div>
 
-<div class="half-width">
+<div class="30pc-width">
   <p>The <strong>Social Media Squad</strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
 
   <p><strong>Urban Adventures</strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
