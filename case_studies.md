@@ -101,6 +101,8 @@ Stories from people using Loomio for everything from company governance, citizen
   <p>The <strong>Red Victorian</strong> is a co-living hotel and community gathering space. With Loomio they can document every voice and every thought that goes into a decision. <a href="http://blog.loomio.org/2016/02/04/redvic/" target="_blank">Read more...</a></p>
 </div>
 
+<div class="clear">&nbsp;</div>
+
 <div class="tile tile-50pc">
   <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/NTmpzY6cahI?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
   <p><strong>Gängeviertel</strong> is a 200-person artist collective occupying 12 buildings in Hamburg, Germany. They use Loomio for in-depth discussions that can’t be decided in their in-person general assembly meetings. <a href="http://blog.loomio.org/2016/02/22/gaengeviertel/" target="_blank">Read more...</a></p>
