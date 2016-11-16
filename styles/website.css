@@ -70,6 +70,11 @@
   clear: both;
 }
 
+.img-center{
+  margin: auto 0;
+  clear: both;
+}
+
 .img-100px{ width: 100px; }
 .img-200px{ width: 200px; }
 .img-250px{ width: 250px; }
