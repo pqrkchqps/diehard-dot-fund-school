@@ -2,9 +2,9 @@
 
 Stories from people using Loomio for everything from company governance, citizen engagement, event management, to grassroots political organising.
 
-* [Businesses & Co-ops](#)
+* [Businesses & Co-ops](#businesses--co-ops)
 * [Government](#government)
-* [Trusts, NGO's, and NFP's](#)
+* [Trusts, NGO's, and NFP's](#trusts-ngos-and-nfps)
 * [Collectives](#collectives)
 * [Activists](#activists)
 
@@ -82,7 +82,7 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
-## NGO/NFP/Trust
+## Trusts, NGO's, and NFP's
 
 * [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/) - turned a conference into a meeting
 * [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/) - create strong small teams within their organisation
