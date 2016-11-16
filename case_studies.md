@@ -4,15 +4,15 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 
 
-## Business & Co-operatives
-
-<!-- <h3>Conscious Consumers</h3> -->
+## Conscious Consumers
 
 <p><strong><a href="http://consciousconsumers.org.nz/" target="_blank">Conscious Consumers</a></strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:</p>
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Other Business & Co-op Stories
 
 <div class="tile tile-33pc">
   <!-- <h3>Social Media Squad</h3> -->
@@ -44,14 +44,15 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 ---
 
 
-## Government
+## Statistics New Zealand
 
-<!-- <h3>Statistics New Zealand</h3> -->
 <p><strong>Statistics New Zealand</strong> used Loomio for citizen engagement, to refine the questions in the 2018 Census.</p>
 
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HBfO62TXZSo?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Other Government Stories
 
 <div class="tile tile-33pc">
   <!-- <h3>Land Information New Zealand</h3> -->
