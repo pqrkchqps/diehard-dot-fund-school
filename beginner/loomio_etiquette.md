@@ -3,12 +3,16 @@
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
 
-## Getting attention at the right time ☝️
-We live in an attention economy. Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
+## Seeking attention from the group ☝️
+Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
 
-If you have a topic that needs the attention of the group. Start a discussion. With the default user settings, this sends everyone an email, so it's a good way to kick off a new topic.
+__Starting a discussion__ means you want to start a conversation with the group.  By default everyone is emailed when you start a discussion, so you should assume that it will get everyone's attention. 
 
-If there is someone in the group who's perspective is missing from the conversation, use the @mention feature to bring them in.
+__Mentioning__ people is a direct way of asking for someone's attention within a discussion. It's a really useful way to ask someone a question or get their attention within an existing discussion.
+
+__Raising a proposal__ is a fantastic way to ask everyone in the group to give their point of view within a specified time frame.
+
+__disagreeing and blocking__ are good indicators that someone has something important to say. If people disagree or block a proposal, give them an opportunity to explain themselves and let them be heard.
 
 Some people will not participate unless prompted, it takes a little care to do this in an inviting way but try to encourage people to participate by saying how you'd value what they have to say on this.
 
