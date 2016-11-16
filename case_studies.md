@@ -1,12 +1,10 @@
 # Case Studies & User Stories 🐒
 
-Stories from people using Loomio to make the world a better place. 1 feature video for each category, followed by a list of all the stories we have.
-
-
+Stories from people using Loomio for everything from company governance, citizen engagement, event management, to grassroots political organising.
 
 ## Conscious Consumers
 
-<p><strong><a href="http://consciousconsumers.org.nz/" target="_blank">Conscious Consumers</a></strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:</p>
+<p><strong>Conscious Consumers</strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:</p>
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
@@ -15,17 +13,15 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 ## Other Business & Co-op Stories
 
 <div class="tile tile-33pc">
-  <!-- <h3>Social Media Squad</h3> -->
   <img src="img/social-media-squad_650.png" alt="logo" />
 
-  <p>The <strong><a href="http://socialmediasquad.cc/" target="_blank">Social Media Squad</a></strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
+  <p>The <strong>Social Media Squad</strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
 </div>
 
 <div class="tile tile-33pc">
-  <!-- <h3>Urban Adventures</h3> -->
   <img src="img/urban-adventures_650.png" alt="logo"/>
 
-  <p><strong><a href="http://www.urbanadventures.com/" target="_blank">Urban Adventures</a></strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/" target="_blank">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
+  <p><strong>Urban Adventures</strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/" target="_blank">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
 </div>
 
 <div class="tile tile-33pc your-story">
@@ -55,24 +51,21 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 ## Other Government Stories
 
 <div class="tile tile-33pc">
-  <!-- <h3>Land Information New Zealand</h3> -->
   <img src="img/open-data-nz_500.png" alt="logo"/>
 
   <p><strong>Land Information New Zealand (LINZ)</strong> used Loomio to engage stakeholders to develop NZ GOAL-SE: a framework for open source licensing of New Zealand Government software. <a href="http://blog.loomio.org/2016/05/11/nzgoal/"  target="_blank">Read the story</a> from Paul Stone, Programme Leader for Open Government Data at LINZ.</p>
 </div>
 
 <div class="tile tile-33pc">
-  <!-- <h3>National Assembly for Wales</h3> -->
   <img src="img/wales-assembly_650.png" alt="logo"/>
 
-  <p>The <strong><a href="http://www.assembly.wales/" target="_blank">National Assembly for Wales</a></strong> is a Welsh law-making body. <a href="https://blog.loomio.org/2016/05/16/national_assembly_wales/" target="_blank">Read about how they used Loomio</a> to engage a diverse audience in a mutli-stakeholder engagement project.
+  <p>The <strong>National Assembly for Wales</strong> is a Welsh law-making body. <a href="https://blog.loomio.org/2016/05/16/national_assembly_wales/" target="_blank">Read about how they used Loomio</a> to engage a diverse audience in a mutli-stakeholder engagement project.
 </div>
 
 <div class="tile tile-33pc">
-  <!-- <h3>Wellington City Council</h3> -->
   <img src="img/wcc_650.png" alt="logo"/>
 
-  <p>In 2013, <strong><a href="http://wellington.govt.nz/" target="_blank">Wellington City Council</a></strong> contracted Loomio to run the online side of their largest public consultation exercise of the year – developing an alcohol management strategy for the city. <a href="https://blog.loomio.org/2013/11/01/wellington-city-council-uses-loomio/" target="_blank">Read more...</a>
+  <p>In 2013, <strong>Wellington City Council</strong> contracted Loomio to run the online side of their largest public consultation exercise of the year – developing an alcohol management strategy for the city. <a href="https://blog.loomio.org/2013/11/01/wellington-city-council-uses-loomio/" target="_blank">Read more...</a>
   </p>
 </div>
 
@@ -85,15 +78,47 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 * [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/) - create strong small teams within their organisation
 * [Newtown Ethical Lending Trust](http://blog.loomio.org/2013/10/18/trustees-trust-loomio/) - approve loan applications without having a meeting
 
-## Collectives
+---
 
-* Kava Club feature video coming soon
-* [Guerilla Translators](http://blog.loomio.org/2016/05/13/guerrilla-translation/)
-* [Gängeviertel Collective](http://blog.loomio.org/2016/02/22/gaengeviertel/)
-* [P2P Foundation](http://blog.loomio.org/2016/02/15/p2p/)
-* [Red Victorian coliving](http://blog.loomio.org/2016/02/04/redvic/)
-* [Ouishare Network](http://blog.loomio.org/2016/01/21/ouishare/)
-* [17 Tory St arts collective](http://blog.loomio.org/2015/10/21/how-to-run-an-open-source-community-space/)
+## Kava Club - Pacific & Māori Arts Collective
+
+<p><strong>Kava Club</strong> is a Pacific & Māori arts collective. We talked to cofounder Leilani A Visesio about how Loomio helps them organise events, while keeping the group focussed on their purpose:
+</p>
+
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+## Stories from other Collectives
+
+<div class="tile tile-33pc">
+  <img src="img/17-tory-st_650.png" alt="members of the 17 Tory St collective"/>
+
+  <p><strong>17 Tory St</strong> is a community space that hosts hundreds of events: political meetings, art exhibitions, massage classes, paint-making workshops, film nights + much much more. <a href="https://medium.com/@richdecibels/how-to-run-an-open-source-community-space-76fba11483ae">This practical and inspiring story</a> explains how they use Loomio to manage events in the space, without needing any meetings.</p>
+  </p>
+</div>
+
+<div class="tile tile-33pc">
+  <img src="img/guerilla-translation_700.png" alt="logo">
+  <p><strong>Guerilla Translation</strong> is a commons-oriented publishing collective. They use Loomio to organise their work and make decisions online without clogging up email inboxes. <a href="http://blog.loomio.org/2016/05/13/guerrilla-translation/" target="_blank">Read more...</a></p>
+</div>
+
+
+<div class="tile tile-33pc your-story">
+  <h3>Your Story Here</h3>
+  <img src="img/placeholder.png" alt="logo"/>
+  <p>If you've got a Loomio story you'd like to share, <a href="https://loomio.org/contact" target="_blank">get in touch</a>.</p>
+</div>
+
+---
+
+* The [**P2P Foundation**](http://blog.loomio.org/2016/02/15/p2p/) is a global network of researchers in open design, open hardware and free software. They use Loomio to delegate responsibility for an individual to act on behalf of the collective.
+* [**Gängeviertel**](http://blog.loomio.org/2016/02/22/gaengeviertel/) is a 200-person artist collective occupying 12 buildings in Hamburg, Germany. They use Loomio for in-depth discussions that can’t be decided in their in-person general assembly meetings.
+* The [**Red Victorian**](http://blog.loomio.org/2016/02/04/redvic/) The is a co-living hotel and community gathering space. With Loomio they can document every voice and every thought that goes into a decision.
+* The [**Ouishare Network**](http://blog.loomio.org/2016/01/21/ouishare/)  is an international community focusing on the collaborative economy and open source. They use Loomio to grow shared understanding around complex decisions.
+
+
+---
 
 ## Political
 
