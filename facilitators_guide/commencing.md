@@ -13,44 +13,42 @@ You're reading Phase 2 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Invitation
 
-How participants are invited into a facilitated space is incredibly important. People understand huge amounts of information from the invitation, and use it to judge how carefully a space will be held, and if they feel they belong there. The moment of invitation is in many ways the defining opportunity to set the tone and establish trust.
+How participants are invited into a facilitated space is incredibly important. People understand huge amounts of information from the invitation, and use it to judge how a space will be held and if they belong there. The moment of invitation is in many ways the defining opportunity to set the tone and establish trust.
 
 <img src="img/rich_200.png" class="img-right img-100px"/>
 
-> Decision-making is all about communication: your group can only make good decisions together if there’s a foundation of good communications in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect. — Richard Bartlett
+> Decision-making is all about communication: your group can only make good decisions together if there’s a foundation of good communication in place first. This means being clear about what the purpose of a discussion or meeting is, who needs to be involved, what the time-frame is, and what people can expect. — Richard Bartlett
 
 Key aspects to an invitation:
 
-* Background information. What is this thing? What am I being asked to do? Who is behind this? Who else will be involved? What is the time commitment, topic focus, and protocol?
-* Context. What is the character of this specific engagement? Of all the possible formats and ways it could go, which one will it be? Why now, why this way?
-* Am I welcome? Is this for me? Am I needed in this process? What is my unique value and contribution? Why should I specifically be compelled?
-* Is it safe? Does this invitation indicate thoughtfulness, trust, and understanding? Is the structure of the engagement up to handling the inherent power dynamics at play? What level of honesty or vulnerability will this require of me? Do I think the person facilitating/inviting is going to hold me well?
-* Is this accessible? Will my basic requirements for participation be accommodated? Language, assistive technology, unfamiliar jargon, etc. Will it be possible for me to engage?
+* **Background.** What is this thing? What am I being asked to do? Who is behind this? Who else will be involved? What is the time commitment, topic focus, and protocol?
+* **Context.** What is the character of this specific engagement? Of all the possible formats and ways it could go, which one will it be? Why now, why this way?
+* **Belonging.** Am I welcome? Is this for me? Am I needed in this process? What is my unique value and contribution? Why should I specifically be compelled?
+* **Safety.** Does this invitation indicate thoughtfulness, trust, and understanding? Is the structure of the engagement up to handling the inherent power dynamics at play? What level of honesty or vulnerability will this require of me? Do I think the person inviting is going to hold me well?
+* **Accessibility.** Will my basic requirements for participation be accommodated? Language, assistive technology, unfamiliar jargon, etc. Will it be possible for me to engage?
 
-### Translating this into Loomio
+### On Loomio
 
-* Introduce the idea first through other channels
-* Use the custom invite message
-* Use the sharable group link
-* Use the subdomain
-* Use the privacy options
-* Use the permissions options
-* Accessibility features
+* The tool has a built-in function to [invite users](https://loomio.gitbooks.io/manual/content/en/inviting_new_members.html) by email or by sending them a special link. Users can also request to join your group if your settings allow.
+* The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
+* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter - such as thoughtful [privacy options](https://loomio.gitbooks.io/manual/content/en/group_settings.html).
+* The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.
+* Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different lanlanguages. Emphasising these aspects in an invitation can make some people feel more welcome.
 
 
 ## Arrival
 
-The moment of arrival is the "first impression" of an engagement, and sets the trajectory from there on out. At the moment of arrival, the person has accepted an invitation and decided to step in. They are open and expectant, and the impression they get will make a big impact on their experience.
+The moment of arrival is the "first impression" of an engagement, and sets the trajectory from there on out. The person has accepted an invitation and decided to step in. They are open and expectant, and the impression they get will make a big impact on their experience.
 
 ### Welcoming
 To enable openness to engagement, participation, and receptivity, a person has to feel welcome. They need their existence acknowledged, and to feel a sense of hospitality.
 
 ### Settling
-When someone enters a room, they want to know where to sit, where the exit is, where to go to the bathroom, if there is coffee available. They need a basic introduction to the space and their place in it.
+When someone enters a physical room, they want to know where to sit, where the exit is, where to go to the bathroom, if there is coffee available. They need a basic introduction to the space and their place in it.
 
-### Translating this into Loomio
+### On Loomio
 
-* The group description fields and discussion context box are the main space to put a "welcome message" for people arriving into the space. The simple fact that we call it a “context box” indicates the awareness of this in the design.
+* The group description fields and discussion context box are the main space to put a "welcome message" for people arriving into the space.
 * Use Dashboard, Unread, Notifications, Starred threads, Search
 * Take a tour of the Loomio space, tweak things to make yourself comfortable (like notification settings, etc), try out the main features (start a thread, proposal, etc).
 
