@@ -92,10 +92,7 @@ Stories from people using Loomio for everything from company governance, citizen
 ## Stories from other Collectives
 
 <div class="tile tile-50pc">
-  <div class="video-wrapper">
-    <iframe src="https://www.youtube.com/embed/KLKU9JbPel4?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
-  </div>
-
+  <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/KLKU9JbPel4?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
   <p>The <strong>P2P Foundation</strong> is a global network of researchers in open design, open hardware and free software. They use Loomio to delegate responsibility for an individual to act on behalf of the collective. Check out the video, or <a href="http://blog.loomio.org/2016/02/15/p2p/" target="_blank">read more here.</a></p>
 </div>
 
