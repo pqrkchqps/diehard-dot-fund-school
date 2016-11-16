@@ -20,6 +20,12 @@
   * [3. Underway](facilitators_guide/underway.md)
   * [4. Concluding](facilitators_guide/concluding.md)
   * [5. Ongoing Practice](facilitators_guide/ongoing_practice.md)
-* [Case Studies & User Stories](case_studies.md)
+* [Case Studies & User Stories](case_studies/index.md)
+  * [Businesses & Co-ops](case_studies/business_co-op.md)
+  * [Government](case_studies/government.md)
+  * [Trusts, NGO's, and NFP's](case_studies/ngo.md)
+  * [Collectives](case-studies/collective.md)
+  * [Activists](case-studies/activist.md)
+
 * [Coaching resources](coaching_resources.md)
 * [Inspiration](inspiration.md)

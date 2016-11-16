@@ -18,7 +18,7 @@ While the tool is very easy to use, we all know that group decision-making can b
 
 <div class="emoji-bullet">🐒</div>
 <strong>Case Studies & User Stories</strong><br />
-[Stories from people using Loomio in co-ops, government, community and business.](case_studies.html)
+[Stories from people using Loomio in co-ops, government, community and business.](case_studies/index.md)
 
 
 <div class="emoji-bullet">🐺</div>
