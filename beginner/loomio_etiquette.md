@@ -32,12 +32,7 @@ Long comments can be hard to follow. If you must write a long comment, add a sum
 
 ## Help maintain the vibe 😎
 
-A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us: 
-
-> _Who_ is on a team matters less than how the team members interact, structure their work, and view their contributions.
-
-It goes on to say that the number one factor in team performance is 
-Psychological safety. IE: Team members being able to take risks without feeling insecure or embarassed.
+A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) says the number one factor in team performance is psychological safety. IE: Team members being able to take risks without feeling insecure or embarassed.
 
 Respect difference, it's where the good stuff is when you work together. Respectful disagreement is essential to finding the best solution for the group, but it can also be hard work.
 
