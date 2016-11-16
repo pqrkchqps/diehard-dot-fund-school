@@ -19,6 +19,7 @@ Some people will not participate unless prompted, it takes a little care to do t
 ## Responding thoughfully and in time. ⌚️
 Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
 
+
 ## Stay on topic. Be concise
 Put all the relevant info you can very concisely in the title. Many people  will look no further than the subject line. Who, what, where, why, when.
 
