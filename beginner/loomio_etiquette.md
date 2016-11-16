@@ -2,7 +2,8 @@
 
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
-## Be conscious of getting attention ☝️
+
+## Getting attention at the right time ☝️
 We live in an attention economy. A huge part of groups communicating effectively depends upon each individual knowing how to best use the attention of others in the group.
 
 If you have a topic that needs the attention of the group. Start a discussion. With the default user settings, this sends everyone an email, so it's a good way to kick off a new topic.
