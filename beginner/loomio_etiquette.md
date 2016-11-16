@@ -42,7 +42,7 @@ Psychological safety. IE: Team members being able to take risks without feeling 
 
 So, respect difference, it's where the good stuff is when you work together. Respectful disagreement is essential to finding the best solution for the group. 
 
-Help people to understand your point of view. Enquire why someone thinks or feels the way they do.
+Help people to understand your point of view. Enquire why someone thinks or feels the way they do. Be forgiving - If someone feels unsafe or anxious they might be more erratic than otherwise.
 
 Be very careful with humour and avoid scarcasm. These don't translate through text very well and it's easy for people to mistake a funny comment for something mean.
 
