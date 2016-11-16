@@ -99,25 +99,26 @@ Good facilitation requires self-awareness on an individual and collective level.
 > Have the power handed over to you. When you’re invited into a new group or organisation, everybody will be thinking: Who’s this joker? Why should we listen to them? Get somebody who the participants know and trust to introduce you. This builds you up in the participants’ minds and helps to hand over the power over to you. — Silvia Zuur
 
 ### Consent
-It’s critical that the group consents to be facilitated. Attempting to facilitate otherwise can be at worst coercive (unfair to the group), and dangerous (unfair to the facilitator), and will be dragged down by resistance and confusion. Facilitators put themselves in a vulnerable position - they must have mandate or they should not agree to engage.
+It’s critical that the group consents to be facilitated. Attempting to facilitate otherwise can be at worst coercive (unfair to the group) and dangerous (unfair to the facilitator) - and will face resistance and confusion. Facilitators put themselves in a vulnerable position; they must have mandate or they should not agree to engage. Consent is critical for both the facilitator and participants.
 
 ### Responsibility
-Once a facilitator takes up a mandate, they carry enhanced responsibilities, which need to be understood on all sides. Facilitation introduces power differentials - there must be trust and consent. For example, facilitators have more claim to floor time, and directing the group’s attention. This has to be used in service to the whole, not a personal agenda. The words and demeanor of the facilitator will also have a disproportionate effect, meaning they have to act with heightened consideration.
+Once a facilitator takes up a mandate, they carry enhanced responsibilities. Facilitators have more claim to floor time, and directing the group’s attention. This has to be used in service to the whole, not for a personal agenda. The words and demeanor of the facilitator will also have a disproportionate effect, meaning they have to act with heightened consideration.
 
 ### Power
-If the facilitator cannot exercise power in certain ways, they cannot do their job. If the group has given a mandate, for example, for the facilitator to keep a discussion on topic, the facilitator has to be allowed to take acts others might not in the discussion, such as interrupting someone, or saying that a certain way of interacting is not OK. It’s not appropriate to expect a facilitator to shoulder responsibility for the experience without giving them the powers they need to deliver. There is no one right answer about how much power - just that it has to be balanced with the level of responsibility.
+Facilitation by nature introduces power differntials. If the facilitator cannot exercise power in certain ways, they cannot do their job. For example, to keep a discussion on topic the facilitator might interrupt someone, or sayg that a certain way of interacting is not OK. It’s not appropriate to expect a facilitator to shoulder responsibility for the experience without giving them the powers they need to deliver successfully. There is no one right answer about how much power, but it has to be balanced with the level of responsibility.
 
 ### Responsiveness
-Facilitators do their best work when they can adapt effectively to the emergent reality. Human beings are endlessly complex, and groups of them exponentially more so. Rigid adherence to a plan or protocol without flexibility will usually set the group up to fail, or at least not succeed as well as it could have. If a facilitator is not allowed or not willing to adapt to changing circumstance, they cannot effectively hold the space.
+Facilitators do their best work when they can adapt effectively to the emergent reality. Human beings are endlessly complex, and groups of them exponentially more so. Rigid adherence to a plan or protocol without flexibility can set the group up to fail. If a facilitator is not allowed or not willing to adapt to changing circumstance, they cannot effectively hold the space for dynamic humans.
 
 > Wear and un-wear the facilitation-hat. A challenge many people face is trying to facilitate meetings and workshops with their own team. As a facilitator, they need to be neutral. But as a team member, they have valuable insights to share. Make it really clear when you’re a facilitator and when you’re being a participant. — Silvia Zuur
 
 
-### Translating this into Loomio
+### On Loomio
 
 * Many groups using Loomio are experienced with facilitation and already have a shared understanding of the role. They already adapt the tool to meet these needs with some success.
-* Often the person who starts a discussion is assumed to be facilitating it, barring another agreed understanding in the group.
-* Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc (but this often left implicit).
+* Often the person who starts a discussion is assumed to be facilitating it, barring another agreed understanding in the group. Clarity about who is facilitating can greatly enhance mutual safety and success.
+* Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc - but this often left implicit. Explicitly naming what acts of facilitation are and discussing whether this role is centralised or distributed can clarify the role.
+* Implicit distributed facilitation can be the default starting place for an online group (ie, no discussion of facilitation as a named role), but that setup is actually best for advanced groups prgressing past working with explicit facilitation.
 
 
 > Move on to [Phase 2](commencing.md) of the [5 Phases of Faciliation in Loomio](index.md).
