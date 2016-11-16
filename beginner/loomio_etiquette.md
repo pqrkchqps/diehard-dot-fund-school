@@ -4,11 +4,6 @@ Every mode of communication comes with expectations about how it is used.
 
 Manners are a shared system of communicating that allow for respect and participation.
 
-## Respond in a timely fashion ⌚️
-Staying up to date with the conversation is super important. Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
-
-## Share what's on your mind 🗣
-If you don't say it now, you may not get another chance. So try to explain yourself. 
 
 ## getting attention ☝️
 We live in an attention economy. A huge part of groups communicating effectively depends upon each individual knowing how to best use the attention of others in the group.
@@ -18,6 +13,9 @@ If you have a topic that needs the attention of the group. Start a discussion. W
 If there is someone in the group who's perspective is missing from the conversation, use the @mention feature to bring them in.
 
 Some quiet people will not participate unless prompted, it takes a little care to do this in an inviting way but try to encourage people to participate by saying how you'd value what they have to say on this.
+
+## Respond in a timely fashion ⌚️
+Staying up to date with the conversation is super important. Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
 
 ## Stay on topic. Be concise
 Put all the relevant info you can very concisely in the title. Many people  will look no further than the subject line. Who, what, where, why, when.
@@ -48,6 +46,6 @@ Help people to understand your point of view. Enquire why someone thinks or feel
 
 Be very careful with humour and avoid scarcasm. These don't translate through text very well and it's easy for people to mistake a funny comment for something mean.
 
-Having said that, try to be expressive! Use an emoji or two to add colour, fun, and extra meaning to your comments.
+Having said that, try to be expressive! Say what it is that is on your mind. Use an emoji or two to add colour, fun, and extra meaning to your comments.
 
 When you thank people, say what you appreciate. 
