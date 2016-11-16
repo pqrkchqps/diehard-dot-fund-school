@@ -29,8 +29,8 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 </div>
 
 <div class="tile tile-33pc your-story">
-  <img src="img/placeholder.png" alt="logo"/>
   <h3>Your Story Here</h3>
+  <img src="img/placeholder.png" alt="logo"/>
   <p>If you've got a Loomio story you'd like to share, <a href="https://loomio.org/contact" target="_blank">get in touch</a>.</p>
 </div>
 
@@ -46,7 +46,7 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 
 ## Statistics New Zealand
 
-<p><strong>Statistics New Zealand</strong> used Loomio for citizen engagement, to refine the questions in the 2018 Census.</p>
+<p><strong>Statistics New Zealand</strong> used Loomio to refine the questions in the 2018 Census with members of the public. In this video, they explain how Loomio allowed them to reach a greater number and diversity of people, compared to traditional citizen engagement methods.</p>
 
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HBfO62TXZSo?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
