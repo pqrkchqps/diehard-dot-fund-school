@@ -8,6 +8,9 @@
   color: auto;
 }
 
+h3{
+  font-size: 1.2em;
+}
 
 /*FRONT PAGE*/
 
@@ -67,7 +70,7 @@
 
 /* IMAGES */
 
-img{ max-width: 100%; }
+img{max-width: 100%; }
 
 .img-left{
   float: left;
