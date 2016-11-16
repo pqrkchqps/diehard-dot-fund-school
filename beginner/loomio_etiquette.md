@@ -5,7 +5,7 @@ Every mode of communication comes with expectations about how it is used.
 Manners are a shared system of communicating that allow for respect and participation.
 
 
-## getting attention ☝️
+## Think about attention ☝️
 We live in an attention economy. A huge part of groups communicating effectively depends upon each individual knowing how to best use the attention of others in the group.
 
 If you have a topic that needs the attention of the group. Start a discussion. With the default user settings, this sends everyone an email, so it's a good way to kick off a new topic. 
