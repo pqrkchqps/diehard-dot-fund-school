@@ -1,7 +1,7 @@
 # Loomio Etiquette 👨‍👩‍👧‍👦
 
 Every mode of communication comes with it's own customs about how it is used.
-
+Being aware of these customs makes it easier to effectively use Loomio.
 ## Be conscious of getting attention ☝️
 We live in an attention economy. A huge part of groups communicating effectively depends upon each individual knowing how to best use the attention of others in the group.
 
