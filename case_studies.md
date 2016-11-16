@@ -2,7 +2,16 @@
 
 Stories from people using Loomio for everything from company governance, citizen engagement, event management, to grassroots political organising.
 
-## Conscious Consumers
+* [Businesses & Co-ops](#)
+* [Government](#government)
+* [Trusts, NGO's, and NFP's](#)
+* [Collectives](#collectives)
+* [Activists](#activists)
+
+
+## Businesses & Co-ops
+
+### Conscious Consumers
 
 <p><strong>Conscious Consumers</strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:</p>
 
@@ -10,7 +19,7 @@ Stories from people using Loomio for everything from company governance, citizen
   <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Other Business & Co-op Stories
+### Other Business & Co-op Stories
 
 <div class="tile tile-33pc">
   <img src="img/social-media-squad_650.png" alt="logo" />
@@ -39,8 +48,9 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
+## Government
 
-## Statistics New Zealand
+### Statistics New Zealand
 
 <p><strong>Statistics New Zealand</strong> used Loomio to refine the questions in the 2018 Census with members of the public. In this video, they explain how Loomio allowed them to reach a greater number and diversity of people, compared to traditional citizen engagement methods.</p>
 
@@ -48,7 +58,7 @@ Stories from people using Loomio for everything from company governance, citizen
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HBfO62TXZSo?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Other Government Stories
+### Other Government Stories
 
 <div class="tile tile-33pc">
   <img src="img/open-data-nz_500.png" alt="logo"/>
@@ -80,7 +90,9 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
-## Kava Club - Pacific & Māori Arts Collective
+## Collectives
+
+### Kava Club - Pacific & Māori Arts Collective
 
 <p><strong>Kava Club</strong> is a Pacific & Māori arts collective. We talked to cofounder Leilani A Visesio about how Loomio helps them organise events, while keeping the group focussed on their purpose:
 </p>
@@ -89,7 +101,7 @@ Stories from people using Loomio for everything from company governance, citizen
   <iframe src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Stories from other Collectives
+### Stories from other Collectives
 
 <div class="tile tile-50pc">
   <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/KLKU9JbPel4?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
@@ -133,7 +145,7 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
-## Political
+## Activists
 
 * [Debt Resistance UK](http://blog.loomio.org/2016/03/07/druk/)
 * [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/)
