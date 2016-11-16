@@ -86,7 +86,7 @@ Stories from people using Loomio for everything from company governance, citizen
 </p>
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Stories from other Collectives
