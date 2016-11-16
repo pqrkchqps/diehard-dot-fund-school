@@ -13,8 +13,7 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
 ## Business
 
 <h3>Conscious Consumers</h3>
-
-<img src="http://consciousconsumers.org.nz/themes/conscious/images/logo.png"class="img-left img-70px">
+<img src="http://consciousconsumers.org.nz/themes/conscious/images/logo.png"class="img-left img-70px" alt="logo">
 
 <p><strong><a href="http://consciousconsumers.org.nz/">Conscious Consumers</a></strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:
 
@@ -22,28 +21,22 @@ Stories from people using Loomio to make the world a better place. 1 feature vid
   <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
 
-<div class="tile tile-50pc">
-  <!-- <img src="https://i.imgur.com/I5IMMWc.png" width="100%" /> -->
-
-  <img src="img/silvia_200.png" class="img-left img-100px"/>
+<div class="tile tile-33pc">
   <h3>Social Media Squad</h3>
-
+  <img src="img/social-media-squad_650.png" alt="logo" width="100%" />
   <p>The <strong><a href="http://socialmediasquad.cc/">Social Media Squad</a></strong> use Loomio to make important decisions without the time pressure of an in-person meeting. <a href="http://blog.loomio.org/2016/01/14/socialmediasquad/" target="_blank">Find out more...</a></p>
 </div>
 
-<div class="tile tile-50pc">
-  <img src="https://loomio.files.wordpress.com/2014/02/ua_logo_red-copy.jpg?w=650" width="100%"/>
-
-  <img src="img/silvia_200.png" class="img-left img-100px"/>
+<div class="tile tile-33pc">
   <h3>Urban Adventures</h3>
-
+  <img src="img/urban-adventures_650.png" alt="logo" width="100%"/>
   <p><strong><a href="http://www.urbanadventures.com/">Urban Adventures</a></strong> are a startup with staff and partners spread across the globe. <a href="http://blog.loomio.org/2014/02/28/organising-adventure-across-six-continents/">In this story</a>, General Manager Tony Carne explains how Loomio has helped them manage conversations across the continents.</p>
 </div>
 
-<!-- <div class="tile tile-33pc your-story">
+<div class="tile tile-33pc your-story">
   <h3>Your Story Here</h3>
   If you've got a Loomio story you'd like to share, <a href="https://loomio.org/contact">get in touch</a>.
-</div> -->
+</div>
 
 ---
 
