@@ -3,7 +3,7 @@
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
 
-## Seeking attention from the group ☝️
+## Getting attention ☝️
 Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
 
 __Starting a discussion__ means you want to start a conversation with the group.  By default everyone is emailed when you start a discussion, so you should assume that it will get everyone's attention. 
