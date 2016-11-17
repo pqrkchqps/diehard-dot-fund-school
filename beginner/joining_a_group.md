@@ -31,6 +31,7 @@ Every Loomio group starts off with an Introductions thread. This is a place wher
 
 ## This is your group. Engage!
 When you see a proposal, it's an invitation for you to participate. Use your voice. If you don't understand something, say so. Agree if it's a simple yes. Be confident that the group will support you if you disagree.
+
 *link to: Learn more about facilittion and proposals. *
 
 
