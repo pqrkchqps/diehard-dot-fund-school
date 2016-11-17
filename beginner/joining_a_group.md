@@ -29,6 +29,8 @@ _video of visiting group from sidebar, clicking thread, and saying hello_
 Every Loomio group starts off with an Introductions thread. This is a place where you can say hello and introduce yourself. Share why you've joined the group, tell people something about yourself so they can understand you a bit better.
 
 
+## This is your group. Engage!
+When you see a proposal, it's an invitation for you to participate. Use your voice. If you don't understand something, say so. Agree if it's a simple yes. Be confident that the group will support you if you disagree.
 *link to: Learn more about facilittion and proposals. *
 
 
