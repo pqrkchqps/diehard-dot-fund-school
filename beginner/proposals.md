@@ -1,5 +1,5 @@
 # Using proposals
-Proposals are our thing. We over use them. We really need to build more decision types into Loomio.. but we've managed a lot with a very simple too.
+Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather information from everyone in your group and present it in an easy to understand way. When combined with a discussion inviting many points of view and pieces of information, proposals allow you to converge on a clear outcome.
 
 ## your first proposal
 What is the first decision you need to make? Maybe ask the group to commit to trying Loomio for the next two weeks? Maybe ask for permission to facilitate the group through some process. Or start a proposal to see if someone wants to volunteer to facilitate the group for a period of time.
