@@ -21,6 +21,15 @@ Once you have people discussing, the next step is to prompt people to start prop
 
 What proposal can you run to develop the practice of using loomio within your group?
 
+## Be specific about the decision being made. 
+When starting a proposal be as specific as you can, so everyone knows what it means to agree or disagree. If appropriate, include information on who will execute a proposal, not just what the proposal is.
+
+## Set closing time consciously
+Think about when you need the decision to be made, and how the proposal closing time will affect engagement from your group members e.g. you might want to time the proposal so it closes before a meeting, or avoid closing on a weekend. You can always extend the closing date if need be.
+
+
+
+
 ## Ways of using proposals
 There is no limit to the number of ways you can use the proposal feature, but over time we find that these are commonly used ways.
 
