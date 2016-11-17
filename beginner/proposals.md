@@ -1,5 +1,5 @@
 # Using proposals
-Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather information from everyone in your group and present it in an easy to understand way. When combined with a discussion inviting many points of view and pieces of information, proposals allow you to converge on a clear outcome.
+Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather information from everyone in your group and present it in an easy to understand way. When combined with a discussion inviting many points of view and pieces of information, proposals allow you to converge on a clear outcome. 
 
 ## your first proposal
 What is the first decision you need to make? Maybe ask the group to commit to trying Loomio for the next two weeks? Maybe ask for permission to facilitate the group through some process. Or start a proposal to see if someone wants to volunteer to facilitate the group for a period of time.
@@ -9,7 +9,7 @@ Once you have people discussing, the next step is to prompt people to start prop
 What proposal can you run to develop the practice of using loomio within your group?
 
 ## Consider the whole pie graph.
-Proposals don't have to pass. That's not realistic. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
+Proposals don't have to pass. Infact most of the time they don't. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
 
 <!-- Proposals have
 ## Find volunteers to address a problem and report back to the group.
