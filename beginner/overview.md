@@ -8,7 +8,7 @@ It's used by thousands of groups around the world to:
 - Approve funding or service applications
 - Engage stakeholders in policy development
 
-If you'd like to find out more, we have a [selection of videos and articles](http://loomio.school/case_studies.html) highlighting a variety of ways groups have used Loomio .
+Our [case studies](http://loomio.school/case_studies.html) section highlights the variety of ways groups have used Loomio and may provide some inspiration to you.
 
 It's an open source web application which works great on mobile phones.
 
