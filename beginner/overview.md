@@ -1,5 +1,15 @@
 # What is Loomio?
 
+Loomio is an app for collaborative decision-making. It's an online tool that empowers groups to come together, build shared understanding and agree on a clear course of action.
+
+It's used by thousands of groups around the world to:
+
+- Make inclusive decisions without having in person meetings.
+- Approve funding or service applications
+- Engage stakeholders in policy development
+
+We have a [selection of videos and articles](http://loomio.school/case_studies.html) detailing ways that Loomio is used by a variety of groups.
+
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/REgF_cGYqOs" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -46,6 +56,12 @@ When the proposal closes, the author can share an **outcome** to interpret the r
 
 ## That's it.
 In practice you'll find that you repeat steps 2 to 4 as you work together to find the best course of action for the group. Over time you'll build a history of decisions you can refer to.
+
+
+## Loomio is a cooperative social enterprise.
+Loomio is made by the Loomio Cooperative. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives.
+
+We're a social enterprise based in Wellington, Aotearoa New Zealand. [Find out more about us](https://www.loomio.org/about).
 
 ---
 
