@@ -35,7 +35,7 @@ Anyone in the group can start a discussion. Everyone in the group is able to par
 
 ![](https://i.imgur.com/niOczGK.png)
 
-Use a **proposal** to move a discussion towards conclusion: you can test an idea, or make a decision.
+Proposals are the defining feature of Loomio. Use a proposal to move a discussion towards conclusion: you can test an idea, or make a decision.
 
 If you're wondering how to move a conversation forward, the answer is almost always **start a proposal**!
 
@@ -43,16 +43,18 @@ If you're wondering how to move a conversation forward, the answer is almost alw
 
 ![](https://i.imgur.com/Nd1980L.png)
 
-While proposals are open, everyone in the group can **vote** using one of four positions:
+While a proposal is open, everyone in the group can give their position:
 
 * **Agree** if you’re happy with the proposal.
 * **Abstain** if you’re happy for the group to decide without you.
 * **Disagree** if you believe there might be a better alternative.
 * **Block** if you’ve got serious objections to the proposal going ahead.
 
-You can also enter a brief **statement** with your vote, to explain why you voted the way you did.
+When you select your position, you can also enter a short **statement** to explain why you voted the way you did.
 
-When the proposal closes, the author can share an **outcome** to interpret the results back to the group.
+Loomio makes it easy to understand what people think about a proposal. A few iterations through this process is ususally all that is needed to ensure a decision is right for the group.
+
+When the proposal closes, the author can share an **outcome** so everyone knows what the next steps are.
 
 ## That's it.
 In practice you'll find that you repeat steps 2 to 4 as you work together to find the best course of action for the group. Over time you'll build a history of decisions you can refer to.
