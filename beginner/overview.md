@@ -10,6 +10,8 @@ It's used by thousands of groups around the world to:
 
 We have a [selection of videos and articles](http://loomio.school/case_studies.html) detailing ways that Loomio is used by a variety of groups.
 
+It's an open source web application which works great on mobile phones.
+
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/REgF_cGYqOs" frameborder="0" allowfullscreen></iframe>
 </div>
