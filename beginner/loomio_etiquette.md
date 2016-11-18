@@ -3,7 +3,7 @@
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
 
-## This is your space.
+## This is your space. 🏡
 The group is enriched when everyone participates. Say what is on your mind. Discussions and Proposals are invitations to use your voice and it's ok to change your mind.
 
 ## Getting attention ☝️
@@ -19,7 +19,7 @@ __disagreeing and blocking__ are good indicators that someone has something impo
 
 Some people will not participate unless prompted, it takes a little care to do this in an inviting way but try to encourage people to participate by saying how you'd value what they have to say on this.
 
-## Responding thoughfully and in time. ⌚️
+## When should you expect a reply? ⌚️
 Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
 
 
