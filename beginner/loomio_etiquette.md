@@ -41,17 +41,21 @@ Long comments can be hard to follow. If you must write a long comment, add a sum
 
 If the comment you're writing is tangential to the topic of the discussion, start a new discussion to avoid making the thread hard to follow.
 
+Writing good titles increases engagement and makes content easier to find. Think of titles like an email subject. They should be 1 line or less of text and describe the issue you want to discuss.
+
 When starting a discussion put all the relevant informaiton into the context  field. Write your message as if to someone who has never heard of it before. Include links to relevant background info or previous discussions so people can catch themselves up.
+
+It's great to include your own point of view in a discussion, keep the context area obective and write your own points of view as a comment to help maintain a robust discussion.
+
+When raising a proposal you want to ensure that the title is clear and the details field contains all the information people need to agree or disagree.
 
 If you are starting a discussion and have both general context as well as your own point of view, put the general context into the context box and include your point of view as it's own comment.
 
 Starting a discussion involves choosing a clear title and providing all the contextual information people will need to participate. 
 Who, what, where, why, when.
 Include Links, Make it Easy
-If you want people to click through to other content, include links! People will not go searching for facebook events, google docs, etc, on their own. Put everything they need right in front of people.
 
-Writing good titles increases engagement and makes content easier to find.
-When raising a proposal you want to ensure that the title is clear and the details contain enough information for people to participate 
+If you want people to click through to other content, include links! People will not go searching for facebook events, google docs, etc, on their own. Put everything they need right in front of people.
 
 
 
