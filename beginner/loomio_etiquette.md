@@ -3,6 +3,9 @@
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
 
+## This is your space.
+The group is enriched when everyone participates. Say what is on your mind. Discussions and Proposals are invitations to use your voice and it's ok to change your mind.
+
 ## Getting attention ☝️
 Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
 
