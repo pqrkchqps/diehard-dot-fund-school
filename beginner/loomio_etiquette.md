@@ -19,6 +19,9 @@ Be expressive! Say what it is that is on your mind. Use an emoji or two to add c
 ## Getting attention ☝️
 Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
 
+Make it Count
+Send out as few messages as possible, and use each one to the max. Consider how precious people’s time is. Our attention is a commons we share - if we start overusing it, we'll degrade it for everyone. Do a quick search to see if there’s already an existing thread on the topic before posting a new one.
+
 __Starting a discussion__ means you want to start a conversation with the group.  By default everyone is emailed when you start a discussion, so you should assume that it will get everyone's attention. 
 
 __Mentioning__ people is a direct way of asking for someone's attention within a discussion. It's a really useful way to ask someone a question or get their attention within an existing discussion.
