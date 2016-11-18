@@ -3,7 +3,18 @@
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
 
+## This is a safe space 😎
+> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
 
+The group is enriched when everyone is able to say what is on their mind - however speaking your mind can make you feel vulnerable. Be forgiving - Help people to understand your point of view. If you disagree with someone, enquire why they think or feel the way they do, rather than telling them they're in the wrong.
+
+It's ok to be in the wrong. Loomio is about people developing their understanding and chaning their position if it makes sense to do so.
+
+Respectful disagreement is essential to finding the best solution for the group, but it can also be challenging work. If a situation starts to get stressful consider ways you can reach out to the individuals involved and offer support.
+
+Be careful with humour and avoid scarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
+
+Be expressive! Say what it is that is on your mind. Use an emoji or two to add colour, fun, and extra meaning to your comments. When you thank people, say what you appreciate. 
 
 ## Getting attention ☝️
 Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
@@ -21,31 +32,15 @@ Some people will not participate unless prompted, it takes a little care to do t
 ## When should you expect a reply? ⌚️
 Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
 
+## Stay on topic and be concise
 
-## Stay on topic. Be concise
-Put all the relevant info you can very concisely in the title. Many people  will look no further than the subject line. Who, what, where, why, when.
+Long comments can be hard to follow. If you must write a long comment, add a summary to the top of it, so people know why they should commit to a longer read.
 
-If you're starting a discussion, make sure to make the title as succinct as possible. 
+If the comment you're writing is tangential to the topic of the discussion, start a new discussion to avoid making the thread hard to follow.
+
+Writing good discussion and proposal titles increases engagement and makes threads easier to find. It takes a bit of practice to get them just right, and sometimes the title is easier to write after the discussion has clarified things.
 
 When raising a proposal you want to ensure that the title is short and the details contain just the right amount of information so people can decide by reading the proposal text.
 
-if you notice that you are writing a comment that isn’t about the topic of the thread, but is about something else... start a new thread!
 
-Reread your comments before you post. Check that you're concise and clear and really mean what you've written.
 
-Long comments can be hard to follow. If you must write a long comment, add a summary to the top of it, so people get your point, then can read more for your detailed reasoning.
-
- the room, but the culture of Loomio is around valuing difference.
-
-## This is a safe space 😎
-> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
-
-The group is enriched when everyone is able to say what is on their mind - however speaking your mind can make you feel vulnerable. Be forgiving - Help people to understand your point of view. If you disagree with someone, enquire why they think or feel the way they do, rather than telling them they're in the wrong.
-
-It's ok to be in the wrong. Loomio is about people developing their understanding and chaning their position if it makes sense to do so.
-
-Respectful disagreement is essential to finding the best solution for the group, but it can also be challenging work. If a situation starts to get stressful consider ways you can reach out to the individuals involved and offer support.
-
-Be careful with humour and avoid scarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
-
-Be expressive! Say what it is that is on your mind. Use an emoji or two to add colour, fun, and extra meaning to your comments. When you thank people, say what you appreciate. 
