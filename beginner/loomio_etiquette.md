@@ -35,9 +35,7 @@ Reread your comments before you post. Check that you're concise and clear and re
 
 Long comments can be hard to follow. If you must write a long comment, add a summary to the top of it, so people get your point, then can read more for your detailed reasoning.
 
-
-## This is a space for you. 🏡
- Discussions and Proposals are invitations to use your voice and it's ok to change your mind. It can be hard to bring an opposing view into the room, but the culture of Loomio is around valuing difference.
+ the room, but the culture of Loomio is around valuing difference.
 
 ## This is a safe space 😎
 > A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
