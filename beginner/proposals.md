@@ -11,7 +11,7 @@ So maybe you want to have a proposal to confirm the purpose of your group. Or to
 Most often you don't know what the first proposal is, until you have a discussion together. Look out for when it seems like there is a piece of the puzzle the group seems to agree upon.
 
 
-## Using proposals regularly
+## Start proposals, encourage proposals
 Often people will write comments that look a lot like proposals.. in this case it's just a matter of encouraging that person to raise a proposal.
 
 When agreeing on the solution is not working, switch to agreeing on the problem. then to agreeing process to address the problem.
@@ -30,6 +30,8 @@ Think about when you need the decision to be made, and how the proposal closing 
 ## Communicate the outcome
 When your proposal closes, you’ll be prompted to set a proposal outcome. You can use this as a way to remind the whole group what you agreed to do together.
 
+## Consider the whole pie graph.
+Proposals don't have to pass. Infact most of the time they don't. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
 
 
 ## Ways of using proposals
@@ -101,22 +103,6 @@ Raise a proposal which asks for people to say “yes” if they are keen to be p
 
 ---
 
-If you agree, great. Green thumb. State why you support the proposal.
-If you're not sure yet, then say so. Abstain and say where you're at.
-If you think we can do better: disagree. Suggest an alternative.
-Block is special. Use it wisely, don't block unless you feel very strongly that a “no” is not good enough.
-Vote, vote now, vote again later. Say what you think and change your mind when you get more information or insight from the group.
-Every vote lets you make a short statement to explain your position. Those summary statements are an excellent way for people to catch up on a proposal if they are coming in late.
-As always, if you have any questions, please let me know :)
 
-## Consider the whole pie graph.
-Proposals don't have to pass. Infact most of the time they don't. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
+The Loomio user manual contains specific details about [how proposals work](https://help.loomio.org/en/proposals.html).
 
-<!-- Proposals have
-## Find volunteers to address a problem and report back to the group.
-Anyone can raise a proposal, and they give your group members an opportunity to have their say about a specific course of action.
-Here are some ways proposals can be used: -->
-
-## Alanna says 95% of the facilitation questions she gets about Loomio are solved by "Start a proposal"
-
-## 
