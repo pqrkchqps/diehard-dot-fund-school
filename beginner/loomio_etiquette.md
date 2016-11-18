@@ -3,8 +3,7 @@
 Every mode of communication comes with it's own customs about how it is used.
 Being aware of these customs makes it easier to effectively use Loomio.
 
-## This is your space. 🏡
-The group is enriched when everyone participates. Say what is on your mind. Discussions and Proposals are invitations to use your voice and it's ok to change your mind.
+
 
 ## Getting attention ☝️
 Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
@@ -37,13 +36,17 @@ Reread your comments before you post. Check that you're concise and clear and re
 Long comments can be hard to follow. If you must write a long comment, add a summary to the top of it, so people get your point, then can read more for your detailed reasoning.
 
 
-## Help maintain the vibe 😎
+## This is a space for you. 🏡
+ Discussions and Proposals are invitations to use your voice and it's ok to change your mind. It can be hard to bring an opposing view into the room, but the culture of Loomio is around valuing difference.
 
-A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) says the number one factor in team performance is psychological safety. IE: Team members being able to take risks without feeling insecure or embarassed.
+## This is a safe space 😎
+> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
 
-Respect difference, it's where the good stuff is when you work together. Respectful disagreement is essential to finding the best solution for the group, but it can also be hard work.
+The group is enriched when everyone is able to say what is on their mind - however speaking your mind can make you feel vulnerable. Be forgiving - Help people to understand your point of view. If you disagree with someone, enquire why they think or feel the way they do, rather than telling them they're in the wrong.
 
-Be forgiving - Help people to understand your point of view. Enquire why someone thinks or feels the way they do, rather than telling them they're wrong.
+It's ok to be in the wrong. Loomio is about people developing their understanding and chaning their position if it makes sense to do so.
+
+Respectful disagreement is essential to finding the best solution for the group, but it can also be challenging work. If a situation starts to get stressful consider ways you can reach out to the individuals involved and offer support.
 
 Be careful with humour and avoid scarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
 
