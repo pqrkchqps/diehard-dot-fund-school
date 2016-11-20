@@ -8,7 +8,7 @@ Respectful disagreement is essential to finding the best solution for the group,
 
 If a disagreement online starts to get stressful, consider ways you can reach out to the individuals involved and offer support.
 
-Be forgiving - Help people to understand your point of view. If you disagree with someone, esquire why they think or feel the way they do, rather than telling them they're in the wrong.
+Joshua Vial has written a helpful blog on [resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/)
 
 Be careful with humour and avoid scarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
 
