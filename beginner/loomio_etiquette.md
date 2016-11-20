@@ -1,20 +1,18 @@
-# Loomio Etiquette 👨‍👩‍👧‍👦
+# Loomio Etiquette
 
-Every mode of communication comes with it's own customs about how it is used.
-Being aware of these customs makes it easier to effectively use Loomio.
 
-## This is a safe space 😎
+## Respectful disagreement 😎
 > A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
 
-The group is enriched when everyone is able to say what is on their mind - however speaking your mind can make you feel vulnerable. Be forgiving - Help people to understand your point of view. If you disagree with someone, enquire why they think or feel the way they do, rather than telling them they're in the wrong.
+Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work.
 
-It's ok to be in the wrong. Loomio is about people developing their understanding and chaning their position if it makes sense to do so.
+If a disagreement online starts to get stressful, consider ways you can reach out to the individuals involved and offer support.
 
-Respectful disagreement is essential to finding the best solution for the group, but it can also be challenging work. If a situation starts to get stressful consider ways you can reach out to the individuals involved and offer support.
+Be forgiving - Help people to understand your point of view. If you disagree with someone, esquire why they think or feel the way they do, rather than telling them they're in the wrong.
 
 Be careful with humour and avoid scarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
 
-Be expressive! Say what it is that is on your mind. Use an emoji or two to add colour, fun, and extra meaning to your comments. When you thank people, say what you appreciate. 
+Be expressive and say what is on your mind. Use an emoji or two to add colour, fun, and extra meaning to your comments.
 
 ## Getting attention ☝️
 Communicating effectively within a group depends upon each individual knowing how to best use the attention of others.
