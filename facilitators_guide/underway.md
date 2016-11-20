@@ -112,7 +112,7 @@ Some examples of processes that can help mitigate cognitive bias:
 * Loomio invites people into a semi-structured process that leads to more considered decision-making. Loomio can be used for a huge range of different processes, but simply having *some* structure in a discussion enables other possibilities.
 
 
-## Balancing Divergent / Convergent
+## Balancing Divergent & Convergent
 
 The ‘diamond’ of divergence and convergence is a conversational shape that expands outward at first - opening up space for ideas, information, and different perspectives - then begins to come to a point, narrowing down to a specific conclusion. The right timing for this shift, and making sure the shift occurs, is key for effective facilitation of action-oriented discussion. The rhythm of this process is the nature of productive collaboration (where people work together to synthesise new solutions).
 
