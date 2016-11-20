@@ -17,44 +17,49 @@ You're reading Phase 3 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Where are we on the Map?
 
-People feel more confident and better held if they can orient themselves within a process or timeline. Facilitators often open a session with an overview of the agenda, and contextualisation of a particular moment within the timeline of a larger process (if relevant). It’s also common to write the agenda/timeline up where everyone can see, to help participants continually understand where they are at a given point in the process.
+People feel more confident and better held if they can orient themselves on a timeline or agenda. They want to know what they’re doing now, what’s coming up, and to be reminded of what they’ve already done. Understanding the overall shape of the process helps people understand how to contribute effectively. 
 
-People want to know what they’re doing now, what’s coming up, and be reminded of what they’ve already done. Understanding the overall shape of the process helps people understand how to contribute effectively - for example if they can see there’s a Q&A section later, they’ll accept an ‘information download’ section without interrupting. If it’s clear that there’s a divergent phase and then a convergent phase, people will be more willing to hold back from jumping to solutions too soon. People need to know what kind of input they are being asked for when, and if they can see how the pieces fit together they will participate more effectively.
+For example if they can see there’s a Q&A section later, they'll be more willing to hold their questions during a presentation. If it’s clear that there’s a divergent phase and then a convergent phase, people will hold back from jumping to solutions too soon. People need to know what kind of input they are being asked for when.
 
-Mapping the process well enough to communicate it also challenges facilitators and process designers to fully think through the journey they are inviting people on, and helps them make sure each part of the process has a purpose that builds a cohesive whole. A well facilitated experience follows a logical progression.
+Mapping the process well enough to communicate it also challenges facilitators to fully think through the journey, and helps them make sure each part of the process has a purpose that builds a cohesive whole. A well-facilitated experience follows a logical progression.
 
-### Translating this into Loomio
+### On Loomio
 
-* A Loomio decision already follows a basic logical progression, which is why it works: Gather (open/invite), Discuss (divergent), Propose (convergent), Decide and Act (conclude).
-* Many Loomio users are employing the tool as part of explicitly mapped experiences, such as a multi-stage consultation process. Experienced facilitators are able to work it into their existing practice with some success.
-* We offer some tools of facilitators to help "reveal the map" to users, such as the group description field, and proposal deadlines.
+* A Loomio decision already follows a basic logical progression (which is why it works): Gather (open/invite), Discuss (divergent), Propose (convergent), Decide and Act (conclude).
+* Many Loomio users are employing the tool as part of explicitly mapped experiences, such as a multi-stage consultation process.
+* We offer some tools of facilitators to help "reveal the map" to users, such as the group description field, and proposal deadlines. These can be proactively leveraged to increase context for participants.
 
 
 ## The Art of Noticing
 
-Noticing is probably the most critical facilitation skill of all. The facilitator uses the art of noticing to figure out what interventions or responses are needed, how to invite the right contributions, and to help the group notice what’s going on with individuals and the whole. The value of facilitation really stems from having someone specifically paying attention and acting on what they notice, while others may be focused on specific content, their own agendas, etc.
+Noticing is probably the most critical facilitation skill of all. The facilitator uses noticing to figure out what interventions or responses are needed, how to invite the right contributions, and to help the group notice itself. The value of facilitation is having someone paying attention and acting on what they notice, while others may be focused on specific content or their own agendas.
 
-The informational inputs, and the ability to interpret and act on them, make all the difference. Many facilitators talk about "reading" a room. What are they “reading”? It’s everything from emotional reactions, to tensions, to power dynamics. To do this effectively, they need information and signalling systems.
+Effective noticing is a combination of good informational inputs, and sensitivity and skill to interpret them. Many facilitators talk about "reading" a room: emotional reactions, tensions,  power dynamics. Facilitators need effective information signalling systems.
 
-### Translating this into Loomio
+### On Loomio
 
-* Many current features assist with noticing - the biggest one is probably statements of positions on proposals and how the pie is shaping up. But also other information like who has and has not yet participated, what topics are being raised, who has and has not accepted their group invitation, etc are also helpful.
-* In some ways Loomio makes it much easier to practice noticing and make interventions in response - a single facilitator can read across dozens of discussions at the same time, see clearly what’s being shared, and act accordingly. Talking online can make much of what is implicit in person explicit, and therefore easier to notice.
-* Communicating in writing can be very good for naming what’s being noticed and why a certain action is being taken in response. For example, you can quote someone’s exact words and reflect back what’s revealed by them. Or you can do the same thing at the level of a whole discussion, picking out a range of quotes and noticing themes or emerging conflicts, etc.
+* Many current features assist with noticing - the biggest one is probably watching how the pie is shaping up in a proposal. 
+* The software notices some things: who has and has not yet participated, what topics are being raised, who has and has not accepted their group invitation, etc.
+* On Loomio, a single facilitator can read across dozens of discussions at the same time, see clearly what’s being shared, and act accordingly. 
+* Talking online can make the implicit explicit, and therefore easier to notice.
+* Communicating in writing can be very good for naming what’s being noticed and why a certain action is being taken in response. For example, you can quote someone’s exact words and reflect back what’s revealed by them. Or you can do the same thing at the level of a whole discussion, picking out a range of quotes and noticing themes or emerging conflicts.
 * Noticing is much easier when you slow things down, which is one of Loomio’s great advantages - asynchronous communication you can read at any pace. It also makes it possible to notice across time, referring directly to past discussions.
+* Because you can have simultaneous discussions, it's possible to have a layer of "meta" discussion (aka "blue hat", aka discussion about the discussion) at the same time as progressing the main discussions. So you can collectively have a space to practice noticing without slowing down the process.
 
 
 ## Hearing Diverse Voices
 
-In our society, multiple layers of history, power dynamics, culture, and psychology conspire to amplify certain voices and suppress others. This plays out at every level of experience, from our innermost subconscious beliefs to our political system and laws, and everything in between. But the best ideas and important information does not always come from the loudest voices: the role of facilitation is to counteract these biases. It’s a big concept to take on all of society’s baggage, but it’s important to be aware of the dynamics we are collectively grappling with if our goal is social justice, group effectiveness, and high quality decision-making.
+In our society, multiple layers of history, power dynamics, culture, and psychology conspire to amplify certain voices and suppress others. This plays out at every level of experience, from our innermost subconscious beliefs to our political system and laws. 
+
+But the best ideas do not always come from the loudest voices, and the role of facilitation is to counteract these biases. It’s important to be aware of the dynamics we are collectively grappling with if our goals are social justice, group effectiveness, and high quality decision-making.
 
 <img src="img/rich_200.png" class="img-right img-100px"/>
 
 > If you want to innovate, you have to make space for different points of view — luckily, this is also what you need to do if you want a team where everyone is empowered. All kinds of cultural and technical factors conspire to privilege some voices at the expense of others. There are many practices you can implement to systematically challenge that bias, but just being aware of it is a good starting point. — Richard Bartlett
 
-Perhaps due to the universal lived human experience of inhabiting a singular consciousness, humans tend to forget that others don’t actually think or experience the world like they do. Even within a seemingly very homogenous group of people, there is incredible diversity - perspectives, communication styles, pace, preferences. Internalising this truth is a central personal growth challenge for many facilitators.
+Our lived human experience is to inhabit a singular consciousness, so humans tend to forget that others experience the world differently. Even within a seemingly homogenous group, there is incredible diversity - perspectives, pace, preferences. Internalising this truth - that others are different from myself - is a central personal growth challenge.
 
-There is no such thing as one size fits all - any mode of interacting enhances some voices and quiets others, or emphasises different tendencies within an individual. So it’s necessary to employ a range of approaches and modes if the goal is to invite the best from multiple diverse voices.
+There is no such thing as one size fits all. Any mode of interacting enhances some voices and quiets others, or emphasises different tendencies within an individual. So, it’s necessary to employ a range of approaches to invite the best from multiple diverse voices.
 
 <img src="img/silvia_200.png" class="img-right img-100px"/>
 
@@ -64,44 +69,47 @@ One of the best approaches to bringing out and weaving together diverse voices i
 
 Some classic design building blocks to address communication diversity in collaborative communication:
 
-* **Group size** - individual reflection, pairs, small group, large group, one-to-one, one-to-many, many-to-many
+* **Group size** - individual reflection, pairs, small group, large group, one-to-one, one-to-many, many-to-many.
 * **Medium of expression** - writing, drawing, video, singing, dance, flowcharts, equations, symbols, stories, tears, laughter, debate, etc.
-* **Discussion protocols** - rounds (hear from each person once before moving on), rate limiting (you can only speak again after two others have spoken), talking stick (only speak when you have the stick - no interrupting), time-limited contributions (you can talk for 1 minute only), time-unlimited contributions (you can hold the floor indefinitely and everyone will deeply listen), tracking contributions (how much have women vs men spoken, etc), holding periods of silence between speakers.
-* **Embrace silence.** Silence is only awkward if you let it be awkward. Silence is a chance for people to think. — Silvia Zuur
+* **Discussion protocols** - rounds (hear from each person once before moving on), rate limiting (you can only speak again after two others have spoken), talking stick (only speak when you have the stick - no interrupting), time-limited contributions (you can talk for 1 minute only), time-unlimited contributions (you can hold the floor indefinitely and everyone will deeply listen), tracking contributions (how much have women vs men spoken, etc), holding periods of silence between speakers (for processing and reflection).
+* **Embrace silence** *Silence is only awkward if you let it be awkward. Silence is a chance for people to think. — Silvia Zuur*
 
-### Translating this into Loomio
+### On Loomio
 
-* The design of Loomio has always been about ‘hearing all voices’, including people who aren’t able to be there in person, are quieter, are busy, etc. This is a big part of our core value proposition, and the simple facts of asynchronous written communication go a long way toward it. In text, every voice is more or less the same "volume".
-* The proposal feature is essentially a "round", assisting groups to facilitate each individual person having their say (if they want to), on an equal basis with all the other participants.
-* Loomio enables multi-media, including links to videos, images, diagrams, supporting evidence etc, which serves various communication styles.
-* With active facilitation and group maturity, it is possible to employ discussion protocols "manually" (eg, just agree to not post another comment until others have contributed, etc)...
-* Users have created different group sizes using parent groups and subgroups, and some large consultation processes have involved multiple smaller groups which are then synthesised into a larger outcome.
-* It’s common for people who work best using individual reflection to take time out and process their thoughts, and then come back and share a longer comment or link to a document. This is a "self-selecting" example of creating interplay between individual and group communication.
+* The design of Loomio has always been about ‘hearing all voices’, including people who aren’t able to be there in person, are quieter, are busy, etc. 
+* In text, every voice is more or less the same "volume" and "speed". Written asynchronous communication offers a kind of leveling of the field.
+* The proposal feature is essentially a "round", assisting groups to facilitate each individual person having their say (if they want to) on an equal basis.
+* Loomio enables multi-media (links, videos, images, diagrams, supporting evidence), which serve various communication styles.
+* Loomio itself is pretty basic, but with active facilitation and group maturity, it is possible to employ discussion protocols "manually" using cultural norms or agreed rules (eg, a discussion where everyone only posts once until everyone else has participated).
+* Loomio provides flexible tools for small and large group interaction, using parent groups and subgroups. Some large consultation processes have involved multiple smaller groups which are then synthesised into a larger outcome.
+* People who want time for individual reflection can take time out and process their thoughts, and then come back and share a longer comment or link to a document. This is a "self-selecting" example of creating interplay between individual and group communication.
 * Loomio accessibility features and multi-lingual translations make it possible for people with very different needs to participate as equals in one discussion. This is a key example of how technology can enable equitable participation in a way that’s nearly impossible in person.
-* If someone is contributing more than their share (talking too much), it’s technically possible to just scroll on by (whereas in person this behaviour can totally dominate the interaction and requires much more proactive interventions to counteract). However, in practice, people posting ‘walls of text’ can still be detrimental to a balanced Loomio discussion.
+* If someone is contributing more than their share (talking too much), it’s technically possible to just scroll on by (whereas in person this behaviour can totally dominate the interaction). However, people posting ‘walls of text’ can still be detrimental to a balanced Loomio discussion.
 
 
 ## Counter Cognitive Bias
 
-Human brains have evolved over millions of years to try to balance quick, efficient ‘good enough’ thinking with slow, expensive, deep analysis. Most of the time, this works pretty well, and allows us to get it right using instincts, heuristics, and generalisations. But other times, we get it wrong. In fact, there are well-known "bugs" in the human thought program, which can trip people up and keep them from making the best decisions. This is further complicated in group situations. To make good decisions, we need to have awareness of these dynamics.
+Human brains have evolved over millions of years to balance quick, efficient ‘good enough’ thinking with slow, expensive, deep analysis. This allows us to use instincts, heuristics, and generalisations as cheap and fast solutions most of the time, and to engage deep analysis when needed.
 
-There is a huge [range of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) (this list is really worth a read), all of which have potential impacts on decision-making and collaboration. Facilitation can be an important tool to deal with them, to raise awareness of their existence, encourage proactive choices about them (eg, when is it more important to move quickly and when is it more important to be accurate), and employ tools to reveal or counteract them.
+But sometimes we get it wrong. In fact, there are well-known "bugs" in the human cognition program, which can keep people from making the best decisions. This is further complicated in group situations. We need to be aware of these dynamics.
 
-One powerful tool to counter cognitive bias and increase quality of decisions is structured processes and communication. Processes can be designed to counter cognitive errors specifically, but just the simple challenge of following a process instead of the "path of least resistance" for one’s brain can help highlight thinking errors and bias. This can put the facilitator in the position of pushing the group to do things that feel challenging or trigger resistance, precisely because their brains are being asked to step out of familiar patterns. But some discipline in this area can help groups achieve their deeper goals, which many participants will agree is worth some temporary discomfort.
+There is a huge [range of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) (this list is really worth a read), all of which have potential impacts on decision-making and collaboration. Facilitation can be an important tool to deal with them, to raise awareness of their existence, encourage proactive choices about them. For example, asking when is it more important to move quickly and when is it more important to be accurate.
+
+One powerful tool to counter cognitive bias and increase quality of decisions is structured processes and communication. The challenge of following a process instead of the "path of least resistance" can help highlight thinking errors and bias. Facilitators sometimes push for things that feel challenging or trigger resistance, precisely because brains are being asked to step out of familiar patterns. Discipline in this area can help groups achieve their deeper goals, which can be worth some temporary discomfort.
 
 Some examples of processes that can help mitigate cognitive bias:
 
-* [De Bono’s Hats](http://www.debonoforschools.com/asp/six_hats.asp): different colored hats participants can wear (metaphorically) to step outside their own opinions and try on different modes of thinking and input.
-* Checklists: thinking ‘ruts’ can cause us to miss even obvious things, so a checklist of aspects to consider or process points can be helpful to weed out errors.
-* The Five Why’s: only asking why once or twice can mislead you that you’ve reached the conclusion before you get to the root level of the issue.
-* Mental models: exercises like SWOT analysis, business canvases or other structured information gathering exercises can guide you to think of all aspects of an issue.
+* [De Bono’s Hats](http://www.debonoforschools.com/asp/six_hats.asp): different colored hats participants can wear (metaphorically) to step outside their own opinions and try on different modes of thinking.
+* Checklists: thinking ‘ruts’ can cause us to miss even obvious things (especially in areas we're very familiar with), so a checklist can weed out errors.
+* The Five Why’s: only asking why once or twice can mislead you into thinking you’ve reached the conclusion before you get to the root level of the issue. Asking five times tends to get to the bottom of it.
+* Mental models: exercises like [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis), the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas), or any number of countless other structured information gathering exercises can guide you to cleaner analysis and reveal assumptions.
 
-### Translating this into Loomio
+### On Loomio
 
-* Getting more diverse information and inputs to possibly disrupt assumptions or bias is built into Loomio’s basic design, by enabling more voices to contribute to a discussion on a more equitable basis.
-* Loomio has powerful tools that help counter groupthink, namely the ability to dissent constructively. Safe and valued dissent is essential for a culture of critical thinking.
-* Communicating asynchronously in writing slows conversation down and lets it be more carefully considered - this is a key advantage Loomio has over other modes of communication.
-* Loomio already invites people into a semi-structured process that leads them to more considered decision-making than totally unstructured communication. People feel the difference and it’s a key aspect to the value they get from the tool (even if they are not aware where this effect is coming from in the design).
+* Diverse information and inputs can disrupt assumptions or bias. This is built into Loomio’s basic design: by enabling more voices to contribute to a discussion on a more equitable basis, you have a chance to escape "groupthink".
+* Loomio gives participants the ability to dissent constructively. Safe and valued dissent is essential for a culture of critical thinking.
+* Communicating asynchronously in writing slows conversation down and lets it be more carefully considered, giving people a chance to think more carefully and avoid cognitive errors.
+* Loomio invites people into a semi-structured process that leads to more considered decision-making. Loomio can be used for a huge range of different processes, but simply having *some* structure in a discussion enables other possibilities.
 
 
 ## Balancing Divergent / Convergent
