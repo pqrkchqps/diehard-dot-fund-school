@@ -61,6 +61,8 @@ The important thing at this stage is that you follow up on people who don't make
 
 If people join but don't introduce themselves, you might like to welcome them to the group with an @mention.
 
+“Welcome to the group @Jane! It's great to have you here, would you saying a little bit about your work in this space?”
+
 ## Champion the use of Loomio 🏆
 
 Model behaviour that others can learn to emulate, to be more inclusive and engaging, and help decisions progress constructively:
