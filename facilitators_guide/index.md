@@ -1,19 +1,25 @@
 # The Facilitator's Guide to Loomio 🐺
 
-Loomio is made by facilitators, and plays a huge role in how the tool has been designed. A lot written about Loomio starts from the functionality of the tool. But what if we started from facilitation principles and worked toward the tool?
+Loomio is made by facilitators, and that plays a huge role in how the tool has been designed. A lot written about Loomio starts from the functionality of the software. But what if we started from facilitation principles and worked toward understanding the tool?
 
-Whether it’s being employed by a professional facilitator explicitly in that role, or people peer-facilitating each other, or a group that has no awareness of facilitation at all, Loomio’s essential function is to mediate and support group communication toward a desired outcome. This is facilitation. 
+Whether employed by a professional facilitator, people peer-facilitating each other, or a group that has no awareness of facilitation at all, Loomio’s essential function is to mediate and support group communication toward a desired outcome. This is facilitation. 
 
 Loomio is *groupware*:
 
 > Collaborative software, or groupware, is designed to help people involved in a common task achieve their goals. One of the earliest definitions of collaborative software is 'intentional group processes plus software to support them.'
+ 
 
-Groupware is essentially about interpreting facilitation into software. I think deeply about the intersection of traditional facilitation and emerging future possibilities enabled by online communication. There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation - but the art and science of their intersection is only just emerging. This is the specific space in which Loomio strives to be.
+There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation - but the art and science of their intersection is only just emerging. This is the specific space in which Loomio strives to be.
 
-I am not a seminal facilitation expert. I consider myself only a beginner, in a craft which one can spend a lifetime honing. I am also only one person with one perspective and approach to facilitation. What I can offer is help translating between the offline and online spaces, as a practitioner in both. 
+## About the Author
 
+Hi! I'm Alanna.
 
-Introduce me, link to website, intro Silvia and Rich.
+![](alanna_fringe_s.jpg)I'm one of the founders of Loomio, and I've been thinking deeply about how it works from a facilitation perspective from the beginning. I am not a seminal facilitation expert; I consider myself only a beginner in this craft that one could spend a lifetime honing. 
+
+What I can offer is help translating between the offline and online spaces, as a practitioner in both. I've also facilitated a lot of groups who use Loomio. You can find out [more about me on my website](http://alanna.space).
+
+I'm only one person, with one perspective and approach to facilitation, when there are myriad approaches. I've tried to bring in a couple other facilitator's voices here, including Rich from Loomio and Silvia from [EXP](http://exp.agency). You'll see their words scattered throughout. 
 
 
 <a href="preparation.html">
