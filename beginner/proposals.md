@@ -1,22 +1,22 @@
 # Using proposals
 Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather views from everyone in your group, then display them clearly. When combined with robust discussion, proposals allow you to converge towards a clear outcome.
 
-## Start early
+## Start your first proposal now.
 Our research shows that groups that have 2 proposals in their first week continue to use Loomio successfully for a long time.
 
 So maybe you want to have a proposal to confirm the purpose of your group. Or to have a staff party or find people who want to be a part of your first working group.
 
-## And many more proposals
+## And them coming.
 Often people will write comments that look a lot like proposals - in this case it's just a matter of encouraging that person to raise a proposal. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
 
-Use proposals to get engagement and clarify the issue, even if the solution might not be apparent yet. Taking a stab and proposing something inspires people to articulate why exactly they disagree, which often leads to another proposal that’s more successful. A proposal failing is not a bad thing, it’s a normal step in the process. And sometimes you might be surprised by getting quick consensus on something you thought was going to be complicated!
+A proposal failing is not a bad thing, it’s a normal step in the process. And sometimes you might be surprised by getting quick consensus on something you thought was going to be complicated!
 
 ## Be specific
 
 When starting a proposal be as specific as you can, so everyone knows what it means to agree or disagree. If appropriate, include information on who will execute a proposal, not just what the proposal is.
 
 ## Set closing time consciously
-Think about when you need the decision to be made, and how the proposal closing time will affect engagement from your group members e.g. you might want to time the proposal so it closes before a meeting, or avoid closing on a weekend. You can always extend the closing date if need be.
+Think about when you need the decision to be made, and how the proposal closing time will affect engagement from your group members - e.g. you might want to time the proposal so it closes before a meeting, or avoid closing on a weekend. If discussion is lively, but the proposal is closing soon, you can extend the closing date to suit.
 
 ## Communicate the outcome
 When your proposal closes, you’ll be prompted to set a proposal outcome. You can use this as a way to remind the whole group what you agreed to do together.
