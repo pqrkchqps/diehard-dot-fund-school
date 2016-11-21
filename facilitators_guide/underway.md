@@ -114,131 +114,116 @@ Some examples of processes that can help mitigate cognitive bias:
 
 ## Balancing Divergent & Convergent
 
-The ‘diamond’ of divergence and convergence is a conversational shape that expands outward at first - opening up space for ideas, information, and different perspectives - then begins to come to a point, narrowing down to a specific conclusion. The right timing for this shift, and making sure the shift occurs, is key for effective facilitation of action-oriented discussion. The rhythm of this process is the nature of productive collaboration (where people work together to synthesise new solutions).
+The ‘diamond’ of divergence and convergence is a conversational shape. It expands outward at first - opening up space for ideas, information, and different perspectives - then begins to come to a point. The right timing for this shift is key for effective facilitation of action-oriented, productive, collaborative discussions.
+
+<a href="collaboration-process.png" alt="Collaboration process diagram"><img src="collaboration-process.png" class="img-center img-50pc"/></a>
 
 If divergence is missed out or cut off too early, there will be a lack of information to work with, people may not feel heard, and great ideas will be left unsaid. If convergence is missed out or left too late, discussion can continue indefinitely without reaching an actionable conclusion, burning participants energy and failing to achieve results.
 
-The phases of each can be further broken down: divergence consists of introduction, clarification, ideation, etc, and convergence consists of analysis, conclusion, commitment, etc. Each sub-phase of the larger process also requires awareness of the right timing and intervention. Some discussions succeed with only a vague nod toward the diamond, while others are served by a meticulous breakdown of each phase and sub-phase.
+Each sub-phase of the larger process also requires awareness of the right timing and intervention. Divergence consists of introduction, clarification, ideation. Convergence consists of analysis, conclusion, commitment. Some discussions succeed with only a vague nod toward the diamond, while others are served by a meticulous breakdown of each phase and sub-phase.
 
-Within a group, different individuals will usually tend to prefer one mode or the other, and the group as a whole will have collective tendencies toward too much blue sky thinking, jumping to solutions, or other ways the diamond can be unbalanced. Facilitation can help each person and the group as a whole spend the right amount of energy on the different modes.
+Within a group, different individuals will usually tend to prefer one mode or the other, and the group as a whole will have collective tendencies. Imbalance looks like too much blue sky thinking, or jumping to solutions. Facilitation can help each person and the group as a whole spend the right amount of energy on the different modes.
 
 
-### Translating this into Loomio
+### On Loomio
 
 * The core Loomio process does an excellent job of guiding groups to touch on each phase of the process, with the discussion being divergent and proposals being convergent. Awareness of the diamond was a big inspiration for the original design of the Loomio process.
 * Loomio helps groups to use the diamond in dynamic ways, such as when an attempt to converge (a proposal) ends up becoming a deeper level of divergence (disagreement), revealing or clarifying information to support an even better convergence (iterated proposal).
-* Some of Loomio’s basic features go a long way toward supporting each mode, such as notifications to group members when a new discussion is starting (prompting divergent contribution), and deadlines on proposals.
+* Some of Loomio’s basic features go a long way toward supporting each mode, such as notifications to group members when a new discussion is starting (prompting divergent contribution), and deadlines on proposals (prompting participation in convergence).
 * Loomio users are already able to use the existing feature set to facilitate convergence - namely starting a proposal. Good use of proposals is one of the most obvious symptoms of an effective Loomio group, and simply advising users to start more proposals unblocks many groups who are having issues.
 
 
 ## Working with Scope
 
-Successful collaboration often depends on biting off the right size piece, and biting them off in a effective order. You can apply a ‘project management’ mindset to facilitation, designing for questions like: What are the dependencies (what’s the critical path, which things need to be done first to enable other things)? What’s the most important bits to focus on? What is an achievable scope to tackle at a given time to get to a useful place with the time, energy, and information available?
+Successful collaboration often depends on biting off the right size pieces in the right order. 
 
-It’s important not to try to "boil the ocean", and instead break things down into manageable chunks. You can build toward a bigger outcome in a series of smaller pieces. It’s often better to achieve something small but useful - building trust, confidence, and energy - than to fail to reach any conclusions by aiming too large. It’s also possible to get too bogged down in details and fail to hit the bigger issues, so hitting the right scope is a balance.
+You can apply a ‘project management’ mindset to facilitation, designing for questions like: 
 
-One useful technique is "a series of small yeses". Lumping too many conversations together simply creates confusion. Frustrated groups are often helped by breaking things down and taking them on in pieces. If an issue seems hopeless complex or conflicted, it can be possible to separate out individual questions and reach consensus on them, starting with the aspect that already have agreement. Then when it comes to points of disagreement, you can pare it down to only the crux of the issues and work on them in a focused way.
+* * What are the dependencies (what’s the critical path, which things need to be done first to enable other things)? 
+* What’s the most important bits to focus on? What can be left out?
+* What is an achievable scope to tackle at a given time to get to a useful place with the time, energy, and information available?
 
-Managing scope is a dynamic process. The point of collaboration and discussion is that no one knows going on exactly what will emerge - so scope must evolve with the discussion. Whether a conversation branching out is seen as a distraction or an evolution of thinking is a judgement call. Too much rigidity and too much flexibility can both be damaging. Often times it’s not about whether something is relevant or not relevant, but a question of sequence and timing in terms of what will be most constructive.
+It’s important not to try to "boil the ocean", and instead break things down into manageable chunks. You can build toward a bigger outcome in a series of smaller pieces. It’s often better to achieve something small but useful than to fail to reach any conclusions. It’s also possible to get too bogged down in details and fail to hit the bigger issues. 
 
-*If you plan a session with multiple, interlinked parts – each one building on the other, and all leading to a life-changing, mind-exploding conclusion – and you can pull it off, then that’s amazing. But more often than not, a complicated session will go over-time and may not hit the participant’s wants and needs. -- Silvia Zuur*
+In a collaboration, no one knows exactly what will emerge, so scope must evolve with the discussion. Whether branching out at a given moment is a distraction or an evolution is a judgement call. Too much rigidity and too much flexibility can both be damaging. Often times it’s not about whether something is relevant or not relevant, but a question of sequence and timing in terms of what will be most constructive.
 
-### Translating this into Loomio
+> If you plan a session with multiple, interlinked parts – each one building on the other, and all leading to a life-changing, mind-exploding conclusion – and you can pull it off, then that’s amazing. But more often than not, a complicated session will go over-time and may not hit the participant’s wants and needs. -- Silvia Zuur
 
-* Topic-based discussion threads are a powerful tool for effective scope - even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question or part of a problem, while other aspects can be addressed simultaneously in other threads.
+#### A series of small yes's 
+Lumping too many conversations together simply creates confusion. Frustrated groups are often helped by breaking things down. If an issue seems hopeless complex or conflicted, it can be possible to separate out individual questions and reach consensus on them, starting with the easiest things to agree. Then when it comes to points of disagreement, you can pare it down to only the crux of the issues and work on them in a focused way.
 
-* The fact that Loomio is group-based does a lot of the work to define "who are we, and what are we here to discuss (or not)". This helps participants self-select what topics to bring up effectively. 
+### On Loomio
 
-* In practice, we often see users making facilitation interventions like "That’s out of the scope of this topic, but why don’t you start a new discussion about it?"
+* Topic-based discussion threads are a powerful tool for effective scope - even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question, while other aspects can be addressed simultaneously in other threads.
+* We often see users making facilitation interventions like "That’s out of the scope of this topic, but why don’t you start a new discussion about it?"
+* The act of creating a Loomio group helps define who are we and what are we here to discuss. This helps participants manage scope. 
+* The sequential proposals design of Loomio is very good for a "series of small yess's" approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
+* Asynchronous online communication can allow some people to go way out of scope without holding up others. They can simply start a new discussion or subgroup and go as deep and long as they want, while the main scope of the group is maintained.
+* The discussion context box and group description are spaces to define the scope of a conversation or group, respectively.
 
-* The sequential proposals design of Loomio is very good for a "series of small yesses" approach - you can build small agreements while maintaining focus and context of a single discussion thread, and see the history of previous proposals to build on.
+## Pacing & Timing
 
-Areas for Research:
+A productive conversation has a rhythm. The right beat comes from a complex combination of factors and often feels intuitive, like a musician improvising. When is the moment to go deeper, or pull back? When is it right to bring in new information, or further delve into what’s already on the table? This is pacing.
 
-* Could we allow Loomio discussions to be branched and merged, to achieve the right scope as information emerges?
+Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off , people will feel frustrated - either impatient or left behind.
 
-* Could we help groups to better define and express their purpose, to help participants scope their communication accordingly?
+### On Loomio
 
-* Could we better support people to use the discussion context to aim for the right scope? How a discussion is framed can be an important factor in successful scoping. Could users be better supported to help the discussion context evolve with the discussion to keep the scope clear?
+* Because it’s asynchronous, people can read and respond at their own pace on Loomio, allowing a natural pace to emerge. 
+* It’s possible to scroll right past people moving slowly and push for forward momentum, and simultaneously possible to continue digging into something slowly while others press forward. This is not possible in synchronous communication.
+* Proposal deadlines are a pace-setting tool. Topics that need to move quickly use shorter timeframes, and longer ones can have more time. Different decisions can go at different speeds.
+* It’s easy to modulate your own pace of engagement. If a conversation is moving too fast or slowly for you, you can drop your input and step back, and then return later when a proposal is raised.
+* It’s interesting to note how a "fast" decision on Loomio is 1 or 2 days, while a “fast” decision in person is more like 5 minutes. And yet, Loomio does not seem “slow”, the way taking 2 days to reach a decision in person would. Loomio runs decisions in parallel to other ongoing work, and it's much more efficient gathering everyone’s input on Loomio over 2 days versus having to schedule an in-person meeting.
+* Facilitation on Loomio could be likened to "bullet time" (when Neo can stop time and just walk around a bullet in the Matrix) - you can walk through a living conversation frame by frame. It’s like a superpower.
 
-* What can we do to better support group facilitators to design the right scope for a given discussion or group? We often see users getting it wrong, either smushing too much into one discussion or group, or trying to break it down into too many tiny pieces. We do know best practice for things like balancing openness and specificity in discussion topics, and when and how to introduce topic subgroups, but we don’t communicate this knowledge well.
-
-## Pacing and Timing
-
-A productive conversation has a rhythm. The right beat comes from the complex combination of the different people, inputs, and circumstances, and often feels intuitive, like a musician. When is the moment to go deeper, or pull back? When is it right to bring in new information, or further delve into what’s already on the table? 
-
-Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off in either direction, people will feel frustrated - either impatient or left behind.
-
-### Translating this into Loomio
-
-* Loomio provides a decent platform for a pace that suits the group to emerge, even without proactive facilitation. Because it’s asynchronous, people can read and respond at their own pace. 
-
-* It’s also possible to scroll right past people moving slowly and push for forward momentum, and simultaneously possible to continue digging into something slowly while others press forward. This is a special ability not possible in synchronous communication.
-
-* Groups have been seen to quite effectively figure out their own speed for setting proposal deadlines. Groups/topics that need to move quickly use shorter timeframes, and longer ones when appropriate to the decision. Users seem to fairly intuitively grasp that different decisions can go at different speeds and act accordingly.
-
-* It’s easy to "hop on and off the train" to modulate your own pace of engagement. For example, if a conversation is moving too fast or slowly for you, you can drop your input and step back, and then return later when a proposal is raised to state your position.
-
-* It’s interesting to note how a "fast" decision on Loomio is 1 or 2 days, while a “fast” decision in person is more like 5 minutes. And yet, Loomio does not seem “slow” (the way taking 2 days to reach a decision in person would). This is probably because of the ability to run Loomio decision in parallel to other ongoing work (multi-channel parallel processing), and because it’s so much more efficient gathering everyone’s input on Loomio over 2 days versus having to schedule an in-person meeting.
-
-* Facilitation on Loomio could be likened to "bullet time" (when Neo can stop time and just walk around a bullet in the Matrix) - you can walk through a living conversation frame by frame. It’s like a superpower, but we don’t really articulate it.
-
-Areas for research:
-
-* Proposals are probably the most effective tool in Loomio for pacing. How can we support users to time them well? What do we know about the timing of proposals that leads to clear outcomes?
-
-* Could the UX better support people working at different paces to collaborate together well? For example, could a small subset of the group go deep or fast on an aspect of the discussion without overwhelming the main flow, and then feed back in what they learned? Discussion threading could help a lot with this - the top level comments would be going at once pace, with the sub-comments at another, without interference.
-
-* Could we do a better job helping people "catch up" if they find themselves behind the pace of a discussion? For example, discussion summaries that help you get up to speed so the group can continue the momentum while being inclusive.
-
-* How can we think about the value of "slowing down" communication? Slowing things down can be incredibly helpful for gaining deep understanding and doing your best thinking, and asynchronous written discussion is a unique opportunity to go for quality over speed while still overall achieving efficiency.
-
-* What do we know about the right timeframe for different kinds of decisions, and could we share that understanding with users? There are many variables, such as complexity of the topic, size of the group, and external deadlines or constraints - can we help users think through when to push forward and when to leave more space?
+<a href="bulletime.jpg" alt="Neo Matrix Bullet Time"><img src="bulletime.jpg" class="img-center img-50pc"/></a>
 
 
 ## Managing the Attention Economy
 
-A facilitator is a curator of attention. In collaboration and knowledge-work problem solving, the information available can be literally infinite. It becomes critical to filter it in order to avoid overwhelm. Managing the attention economy means balancing importance to the goals against time and capacity available.
+A facilitator is a curator of attention. The information available can be literally infinite. It becomes critical to filter it in order to avoid overwhelm. Managing the attention economy means balancing importance against time and capacity.
 
-Facilitation can assist with productively shaping the attention economy in a range of ways. One is to help the group to agree what the purpose and scope of a given discussion or process is, and then guide them to stay focused on it. Limiting distractions and steering the conversation back on track are common interventions.
+Facilitation can help the group agree what the purpose and scope of a given discussion or process is, so they can have a rubric for prioritising attention. Limiting distractions and steering the conversation back on track are common interventions.
 
-Another important way facilitators work with attention is to insist on the group holding it long enough. When things get challenging, unclear, or uncomfortable, it’s common for people to want to give up too soon, deflect to another topic, or look away. A facilitator can play a critical role in helping the group see things through or fully process them in service of their goals.
+Another important way facilitators work with attention is to insist on the group holding it long enough. When things get challenging, unclear, or uncomfortable, people to want to give up too soon, jump to another topic, or look away. A facilitator can help the group see things through, in service of their collective goals.
 
 Structured processes and information sorting exercises are important facilitation tools in this area. Some examples:
 
-* Time-boxing a period of brainstorming, to let out all kinds of ideas and information, and then focusing down on a few.
-* Listing everything people might want to talk about in the agenda, and then running a process to prioritise the top items to focus on first.
-* Generating a bunch of concepts on post-its and grouping them into thematic clouds, which are then condensed into topics.
-* Having a "parking lot" space to stick ideas or questions that come up that are not immediately relevant, to be addressed later.
-* Defining success criteria for process, and keeping the group focused on it until those criteria are achieved.
+* **Time-boxing** - specifying a period of brainstorming, or conversation on a given topic.
+* **Agenda prioritisation** - listing everything people want to talk about and then picking to top items to focus on, before jumping into content.
+* **Post-it cloud** - generating a bunch of ideas or questions and grouping them thematically and then condensing them into topics.
+* **Parking lot** - a space to stick ideas or questions that come up that are not immediately relevant, to be addressed later.
+* **What does success look like??** Defining success criteria and keeping the group focused on it until those criteria are achieved.
 
-### Translating this into Loomio
+### On Loomio
 
-* One of the most important attention management features in Loomio is topic-based discussion threading. There’s a reason why this format was one of the first to emerge in online communication decades ago, and continues to be used widely today - it’s a highly effective way to sort attention. Most Loomio users intuitively understand how to stay on topic when it’s listed in big letters at the top of the page.
-* Activity in Loomio is like the currency of its attention economy - everything that generates a notification spends it. We have honed our understanding about what should be considered "salient" activity over the years (for example, comments, votes, and outcomes are, while a ‘like’ on a comment is not). We have settled on specific default settings for notifications through trial and error and a lot of user feedback.
-* Users can exercise a lot of customised control over their Loomio attention economy through notification settings.
-* Subgroups can be a powerful tool to help people moderate their attention economy.
-* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ so to speak to fully process a proposal before moving on is a powerful way to shake out issues and clarify the landscape of the group’s views.
+* One of the most important attention management features in Loomio is topic-based discussion threading. There’s a reason why this format was one of the first to emerge in online communication decades ago, and continues to be used widely today: it’s a highly effective way to sort attention. Most Loomio users intuitively understand how to stay on topic when it’s listed in big letters at the top of the page.
+* Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered "salient" activity that generates notifications (for example, comments, votes, and outcomes are, while a ‘like’ on a comment is not), developed based on user feedback.
+* Users can exercise a lot of customised control over their Loomio attention economy through notification settings. Helping users set these preferences is an important tool to wisely using the attention economy of the group.
+* Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
+* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ to fully process a proposal before moving on. 
 
 > Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)
 
 
-
 ## Facilitation Interventions
 
-There are as many facilitation techniques as there are facilitators in the world, and entire libraries books have been written on the topic. It’s not possible to provide a list of interventions. However, it might be useful to consider two categories of interventions.
+There are as many facilitation techniques as there are facilitators in the world, and entire libraries of books have been written on the topic. It’s not possible to provide a comprehensive list of interventions. 
 
-1. Supportive interventions: inviting contribution, going deeper, drawing out, coaxing, nurturing, protecting, creating space
-2. Assertive interventions: pulling back, shutting down, drawing lines, interrupting, challenging, steering on course, excluding bad behavior
+However, it might be useful to consider two categories of interventions:
 
-> Singling people out for a contribution will just make them feel like the stupid kid in class who doesn’t know the answer. Instead, a general invite to people who haven’t spoken yet to contribute tells the regular contributors to stay quiet, and gives quieter people the opportunity to step forward. — Silvia Zuur
+1. **Supportive interventions**: inviting contribution, going deeper, drawing out, coaxing, nurturing, protecting, creating space.
+2. **Assertive interventions**: pulling back, shutting down, drawing lines, interrupting, challenging, steering on course, excluding bad behavior.
 
 Almost all interventions in face-to-face facilitation can be reimagined and employed in the online space.
 
-### Translating this into Loomio
+> Singling people out for a contribution will just make them feel like the stupid kid in class who doesn’t know the answer. Instead, a general invite to people who haven’t spoken yet to contribute tells the regular contributors to stay quiet, and gives quieter people the opportunity to step forward. — Silvia Zuur
 
-* The main tools Loomio offers currently for making interventions are comments, @mentions, adding/removing users, and deleting comments/discussions. These can be employed for various forms of supportive and assertive interventions. The most commonly used is probably comments - simply talking to the group and inviting or trying to reduce certain behavior.
-* Participation permissions offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals, etc.
-* Loomio offers some trust-based features that other tools lack, such as the ability for all participants to edit discussion contexts (even if it was posted originally by another user). These ideas are inspired by things like Wikipedia and open source software development.
+### On Loomio
+
+* Intervention tools in Loomio include comments, @mentions, adding/removing users, and starting/deleting discussions. These can be employed for various forms of supportive and assertive interventions. 
+* The most commonly used intervention is the comment - simply talking to the group and inviting or trying to reduce certain behavior.
+* [Participation permissions](https://help.loomio.org/en/group_settings.html) offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals.
+* Loomio offers some trust-based features that other tools lack, such as the default ability for all participants to edit discussion contexts (even if it was posted originally by another user). These are inspired by things like Wikipedia and open source software development.
 
 > Move on to [Phase 4](concluding.md) of the [5 Phases of Faciliation in Loomio](index.md).
