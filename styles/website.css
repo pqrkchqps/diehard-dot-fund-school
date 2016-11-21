@@ -8,6 +8,9 @@
   color: auto;
 }
 
+.markdown-section h3{
+  font-size: 1.2em;
+}
 
 /*FRONT PAGE*/
 
@@ -17,27 +20,35 @@
   margin: -4px 4px 0 0;
 }
 
-
-/*CHAPTER PAGE TILES*/
-
-.media-tile{
+.tile{
   padding: 0.5em;
   margin: 0 10px 10px 0;
-  width: calc(50% - 10px);
   float: left;
 }
 
-.media-tile a{color: #333;}
-.media-tile img{width: 100%;}
-.media-tile h3{font-size: 120%}
+
+.tile-33pc{width: calc(33% - 10px);}
+.tile-50pc{width: calc(50% - 10px);}
+.tile-67pc{width: calc(67% - 10px);}
+
+.tile-media a{color: #333;}
+.tile-media img{width: 100%;}
+.tile-media h3{font-size: 120%}
 
 @media only screen and (max-width: 970px) {
-  .tile, .media-tile{
+  .tile, .tile-30pc, .tile-50pc, .tile-70pc{
     width: 100%;
     margin-right: 0;
     float: none;
     clear: both;
   }
+}
+
+
+.your-story{
+  color: #888;
+  border: 1px dashed;
+  padding: 0em 1em 2em 1em;
 }
 
 /* VIDEO */
@@ -47,6 +58,7 @@
   padding-bottom: 56.25%; /* 16:9 */
   padding-top: 25px;
   height: 0;
+  margin-bottom: 1em;
 }
 .video-wrapper iframe {
   position: absolute;
@@ -57,6 +69,8 @@
 }
 
 /* IMAGES */
+
+img{max-width: 100%; }
 
 .img-left{
   float: left;
@@ -75,6 +89,7 @@
   clear: both;
 }
 
+.img-70px{ width: 70px; }
 .img-100px{ width: 100px; }
 .img-200px{ width: 200px; }
 .img-250px{ width: 250px; }
