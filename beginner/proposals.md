@@ -9,10 +9,10 @@ Maybe you want to have a proposal to confirm the purpose of your group. Or to ha
 ## And keep them coming
 Often people will write comments that look a lot like proposals - in this case it's just a matter of encouraging that person to raise a proposal. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
 
-Don't hesitate because you're not sure everyone will agree. A proposal with disagreement is not a bad thing, but a normal step in the process.
+Don't hesitate because you're not sure everyone will agree. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution. 
 Sometimes you might be surprised by getting quick consensus on something you thought was going to be complicated!
 
-## Be specific
+## Be specific on the details
 
 When starting a proposal be as specific as you can, so everyone knows what it means to agree or disagree. If appropriate, include information on who will execute a proposal, not just what the proposal is.
 
@@ -22,9 +22,7 @@ Think about when you need the decision to be made, and how the proposal closing 
 ## What's the outcome?
 When your proposal closes, you’ll be prompted to set a proposal outcome. 
 
-It's up to you to interpret the outcome of the proposal based on the positions and statements of the votes, and any agreements your group has around decision making.
-
-Proposals don't have to pass. Often they don't. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution. 
+It's up to you to interpret the outcome of the proposal based on the positions and statements of the votes, and any agreements your group has around decision making. Be sure to acknowledge any disagreement.
 
 If a proposal does pass, you can use the outcome as a way to remind the whole group what you agreed to do together.
 
