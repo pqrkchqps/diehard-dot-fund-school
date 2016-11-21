@@ -1,7 +1,7 @@
-# Loomio Etiquette
+# Effective communication
 
 
-## Clear communication
+## Clear language
 Be careful with humour and avoid sarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
 
 Be expressive and say what is on your mind. Use an emoji or two to add colour, fun, and extra meaning to your comments.
