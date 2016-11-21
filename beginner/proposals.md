@@ -1,5 +1,5 @@
 # Using proposals
-Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather views from everyone in your group in an easy to understand way. When combined with robust discussion, proposals allow you to converge towards a clear outcome.
+Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather views from everyone in your group, then display them clearly. When combined with robust discussion, proposals allow you to converge towards a clear outcome.
 
 ## Start early
 Our research shows that groups that have 2 proposals in their first week continue to use Loomio successfully for a long time.
