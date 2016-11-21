@@ -2,7 +2,7 @@
 
  **What if we started from facilitation principles and worked toward understanding software?**
 
-Loomio is made by facilitators, and that plays a huge role in how it has been designed. This guide is about revealing more of that context, and translating facilitation concepts from the offline space to the online space..
+Loomio is made by facilitators, and that plays a huge role in how it has been designed. This guide is about revealing more of that context, and translating facilitation concepts from the offline space to the online space.
 
 <a href="preparation.html">
   <div class="media-list">
