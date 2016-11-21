@@ -1,6 +1,6 @@
 # The Facilitator's Guide to Loomio 🐺
 
- **What if we started from facilitation principles and worked toward understanding the tool?**
+ **What if we started from facilitation principles and worked toward understanding the software?**
 
 Loomio is made by facilitators, and that plays a huge role in how the tool has been designed. This guide is about revealing more of that context.
 
@@ -8,7 +8,7 @@ Loomio is made by facilitators, and that plays a huge role in how the tool has b
   <div class="media-list">
     <img src="img/preparation_600.jpg" class="img-left img-200px">
     <h3>1. Preparation</h3>
-    <p>Ingredients, tools, design... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae quam elit.</p>
+    <p>Understand Purpose, Rearrange the Furniture, Supplies, Tools, Materials, Design the Experience, Contextualise the Moment, The Role of the Facilitator.</p>
   </div>
 </a>
 
@@ -16,7 +16,7 @@ Loomio is made by facilitators, and that plays a huge role in how the tool has b
   <div class="media-list">
     <img src="img/commencing_600.jpg" class="img-left img-200px">
     <h3>2. Commencing</h3>
-    <p>Gathering people to work together... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae quam elit.</p>
+    <p>Invitation, Arrival, Who’s in the Room, Who’s NOT in the Room, Culture, Protocol, Expectations.</p>
   </div>
 </a>
 
@@ -24,7 +24,7 @@ Loomio is made by facilitators, and that plays a huge role in how the tool has b
   <div class="media-list">
     <img src="img/underway_600.jpg" class="img-left img-200px">
     <h3>3. Underway</h3>
-    <p>Making sense of the middle... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae quam elit.</p>
+    <p>Where are we on the Map, The Art of Noticing, Hearing Diverse Voices, Counter Cognitive Bias, Balancing Divergent / Convergent, Working with Scope, Pacing and Timing, Managing the Attention Economy, Facilitation Interventions.</p>
   </div>
 </a>
 
@@ -32,7 +32,7 @@ Loomio is made by facilitators, and that plays a huge role in how the tool has b
   <div class="media-list">
     <img src="img/concluding_600.jpg" class="img-left img-200px">
     <h3>4. Concluding</h3>
-    <p>Wrapping up... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae quam elit.</p>
+    <p>Outcomes & Next Steps, Reporting & Harvesting, Turning Discussion into Action, It Ain’t Over Til It’s Over</p>
   </div>
 </a>
 
