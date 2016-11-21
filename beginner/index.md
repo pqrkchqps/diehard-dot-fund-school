@@ -1,10 +1,14 @@
 # Learn to use Loomio
 
-* [What is Loomio?](overview.md)
-* [Starting your group](getting_started.md) Get everyone into the group and aligned for action.
-* [Joining a group](joining_a_group.md) For those who have just joined their first Loomio group.
-* [Loomio Etiquette](loomio_etiquette.md) Tips for effective communication on Loomio.
-* [Facilitating discussions](discussions.md) Guide your group towards a desired outcome.
-* [Using proposals](proposals.md) Unlock the power of Loomio with proposals.
+[What is Loomio?](overview.md)
 
-Once you've mastered the basics, check out some more advanced training resources, or stories of how people use Loomio.
+[Starting your group](getting_started.md) - Ensure everyone in the group is ready to participate.
+
+[Joining a group](joining_a_group.md) - You've just been invited to a Loomio group - here's what you need to know.
+
+[Effective communication](loomio_etiquette.md) - Prepare yourself for deep listening and effectively getting your message across.
+
+[Facilitating discussions](discussions.md) Guide your group towards a desired outcome.
+
+[Using proposals](proposals.md) Turn your discussions into shared understanding.
+
