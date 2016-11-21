@@ -34,7 +34,3 @@ Some people will not participate unless prompted, it takes a little care to do t
 
 ## When to expect a reply? ⌚️
 Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
-
-
-
-
