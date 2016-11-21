@@ -18,12 +18,14 @@ When starting a proposal be as specific as you can, so everyone knows what it me
 ## Set closing time consciously
 Think about when you need the decision to be made, and how the proposal closing time will affect engagement from your group members - e.g. you might want to time the proposal so it closes before a meeting, or avoid closing on a weekend. If discussion is lively, but the proposal is closing soon, you can extend the closing date to suit.
 
-## Communicate the outcome
-When your proposal closes, you’ll be prompted to set a proposal outcome. You can use this as a way to remind the whole group what you agreed to do together.
+## What's the outcome?
+When your proposal closes, you’ll be prompted to set a proposal outcome. 
 
-## Consider the whole pie graph.
-Proposals don't have to pass. Infact most of the time they don't. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
+It's up to you to interpret the outcome of the proposal based on the positions and statements of the votes, and any agreements your group has around decision making.
 
+Proposals don't have to pass. Often they don't. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution. 
+
+If a proposal does pass, you can use the outcome as a way to remind the whole group what you agreed to do together.
 
 ## Ways of using proposals
 There is no limit to the number of ways you can use the proposal feature, but over time we find that these are commonly used ways.
