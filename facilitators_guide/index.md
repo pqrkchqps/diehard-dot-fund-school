@@ -59,7 +59,7 @@ There is a huge body of knowledge, best practice, and tradition in both in-perso
 
 Hi! I'm Alanna.
 
-<a href="alanna_fringe_s.jpg" alt="Alanna"><img src="alanna_fringe_s.jpg" class="img-left img-50pc"/></a>
+<img src="alanna_fringe_s.jpg" alt="Alanna" class="img-left img-200px"/>
 
 I'm one of the founders of Loomio, and I've been thinking deeply about how it works from a facilitation perspective from the beginning. I am not a seminal facilitation expert; I consider myself only a beginner in this craft that one could spend a lifetime honing. 
 
