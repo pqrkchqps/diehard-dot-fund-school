@@ -31,9 +31,9 @@ If you're unsure, start a discussion with your group about what you want to achi
 
 ## Upload your profile photo 👩🏽
 
-Seeing someone's face next to what they've written can make a big difference to the online reading experience.
+Seeing someone's face next to the text they've written can make it feel more human.
 
-The invitation email people receive when you invite them to join your group includes your profile photo to make it feel more trustworthy. So before you send invitations out you need to upload your profile photo. -- link to upload profile photo help page --
+Upload your profile photo before sending invitations to join the group, so that your friendly image is included in the email.
 
 ## Upload a group cover photo 🖼
 
