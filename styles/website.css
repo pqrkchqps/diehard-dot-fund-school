@@ -35,7 +35,7 @@
 .tile-media img{width: 100%;}
 .tile-media h3{font-size: 120%}
 
-.media-list {clear: both;}
+.media-list {clear: both; min-height: 133px;}
 .media-list a{color: #333;}
 .media-list img{margin-bottom: 1em;}
 
