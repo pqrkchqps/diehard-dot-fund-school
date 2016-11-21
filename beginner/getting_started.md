@@ -66,8 +66,9 @@ If people join but don't introduce themselves, you might like to welcome them to
 ## Champion the use of Loomio 🏆
 
 Model behaviour that others can learn to emulate, to be more inclusive and engaging, and help decisions progress constructively:
-“@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”
-“We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
-“It seems we might be getting off topic here. Should we start another Loomio discussion about that and bring this back to the original topic?”
+
+- “@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”
+- “We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
+- “It seems we might be getting off topic here. Should we start another Loomio discussion about that and bring this back to the original topic?”
 
 If discussions are happening via email, remind the group you've agreeed to use Loomio and request people move the discussion over there.
