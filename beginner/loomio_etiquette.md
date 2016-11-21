@@ -31,4 +31,4 @@ __Raising a proposal__ is the most powerful way to get attention from your group
 __disagreeing and blocking__ are indicators that someone wants to be listened to. If people disagree or block a proposal, give them an opportunity to explain themselves.
 
 ## When to expect a reply? ⌚️
-Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
+It's ok to take some time to reply to a Loomio discussion, often it takes some consideration before you have a response formulated. In general it's best if you respond with 24 hours.
