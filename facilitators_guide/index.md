@@ -1,8 +1,8 @@
 # The Facilitator's Guide to Loomio 🐺
 
- **What if we started from facilitation principles and worked toward understanding the software?**
+ **What if we started from facilitation principles and worked toward understanding software?**
 
-Loomio is made by facilitators, and that plays a huge role in how the tool has been designed. This guide is about revealing more of that context.
+Loomio is made by facilitators, and that plays a huge role in how it has been designed. This guide is about revealing more of that context, and translating facilitation concepts from the offline space to the online space..
 
 <a href="preparation.html">
   <div class="media-list">
@@ -53,7 +53,7 @@ Loomio is *groupware*:
 > Collaborative software, or groupware, is designed to help people involved in a common task achieve their goals. One of the earliest definitions of collaborative software is 'intentional group processes plus software to support them.'
  
 
-There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation - but the art and science of their intersection is only just emerging. This is the specific space in which Loomio strives to be.
+There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation, but the art and science of their intersection is only just emerging. This is the specific space in which Loomio strives to be.
 
 ## About the author
 
