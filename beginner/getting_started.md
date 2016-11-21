@@ -4,8 +4,6 @@ Getting started - it's often the hardest part of anything you do. For a Loomio g
 
 The promise is, if done well, the group will come to life as people start discussions and raise proposals under their own initiative.
 
-This guide is for people who want to help their group adopt Loomio to make decisions together.
-
 ## Talk about how you want to use Loomio. 👂👄🗣
 
 Have a discussion with your group about using Loomio.
@@ -17,8 +15,6 @@ Have a discussion with your group about using Loomio.
 
 It's realistic to expect that some people have apprehensions about adopting a new piece of software for online decision making. We recommend you spend time talking to people in your group to work through any concerns before you start.
 
-At this stage we also recommend you seek permission to facilitate your group or offer to start a discussion on facilitation and see what emerges.
-
 ## Start a group and have a look around. 👀
 
 It's important that you have a good understanding of how to use Loomio so you can assist others.
@@ -27,7 +23,7 @@ Make sure you understand what each of the [group settings](https://loomio.gitboo
 
 ## Set your group purpose 🌟
 
-With a clear purpose, people can make judgement calls about how to best serve the group, what how to participate, and what outcomes to aim for.
+With a clear purpose, people can make judgement calls about what's best for the group.
 
 Your Loomio group page has a space for a short purpose statement right under the group's name. If you know the purpose, update this field so that everyone can see it when they visit the group.
 
