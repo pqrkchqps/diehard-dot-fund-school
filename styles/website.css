@@ -84,6 +84,11 @@ img{max-width: 100%; }
   clear: both;
 }
 
+.img-center{
+  margin: auto 0;
+  clear: both;
+}
+
 .img-70px{ width: 70px; }
 .img-100px{ width: 100px; }
 .img-200px{ width: 200px; }
