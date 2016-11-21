@@ -31,7 +31,7 @@ If a proposal does pass, you can use the outcome as a way to remind the whole gr
 There is no limit to the number of ways you can use the proposal feature, but over time we find that these are commonly used ways.
 
 
-1. Consensus Finder
+### Consensus Finder
 
 Thread: Ethical Lending. 
 
