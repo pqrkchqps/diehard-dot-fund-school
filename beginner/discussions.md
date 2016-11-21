@@ -36,9 +36,3 @@ If it's a complex issue, it's useful to task 3 or so people with the job of expl
 
 ## Focus on the important things
 Be aware of “bike shedding” a.k.a. Parkinson's law of triviality. It’s very common for groups to spend the most time on the least important topics (‘What colour should we paint the bike-shed at our new office?’), because they are the easiest things to have opinions about.
-
-## Engage others in facilitation
-Model behaviour that others can learn to emulate, to be more inclusive and engaging, and help decisions progress constructively:
-- “@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”
-- “We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
-- “It seems we might be getting off topic here. Should we start another Loomio discussion about that and bring this back to the original topic?”
