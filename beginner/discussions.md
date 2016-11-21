@@ -10,7 +10,7 @@ If someone is expressing distress, not participating constructively, or is in a 
 
 Joshua Vial has written a great article on [resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) which you may find helpful.
 
-## Invite people into the discussion
+## Who's missing?
 Bring people into the discussion by mentioning them: type “@” followed by their name to let them know you’re looking for their input. Try to notice if people have not participated and mention them if you would like to hear them in the conversation.
 
 Are there other people the decision effects, who have not shared an opinion?
