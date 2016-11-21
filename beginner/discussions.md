@@ -20,7 +20,7 @@ bring expertiese and experience and many points of view and diversity for a heal
 
 Keeping people safe is more important than any issue you might discuss. As a facilitator it's part of your job to help the group to hold space for differing opinions.
 
-If things sound hurtful, or super tense, be supportive of individuals on both sides. Sometimes it's a good idea to pick up the phone and have a conversation. When people don't seem to be making progress on Loomio, ask them to talk to each other in person or on a video call.
+If someone is expressing distress, not participating constructively, or is in a minority opinion and seems to care strongly about the topic, it’s a good indication that a face-to-face or phone conversation might be helpful. 
 
 Joshua Vial has written a great article on [resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) which you may find helpful.
 
