@@ -25,9 +25,9 @@ Make sure you understand what each of the [group settings](https://loomio.gitboo
 
 With a clear purpose, people can make judgement calls about what's best for the group.
 
-Your Loomio group page has a space for a short purpose statement right under the group's name. If you know the purpose, update this field so that everyone can see it when they visit the group.
+Your Loomio group page has a space for a short purpose statement right under the group's name. Update this field so that everyone is reminded of it when they visit the group.
 
-If you have not discussed purpose with your group, then we highly recommend that one of your first Loomio discussions be about what you want to achieve together.
+If you're unsure, start a discussion with your group about what you want to achieve together.
 
 ## Upload your profile photo 👩🏽
 
