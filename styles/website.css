@@ -34,6 +34,8 @@
 .tile-media a{color: #333;}
 .tile-media img{width: 100%;}
 .tile-media h3{font-size: 120%}
+
+.media-list {clear: both;}
 .media-list a{color: #333;}
 .media-list img{margin-bottom: 1em;}
 
