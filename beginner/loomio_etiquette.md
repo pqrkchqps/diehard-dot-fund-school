@@ -6,7 +6,7 @@
 
 Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work.
 
-If a disagreement online starts to get stressful, consider ways you can reach out to the individuals involved and offer support.
+If a disagreement online starts to get stressful, reach out to the individuals involved and offer support.
 
 For more guidance, see [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/)
 
