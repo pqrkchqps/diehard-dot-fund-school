@@ -39,7 +39,5 @@ Make it easy for people to catch up by updating the thread context and title wit
 
 If it's a complex issue, it's useful to task 3 or so people with the job of exploring and explaining the issues, and returning to the gorup with a recommendation, which can then be passed by proposal.
 
-
-Facilitation is the name for making it easy for the group to have
-
-Agree on the problem before working on a solution
+# Involve others
+When appropriate, instead of raising a discussion or proposal yourself, quietly shoulder-tap someone else and support them to facilitate, to share a sense of leadership. Team members feeling empowered to start their own discussions is a sign of a democratic culture.
