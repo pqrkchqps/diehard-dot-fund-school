@@ -4,7 +4,7 @@ Proposals are the defining feature of Loomio. They're an incredibly flexible too
 ## Start your first proposal now.
 Our research shows that groups that have 2 proposals in their first week continue to use Loomio successfully for a long time.
 
-So maybe you want to have a proposal to confirm the purpose of your group. Or to have a staff party or find people who want to be a part of your first working group.
+Maybe you want to have a proposal to confirm the purpose of your group. Or to have a staff party, or find people who want to be a part of your first working group.
 
 ## And them coming.
 Often people will write comments that look a lot like proposals - in this case it's just a matter of encouraging that person to raise a proposal. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
@@ -95,7 +95,6 @@ Thread: Bike parking. Proposal: Call for volunteers: join the bike rack working 
 Raise a proposal which asks for people to say “yes” if they are keen to be part of making it happen. This will give you a list of people to follow up with to form a working group, which ensures the conversation will actually turn into action.
 
 ---
-
 
 Further details about about [how proposals work](https://help.loomio.org/en/proposals.html) can be found in the Loomio help manual.
 
