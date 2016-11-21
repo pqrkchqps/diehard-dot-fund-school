@@ -15,7 +15,9 @@ There is a huge body of knowledge, best practice, and tradition in both in-perso
 
 Hi! I'm Alanna.
 
-![](alanna_fringe_s.jpg)I'm one of the founders of Loomio, and I've been thinking deeply about how it works from a facilitation perspective from the beginning. I am not a seminal facilitation expert; I consider myself only a beginner in this craft that one could spend a lifetime honing. 
+<a href="alanna_fringe_s.jpg" alt="Collaboration process diagram"><img src="alanna_fringe_s.jpg" class="img-left img-50pc"/></a>
+
+I'm one of the founders of Loomio, and I've been thinking deeply about how it works from a facilitation perspective from the beginning. I am not a seminal facilitation expert; I consider myself only a beginner in this craft that one could spend a lifetime honing. 
 
 What I can offer is help translating between the offline and online spaces, as a practitioner in both. I've also facilitated a lot of groups who use Loomio. You can find out [more about me on my website](http://alanna.space).
 
