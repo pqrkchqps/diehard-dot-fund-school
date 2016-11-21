@@ -40,7 +40,7 @@ Loomio is made by facilitators, and that plays a huge role in how the tool has b
   <div class="media-list">
     <img src="img/practicing_600.jpg" class="img-left img-200px">
     <h3>5. Ongoing Practice</h3>
-    <p>Going on together... Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae quam elit.</p>
+    <p>Continuous Improvement, Distributed Facilitation / Self-facilitation, The Art of Being Facilitated, Culture Change.</p>
   </div>
 </a>
 
