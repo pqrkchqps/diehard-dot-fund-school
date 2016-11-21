@@ -59,7 +59,7 @@ If your group already has a space to chat together, you can share the team link 
 
 The important thing at this stage is that you follow up on people who don't make it into the group. You don't a group of people making decisions without some of the members.
 
-If people join but don't introduce themselves in the introductions thread, you might like to welcome them to the group with an @mention.
+If people join but don't introduce themselves, you might like to welcome them to the group with an @mention.
 
 ## Champion the use of Loomio 🏆
 
