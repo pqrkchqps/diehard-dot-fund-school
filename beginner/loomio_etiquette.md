@@ -30,7 +30,5 @@ __Raising a proposal__ is the most powerful way to get attention from your group
 
 __disagreeing and blocking__ are indicators that someone wants to be listened to. If people disagree or block a proposal, give them an opportunity to explain themselves.
 
-Some people will not participate unless prompted, it takes a little care to do this in an inviting way but try to encourage people to participate by saying how you'd value what they have to say on this.
-
 ## When to expect a reply? ⌚️
 Each communication channel has it's own unwritten expectations. People respond to text messages pretty quickly. You would expect to get a response to an email within a day, unless someone is away. Generally it's a good idea to respond to Loomio posts within about the same time as you would a email.
