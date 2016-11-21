@@ -1,27 +1,18 @@
 # Using proposals
 Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather views from everyone in your group in an easy to understand way. When combined with robust discussion, proposals allow you to converge towards a clear outcome.
 
-## Your first proposal 
-It's clearly up to you to decide what the right thing is, but we recommend you start using proposals early on. 
-
+## Start early
 Our research shows that groups that have 2 proposals in their first week continue to use Loomio successfully for a long time.
 
 So maybe you want to have a proposal to confirm the purpose of your group. Or to have a staff party or find people who want to be a part of your first working group.
 
-Most often you don't know what the first proposal is, until you have a discussion together. Look out for when it seems like there is a piece of the puzzle the group seems to agree upon.
+## And many more proposals
+Often people will write comments that look a lot like proposals - in this case it's just a matter of encouraging that person to raise a proposal. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
 
+Use proposals to get engagement and clarify the issue, even if the solution might not be apparent yet. Taking a stab and proposing something inspires people to articulate why exactly they disagree, which often leads to another proposal that’s more successful. A proposal failing is not a bad thing, it’s a normal step in the process. And sometimes you might be surprised by getting quick consensus on something you thought was going to be complicated!
 
-## Start proposals, encourage proposals
-Often people will write comments that look a lot like proposals.. in this case it's just a matter of encouraging that person to raise a proposal.
+## Be specific
 
-When agreeing on the solution is not working, switch to agreeing on the problem. then to agreeing process to address the problem.
-
-We've spent a lot of time studying use of Loomio. What makes a group successful? Likely to continue to use loomio? Groups that start at least 2 proposals in their first week are 
-Once you have people discussing, the next step is to prompt people to start proposals. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
-
-What proposal can you run to develop the practice of using loomio within your group?
-
-## Be specific about the decision being made. 
 When starting a proposal be as specific as you can, so everyone knows what it means to agree or disagree. If appropriate, include information on who will execute a proposal, not just what the proposal is.
 
 ## Set closing time consciously
