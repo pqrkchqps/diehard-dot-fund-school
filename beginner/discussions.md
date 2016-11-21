@@ -2,7 +2,7 @@
 
 To facilitate means to mediate and support toward a desired outcome.
 
-## Maintain a safe environment.
+## Looking after each other
 
 Keeping people safe is more important than any issue you might discuss. As a facilitator it's part of your job to help the group to hold space for differing opinions.
 
