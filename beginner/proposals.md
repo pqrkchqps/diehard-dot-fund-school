@@ -97,5 +97,5 @@ Raise a proposal which asks for people to say “yes” if they are keen to be p
 ---
 
 
-The Loomio user manual contains specific details about [how proposals work](https://help.loomio.org/en/proposals.html).
+Further details about about [how proposals work](https://help.loomio.org/en/proposals.html) can be found in the Loomio help manual.
 
