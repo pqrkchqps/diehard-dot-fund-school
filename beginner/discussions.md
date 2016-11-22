@@ -1,15 +1,12 @@
 # Facilitation discussions
 Tips for having inclusive and effective discussions on Loomio.
 
-
-## Respectful disagreement 😎
+## Maintain a safe environment 😎
 > A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
 
 Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work.
 
 For real discussion to happen, you must hold space for differing opinions. 
-
-## Look after each other
 
 Keeping people safe is more important than any issue you might discuss. 
 
