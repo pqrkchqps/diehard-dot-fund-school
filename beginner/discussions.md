@@ -1,4 +1,4 @@
-# Facilitation tips
+# Facilitation discussions
 
 
 ## Use clear language
