@@ -72,18 +72,20 @@ Raise a proposal in line with what the majority seem to agree with, and reveal t
 Have you heard the phrase, “speak now or forever hold your peace”? The Window of Opportunity proposal is a way to say, “I’m going to take this action, so if you have anything to contribute, now is the time.” It can be a way to discover important information or reservations before it’s too late, and to get a mandate to move forward.
 </div>
 
-
-
-
-### 8. Temperature Check
+<div class="media-list">
 <img class="img-right img-300px" src="proposal8.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
-
+<h3>Temperature Check</h3>
 Sometimes you have a hunch, but you’re not sure if it is a good idea or not. Use a Temperature Check when you want to survey opinions, rather than advocate for a particular position.
+</div>
 
-### 9. Any Volunteers?
+<div class="media-list">
 <img class="img-right img-300px" src="proposal9.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
-
+<h3>Any Volunteers?</h3>
 Raise a proposal which asks for people to say “yes” if they are keen to be part of making it happen. This will give you a list of people to follow up with to form a working group, which ensures the conversation will actually turn into action.
+</div>
+
+
+
 
 ---
 
