@@ -12,10 +12,6 @@ Our [case studies](http://loomio.school/case_studies.html) section highlights th
 
 It's an open source web application which works great on mobile phones.
 
-<div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/REgF_cGYqOs" frameborder="0" allowfullscreen></iframe>
-</div>
-
 There are 4 key steps to using Loomio with your group.
 
 ## 1. Gather
