@@ -62,7 +62,6 @@ Keep threads up to date with conversation: make a comment like: As we discussed 
 ## Keep the title and context relevant
 Make it easy for people to catch up by updating the thread context and title with concise information as the discussion progresses. *link to help*
 
-
 ## Delegate complex issues to a smaller group
 If it's a complex issue, it's useful to task 3 or so people with the job of exploring and explaining the issues, and returning to the gorup with a recommendation, which can then be passed by proposal.
 
