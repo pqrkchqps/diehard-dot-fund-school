@@ -1,5 +1,21 @@
 # Facilitation discussions
+Tips for having inclusive and effective discussions on Loomio.
 
+
+## Respectful disagreement 😎
+> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
+
+Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work.
+
+For real discussion to happen, you must hold space for differing opinions. 
+
+## Look after each other
+
+Keeping people safe is more important than any issue you might discuss. 
+
+If someone is expressing distress, not participating constructively, or is in a minority opinion and seems to care strongly about the topic, it’s a good indication that a face-to-face or phone conversation might be helpful. 
+
+For more guidance, see [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/)
 
 ## Use clear language
 Be careful with humour and avoid sarcasm. These don't translate through text well and it's easy for people to mistake a funny comment as something mean.
@@ -21,27 +37,12 @@ __Raising a proposal__ is the most powerful way to get attention from your group
 
 __disagreeing and blocking__ are indicators that someone wants to be listened to. If people disagree or block a proposal, give them an opportunity to explain themselves.
 
-### When to expect a reply? ⌚️
+When to expect a reply? ⌚️
+
 It's ok to take some time to reply to a Loomio discussion, often it takes some consideration before you have a response formulated. In general it's best if you respond with 24 hours.
 
-## Respectful disagreement 😎
-> A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.
 
-Respectful disagreement is essential to finding the best solution for the group, but it can be challenging work.
-
-If a disagreement online starts to get stressful, reach out to the individuals involved and offer support.
-
-For more guidance, see [Resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/)
-
-## Look after each other
-
-Keeping people safe is more important than any issue you might discuss. As a facilitator it's part of your job to help the group to hold space for differing opinions.
-
-If someone is expressing distress, not participating constructively, or is in a minority opinion and seems to care strongly about the topic, it’s a good indication that a face-to-face or phone conversation might be helpful. 
-
-Joshua Vial has written a great article on [resolving conflict on Loomio](http://joshuavial.com/loomio-conflict/) which you may find helpful.
-
-## Who's missing?
+## Who's not present?
 Bring people into the discussion by mentioning them: type “@” followed by their name to let them know you’re looking for their input. Try to notice if people have not participated and mention them if you would like to hear them in the conversation.
 
 Are there other people the decision effects, who have not shared an opinion?
