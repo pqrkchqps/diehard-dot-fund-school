@@ -33,11 +33,8 @@ There is no limit to the number of ways you can use the proposal feature, but ov
 <a href="preparation.html">
   <div class="media-list">
     <img class="img-right img-300px" src="proposal1.png" alt="Proposal: We should approve this application for funding. Clara’s funding application (#217) meets all our requirements. Let’s support her great project.">
-
-### 1. Consensus Finder
-
-If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. If you don’t reach consensus immediately, you’ll often find that a better solution is self-evident, once people have had a chance to clearly state their objections.
-
+    <h3>Consensus Finder</h3>
+    <p>If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. If you don’t reach consensus immediately, you’ll often find that a better solution is self-evident, once people have had a chance to clearly state their objections.</p>
   </div>
 </a>
 
