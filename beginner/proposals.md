@@ -33,8 +33,6 @@ There is no limit to the number of ways you can use the proposal feature, but ov
 ### 1. Consensus Finder
 <img class="proposal-example" src="proposal1.png" alt="Proposal: We should approve this application for funding. Clara’s funding application (#217) meets all our requirements. Let’s support her great project.">
 
-Thread: Ethical Lending.
-
 If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. If you don’t reach consensus immediately, you’ll often find that a better solution is self-evident, once people have had a chance to clearly state their objections.
 
 ### 2. Uncover the Controversy
