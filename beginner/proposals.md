@@ -37,43 +37,43 @@ There is no limit to the number of ways you can use the proposal feature, but ov
 </div>
 
 <div class="media-list">
-<img class="proposal-example clearfix" src="proposal2.png" alt="Proposal: Let’s create a bike park beside the front desk. I know there’s a lot of options for what we do with all the bikes: I just want to clarify who supports or objects to this proposal ">
+<img class="img-right img-300px" src="proposal2.png" alt="Proposal: Let’s create a bike park beside the front desk. I know there’s a lot of options for what we do with all the bikes: I just want to clarify who supports or objects to this proposal ">
 <h3>Uncover the Controversy</h3>
 If there are two or more clear competing ideas, propose supporting one to reveal how the group feels about it, or if the split has been accurately ics will almost always require a series of proposals to build shared understanding.
 </div>
-
+<div class="media-list"></div>
 ### 3. Series of Small Yes’s
-<img class="proposal-example clearfix" src="proposal3.png" alt="Proposal: We host the conference; dates to be confirmed Looks like it is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
+<img class="img-right img-300px" src="proposal3.png" alt="Proposal: We host the conference; dates to be confirmed Looks like it is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
 
 Sometimes it helps to agree principles first, then get into agreeing the details. If the discussion reveals complexity, break down the issue into smaller parts and build shared understanding piece by piece so you can clear the parts you have agreement on and focus on the parts the group still wants to discuss.
-
+<div class="media-list"></div>
 ### 4. Silent Majority
-<img class="proposal-example clearfix" src="proposal4.png" alt="Proposal: I’m happy with the figures presented in the quarterly report. There hasn’t been much engagement in here - just want to check that you are all happy with the figures as they are presented in the report.">
+<img class="img-right img-300px" src="proposal4.png" alt="Proposal: I’m happy with the figures presented in the quarterly report. There hasn’t been much engagement in here - just want to check that you are all happy with the figures as they are presented in the report.">
 
 If there have been few comments, or comments only from a select few people, start a proposal to draw out all the voices. You may end up confirming the status quo, but by asking for explicit input, you’ll see if agreement emerges or if engagement brings up the deeper issues.
 
 ### 5. Engagement Check
-<img class="proposal-example clearfix" src="proposal5.png" alt="Proposal: I’ve filled in the member survey. Please make sure you fill in the member survey before our meeting on Monday.">
+<img class="img-right img-300px" src="proposal5.png" alt="Proposal: I’ve filled in the member survey. Please make sure you fill in the member survey before our meeting on Monday.">
 
 Sometimes you need everyone in your group to complete an action, such as reading a document before an important meeting. You can start an Engagement Check proposal as a way to remind people to complete the required action within a defined time period.
 
 ### 6. Polarising Minority
-<img class="proposal-example clearfix" src="proposal6.png" alt="Share our pay rates publicly. I know this feels a bit radical, but it is a proactive way for us to live our values of transparency.">
+<img class="img-right img-300px" src="proposal6.png" alt="Share our pay rates publicly. I know this feels a bit radical, but it is a proactive way for us to live our values of transparency.">
 
 Raise a proposal in line with what the majority seem to agree with, and reveal the fact that disagreeing parties are in the minority. Give them a chance to clearly state their objections, or to realise their position is not supported by others and reconsider.
 
 ### 7. Window of Opportunity
-<img class="proposal-example clearfix" src="proposal7.png" alt="Proposal: I’m happy with the design team using the shared space to host workshops this week. There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.">
+<img class="img-right img-300px" src="proposal7.png" alt="Proposal: I’m happy with the design team using the shared space to host workshops this week. There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.">
 
 Have you heard the phrase, “speak now or forever hold your peace”? The Window of Opportunity proposal is a way to say, “I’m going to take this action, so if you have anything to contribute, now is the time.” It can be a way to discover important information or reservations before it’s too late, and to get a mandate to move forward.
 
 ### 8. Temperature Check
-<img class="proposal-example clearfix" src="proposal8.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
+<img class="img-right img-300px" src="proposal8.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
 
 Sometimes you have a hunch, but you’re not sure if it is a good idea or not. Use a Temperature Check when you want to survey opinions, rather than advocate for a particular position.
 
 ### 9. Any Volunteers?
-<img class="proposal-example clearfix" src="proposal9.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
+<img class="img-right img-300px" src="proposal9.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
 
 Raise a proposal which asks for people to say “yes” if they are keen to be part of making it happen. This will give you a list of people to follow up with to form a working group, which ensures the conversation will actually turn into action.
 
