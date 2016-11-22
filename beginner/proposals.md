@@ -84,9 +84,6 @@ Sometimes you have a hunch, but you’re not sure if it is a good idea or not. U
 Raise a proposal which asks for people to say “yes” if they are keen to be part of making it happen. This will give you a list of people to follow up with to form a working group, which ensures the conversation will actually turn into action.
 </div>
 
-
-
-
 ---
 
 Further details about about [how proposals work](https://help.loomio.org/en/proposals.html) can be found in the Loomio help manual.
