@@ -65,5 +65,5 @@ Make it easy for people to catch up by updating the thread context and title wit
 ## Delegate complex issues to a smaller group
 If it's a complex issue, it's useful to task 3 or so people with the job of exploring and explaining the issues, and returning to the gorup with a recommendation, which can then be passed by proposal.
 
-## Focus on the important things
+## Focus on the important stuff
 Be aware of “bike shedding” a.k.a. Parkinson's law of triviality. It’s very common for groups to spend the most time on the least important topics (‘What colour should we paint the bike-shed at our new office?’), because they are the easiest things to have opinions about.
