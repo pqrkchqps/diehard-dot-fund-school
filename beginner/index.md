@@ -6,7 +6,6 @@
 
 [Joining a group](joining_a_group.md) - You've just been invited to a Loomio group, here's what you need to know.
 
-[Facilitating discussions](discussions.md) Tips for having inclusive and effective discussions on Loomio.
+[Facilitating discussions](discussions.md) - Tips for having inclusive and effective discussions on Loomio.
 
-[Using proposals](proposals.md) Turn your discussions into shared understanding.
-
+[Using proposals](proposals.md) - Advance from discussion to decision.
