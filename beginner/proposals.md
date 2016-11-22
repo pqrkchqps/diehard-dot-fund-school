@@ -36,11 +36,11 @@ There is no limit to the number of ways you can use the proposal feature, but ov
   <p>If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. If you don’t reach consensus immediately, you’ll often find that a better solution is self-evident, once people have had a chance to clearly state their objections.</p>
 </div>
 
-
-### 2. Uncover the Controversy
+<div class="media-list">
 <img class="proposal-example clearfix" src="proposal2.png" alt="Proposal: Let’s create a bike park beside the front desk. I know there’s a lot of options for what we do with all the bikes: I just want to clarify who supports or objects to this proposal ">
-
+<h3>Uncover the Controversy</h3>
 If there are two or more clear competing ideas, propose supporting one to reveal how the group feels about it, or if the split has been accurately ics will almost always require a series of proposals to build shared understanding.
+</div>
 
 ### 3. Series of Small Yes’s
 <img class="proposal-example clearfix" src="proposal3.png" alt="Proposal: We host the conference; dates to be confirmed Looks like it is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
