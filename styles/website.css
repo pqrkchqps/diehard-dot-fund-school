@@ -89,6 +89,12 @@ img{max-width: 100%; }
   clear: both;
 }
 
+.proposal-example{
+  float: right;
+  margin-left: 1em;
+  clear: both;
+}
+
 .img-center{
   margin: auto 0;
   clear: both;
