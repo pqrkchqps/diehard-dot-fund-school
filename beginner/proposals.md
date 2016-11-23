@@ -1,87 +1,131 @@
 # Using proposals
-Proposals are the defining feature of Loomio. They're an incredibly flexible tool you can use to gather views from everyone in your group, then display them clearly. When combined with robust discussion, proposals allow you to converge towards a clear outcome.
+[Proposals](https://help.loomio.org/en/proposals.html) are a flexible and powerful tool for *convergence* - bringing a discussion to a conclusion or clear outcome. Groups that use proposals tend to get more value out of using Loomio.
+
+Proposals are *not* only for when you have consensus. They are very useful for clarifying any disagreements, inviting more participation, and helping issues progress.
 
 ## Start your first proposal now
 Our research shows that groups that have 2 proposals in their first week continue to use Loomio successfully for a long time.
 
-Maybe you want to have a proposal to confirm the purpose of your group. Or to have a staff party, or find people who want to be a part of your first working group.
+Chose a real topic relevant to your group, big or small, that participants will have a view on. Use proposals early and often to help users understand their value, so when a critical issue arises, you'll be ready.
 
-## And keep them coming
-Often people will write comments that look a lot like proposals - in this case it's just a matter of encouraging that person to raise a proposal. It's truely as simple as "Hey that's sounds like a proposal to me. Can you please write that as a proposal?"
+## Keep them coming
+If someone writes a comment that suggests a course of action or decision, encourage them to raise it as a proposal.
 
-Don't hesitate because you're not sure everyone will agree. The most interesting proposals are those that have a mix of views and cause the group to work together to find the best solution.
-Sometimes you might be surprised by getting quick consensus on something you thought was going to be complicated!
+> @vijay that's a great idea! Why don't you raise it as a proposal to see what everyone else thinks?
 
-## Be specific on the details
+Don't hesitate if you're not sure everyone will agree! The most valuable proposals have a mix of views and cause the group to work together to find the best solution. Or you might be surprised by getting quick consensus on something you thought was going to be complicated.
 
-When starting a proposal be as specific as you can, so everyone knows what it means to agree or disagree. If appropriate, include information on who will execute a proposal, not just what the proposal is.
+## Be specific
 
-## Set closing time consciously
-Think about when you need the decision to be made, and how the proposal closing time will affect engagement from your group members - e.g. you might want to time the proposal so it closes before a meeting, or avoid closing on a weekend. If discussion is lively, but the proposal is closing soon, you can extend the closing date to suit.
+Include concrete details so everyone knows what it means to agree or disagree.
+
+Avoid combining a range of ideas in one proposal, because people might agree to some aspects but not others and be unsure how to respond. You can break complex decisions down into multiple sequential proposals.
+
+## Think about closing time
+Consider how the proposal closing time will affect engagement from your group members, and chose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing on a weekend.
+
+Some decisions need to be made very quickly. Others should allow time for deeper discussion, and for people to change their minds as they listen to one another.
+
+If needed, you can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding.
 
 ## What's the outcome?
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 
-It's up to you to interpret the outcome of the proposal based on the positions and statements of the votes, and any agreements your group has around decision making. Be sure to acknowledge any disagreement.
+Loomio is not a poll, where the position with the most votes wins. What the outcome of a proposal means for your group is up to you to define. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.
 
-If a proposal does pass, you can use the outcome as a way to remind the whole group what you agreed to do together.
+Group members will be notified of the outcome, so it's a very useful tool for keeping people in the loop, clearly defining next steps and naming specific people's action points, or summarising what was learned from the proposal (whether or not it was conclusive).
+
+Examples:
+
+> This proposal did not reach consensus because several people were concerned about budget impacts. George and Jimena will do some financial modelling and raise a new proposal next week.
+
+or
+
+> I've taken on baord everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days.
+
+Setting outcomes makes your historical decision archive easy to search, because you have a succinct statement for each proposal.
 
 ## Ways of using proposals
-There is no limit to the number of ways you can use the proposal feature, but over time we find that these are commonly used ways.
-
+Proposals are flexible, and can be used in a range of ways.
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal1.png" alt="Proposal: We should approve this application for funding. Clara’s funding application (#217) meets all our requirements. Let’s support her great project.">
   <h3>Consensus Finder</h3>
-  <p>If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. If you don’t reach consensus immediately, you’ll often find that a better solution is self-evident, once people have had a chance to clearly state their objections.</p>
+
+  > Proposal: We should approve this application for funding.
+  >
+  > **Approve funding application (#217).** This seems to meet all our requirements. Let’s support Clara's great project.
+
+  If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. You’ll either get a mandate to act, or you’ll uncover important concerns.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal2.png" alt="Proposal: Let’s create a bike park beside the front desk. I know there’s a lot of options for what we do with all the bikes: I just want to clarify who supports or objects to this proposal ">
   <h3>Uncover the Controversy</h3>
-  If there are two or more clear competing ideas, propose supporting one to reveal how the group feels about it, or if the split has been accurately ics will almost always require a series of proposals to build shared understanding.
+  If there are two or more clear competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal3.png" alt="Proposal: We host the conference; dates to be confirmed Looks like it is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
   <h3>Series of Small Yes’s</h3>
-  Sometimes it helps to agree principles first, then get into agreeing the details. If the discussion reveals complexity, break down the issue into smaller parts and build shared understanding piece by piece so you can clear the parts you have agreement on and focus on the parts the group still wants to discuss.
+  > **Host the conference; dates to be confirmed.**
+  It is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?
+
+  Break down a complex issue into smaller parts and agree them piece by piece. Start with the high level decision - for example, it's not productive to spend time working out the details of an event before agreeing that you want to host it at all.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal4.png" alt="Proposal: I’m happy with the figures presented in the quarterly report. There hasn’t been much engagement in here - just want to check that you are all happy with the figures as they are presented in the report.">
   <h3>Silent Majority</h3>
-  If there have been few comments, or comments only from a select few people, start a proposal to draw out all the voices. You may end up confirming the status quo, but by asking for explicit input, you’ll see if agreement emerges or if engagement brings up the deeper issues.
+
+  > **Approve the figures in the quarterly report.**
+  There hasn’t been much engagement, but I want to check that you are all happy with the figures so we can confirm it before the AGM.
+
+  If you need sign-off to move something forward, raise a proposal to prompt engagement within a specific timeframe. Discussions are open ended, but proposals have deadline.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal5.png" alt="Proposal: I’ve filled in the member survey. Please make sure you fill in the member survey before our meeting on Monday.">
-  <h3>Engagement Check</h3>
-  Sometimes you need everyone in your group to complete an action, such as reading a document before an important meeting. You can start an Engagement Check proposal as a way to remind people to complete the required action within a defined time period.
+  <h3>Engagement Request</h3>
+  > **I’ve read the report.** Please make sure you see before our meeting on Monday. The report can be found *[here](http://www.loomio.org)*.
+
+  If you need everyone in your group to complete an action, such as reading a document before an important meeting, use and Engagement Request proposal to define a deadline. Loomio will automatically send out reminders, and you can visually see who has responded. Make sure you make it easy for people to fulfil your request by including any relevant links or documents.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal6.png" alt="Share our pay rates publicly. I know this feels a bit radical, but it is a proactive way for us to live our values of transparency.">
   <h3>Polarising Minority</h3>
-  Raise a proposal in line with what the majority seem to agree with, and reveal the fact that disagreeing parties are in the minority. Give them a chance to clearly state their objections, or to realise their position is not supported by others and reconsider.
+  > **Share our pay rates publicly.** I know some of you have concerns, but this is a proactive way for us to live up to our value of transparency, and many have expressed support.
+
+  Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to reveal that dissenting parties are in the minority, and put their views in perspective.
+
+  Give them a chance to clearly state their objections, and challenge them to articulate the crux of the issue. They may realise their position is not supported by others and reconsider, or perhaps their concerns will change everyone's minds.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal7.png" alt="Proposal: I’m happy with the design team using the shared space to host workshops this week. There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.">
   <h3>Window of Opportunity</h3>
-  Have you heard the phrase, “speak now or forever hold your peace”? The Window of Opportunity proposal is a way to say, “I’m going to take this action, so if you have anything to contribute, now is the time.” It can be a way to discover important information or reservations before it’s too late, and to get a mandate to move forward.
+
+  > **Design team can use the shared space to host workshops this week.** There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.
+
+  Have you heard the phrase, “speak now or forever hold your peace”? The Window of Opportunity proposal is a way to discover important information or reservations, and to get a mandate to move forward quickly otherwise.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal8.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
   <h3>Temperature Check</h3>
-  Sometimes you have a hunch, but you’re not sure if it is a good idea or not. Use a Temperature Check when you want to survey opinions, rather than advocate for a particular position.
+
+  > **Temperature Check: we should change the privacy policy.** I have reservations about this, but I wonder how the group feels.
+
+  A temperature check is a way to test how the group feels without concluding a fully realised proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
 </div>
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal9.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
   <h3>Any Volunteers?</h3>
-  Raise a proposal which asks for people to say “yes” if they are keen to be part of making it happen. This will give you a list of people to follow up with to form a working group, which ensures the conversation will actually turn into action.
+  > **Call for volunteers: join the bike rack working bee.** We’re getting together on Saturday morning to build a bike rack out of recycled timber. Who's in?
+
+  Raise a proposal which asks for people to say “yes” if they are committing. This will give you a list of people to follow up with to form a working group or send invitations to. A great way to turn conversation into action.
 </div>
 
 ---

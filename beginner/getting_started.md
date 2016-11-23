@@ -1,74 +1,82 @@
-# Starting your group on Loomio
+# Starting your group
 
-Getting started - it's often the hardest part of anything you do. For a Loomio group, it involves getting everyone signed up, familiar with the tool, and comfortable about making decisions together.
+Getting started is often the hardest part of anything. On Loomio, it involves getting everyone signed up, familiar with the tool, and comfortable making decisions together. If done well, the group will come to life as people take the initiative to start discussions and raise proposals. 
 
-The promise is, if done well, the group will come to life as people start discussions and raise proposals under their own initiative.
+Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
-## Talk about how you want to use Loomio. 👂👄🗣
+## Introduce Loomio 👂👄🗣
 
 Have a discussion with your group about using Loomio.
 
-- What kind of decisions do you want to make on Loomio?
-- Does everyone in the group need to use it?
-- What kind of behaviour is not ok?
-- How will Loomio compliment existing decision making?
+- **What problem** are you trying to solve with a new tool? (For example, including people who can't attend meetings, better documentation, or to keep making progress between meetings.)
+- **What kind of decisions** do you want to make on Loomio?
+- **Who's involved?** Does everyone in the group need to use it?
+- What kind of **behaviour** is welcome, and what's not ok?
+- How will Loomio complement your **existing processes**?
 
-It's realistic to expect that some people have apprehensions about adopting a new piece of software for online decision making. We recommend you spend time talking to people in your group to work through any concerns before you start.
+Some people will be apprehensive about adopting a new piece of software for online decision-making. Talk to people in your group to work through any concerns.
 
-## Start a group and have a look around. 👀
+## Have a look around 👀
 
-It's important that you have a good understanding of how to use Loomio so you can assist others.
+You need a good understanding of how to use Loomio, so you can assist others.
 
-Make sure you understand what each of the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html) are. Take particular note of the privacy settings and ensure they're right for your situation.
+Make sure you understand the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html), especially privacy. Have a look through the menus and sections to familiarise yourself with the software.
 
-## Set your group purpose 🌟
+## Update your group description 🌟
 
-With a clear purpose, people can make judgement calls about what's best for the group.
+With a clear purpose, people can make judgement calls about what's best for the group. Understanding group context helps people get oriented.
 
-Your Loomio group page has a space for a short purpose statement right under the group's name. Update this field so that everyone is reminded of it when they visit the group.
+Your Loomio group page has a space for information. Update this field so that everyone can see it when they visit the group. If you're unsure, start a discussion with your group about what you want to achieve together and what information people want on the group page.
 
-If you're unsure, start a discussion with your group about what you want to achieve together.
+## Upload a profile photo 👩🏽
 
-## Upload your profile photo 👩🏽
+Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
-Seeing someone's face next to the text they've written can make it feel more human.
+Upload your profile photo before sending invitations to join the group, so that your friendly image is included.
 
-Upload your profile photo before sending invitations to join the group, so that your friendly image is included in the email.
+## Upload a group photo 🖼
 
-## Upload a group cover photo 🖼
+Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customise both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo).
 
-Uploading a cover photo that has some meaning to your group significantly improves the sense of belonging when you arrive on the group page.
+## Introductions thread 👋🏽
 
-If you have one, use a photo from the last time you gathered together as a group. Or, if you need some inspiration, Check out [Unsplash](https://unsplash.com/), a gallery of beautiful, free images.
+A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group.
 
-## Edit the introductions thread 👋🏽
+New groups start with an introductions thread automatically. We recommend you edit the thread to make it yours, with a prompt relevant to your group. 
 
-When you arrive in a new space it can feel strange until you meet some other people there. A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable using the tool.
+To edit the introductions thread, click into it and select the edit option in the context box.
 
-New groups start with an introductions thread created automatically, but we recommend you edit the thread to make it yours. Maybe ask people to share questions they are holding, or what experience they bring to the group.
+## Invite people 🙋
 
-## Invite people in 🙋
-
-You're ready to invite people into the group!
+You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
 Visit your group page and click the "Invite people" button.
 
-If you have email addresses, you can send invitations to each member of your group.
+* If you have their email addresses, you can send invitations to each member of your group.
+* Or you can share the invitation link via email or however your team communicates.
 
-If your group already has a space to chat together, you can share the team link there.
+Follow up on people who don't make it into the group and give them a nudge. You don't want to leave people out of decision-making.
 
-The important thing at this stage is that you follow up on people who don't make it into the group. You don't a group of people making decisions without some of the members.
+If people join but don't introduce themselves, you might like to welcome them to the group with an @mention in the introductions thread:
 
-If people join but don't introduce themselves, you might like to welcome them to the group with an @mention:
-
-“Welcome to the group @Jane! It's great to have you here, would you saying a little bit about your work in this space?”
+> “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
 
 ## Champion the use of Loomio 🏆
 
-Model behaviour that others can learn to emulate, to be more inclusive and engaging, and help decisions progress constructively:
+### Demonstrate and invite participation. 
 
-- “@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”
+If you model behaviour for others  to emulate, your group will be more inclusive and engaging. You can help decisions progress constructively. 
+
+For example:
+
+> - “@Jane that could be a good idea, why don’t you raise a proposal so we can see if the rest of the group agrees?”
 - “We haven’t heard from @Bill and @Ngaire … what are your thoughts?”
-- “It seems we might be getting off topic here. Should we start another Loomio discussion about that and bring this back to the original topic?”
+- “We might be getting off topic here. I've started another Loomio discussion about that [here](http://www.loomio.org). Let's bring this back to the original focus.”
 
-If discussions are happening via email, remind the group you've agreeed to use Loomio and request people move the discussion over there.
+### Move decisions to Loomio
+
+#### If discussions are happening via email...
+Remind the group you've agreeed to use Loomio and request people move the discussion over there. Sometimes it can be helpful to copy and past what's been said so far and directly give everyone the Loomio link.
+
+#### If decisions are being made in-person...
+Recall why you wanted to use Loomio, and ask if the group wants to move the discussion online before concluding a decision. Common reasons are to include people who aren't in the room, and create documentation for future reference.
