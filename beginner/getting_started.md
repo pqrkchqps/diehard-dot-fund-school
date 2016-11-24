@@ -31,15 +31,24 @@ With a clear purpose, people can make judgement calls about what's best for the 
 
 Your Loomio group page has a space for information. Update this field so that everyone can see it when they visit the group. If you're unsure, start a discussion with your group about what you want to achieve together and what information people want on the group page.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/asZEbbiHH-s" frameborder="0" allowfullscreen></iframe>
+
 ## Upload a profile photo 👩🏽
 
 Seeing someone's face next to the text they've written can make it feel more human. It's especially important if you're the one welcoming everyone in.
 
 Upload your profile photo before sending invitations to join the group, so that your friendly image is included.
 
+
+
 ## Upload a group photo 🖼
 
 Uploading a photo that has some meaning to your group significantly improves the sense of belonging. You can customise both the small square photo (eg, with a logo), and the big cover image (eg, with a group photo).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8cdGR7FaGYg" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2r2tKi3pxM" frameborder="0" allowfullscreen></iframe>
+
 
 ## Introductions thread 👋🏽
 
