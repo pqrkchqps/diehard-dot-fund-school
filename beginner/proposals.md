@@ -49,12 +49,8 @@ Setting outcomes makes your historical decision archive easy to search, because 
 Proposals are flexible, and can be used in a range of ways.
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal1.png" alt="Proposal: We should approve this application for funding. Clara’s funding application (#217) meets all our requirements. Let’s support her great project.">
+  <img class="img-right img-300px" src="proposal1.png" alt="Proposal: **Approve funding application (#217).** This seems to meet all our requirements. Let’s support Clara's great project.">
   <h3>Consensus Finder</h3>
-
-  > Proposal: We should approve this application for funding.
-  >
-  > **Approve funding application (#217).** This seems to meet all our requirements. Let’s support Clara's great project.
 
   If the comments seem to point to general agreement, test this assumption by proposing agreement explicitly. You’ll either get a mandate to act, or you’ll uncover important concerns.
 </div>
@@ -63,43 +59,35 @@ Proposals are flexible, and can be used in a range of ways.
   <img class="img-right img-300px" src="proposal2.png" alt="Proposal: Let’s create a bike park beside the front desk. I know there’s a lot of options for what we do with all the bikes: I just want to clarify who supports or objects to this proposal ">
 
   <h3>Uncover the Controversy</h3>
+
   If there are two or more clear competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal3.png" alt="Proposal: We host the conference; dates to be confirmed Looks like it is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
+  <img class="img-right img-300px" src="proposal3.png" alt="Proposal: **Host the conference; dates to be confirmed.**
+  It is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
   <h3>Series of Small Yes’s</h3>
-
-  > **Host the conference; dates to be confirmed.**
-  It is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?
 
   Break down a complex issue into smaller parts and agree them piece by piece. Start with the high level decision - for example, it's not productive to spend time working out the details of an event before agreeing that you want to host it at all.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal4.png" alt="Proposal: I’m happy with the figures presented in the quarterly report. There hasn’t been much engagement in here - just want to check that you are all happy with the figures as they are presented in the report.">
+  <img class="img-right img-300px" src="proposal4.png" alt="Proposal: **Approve the figures in the quarterly report.** There hasn’t been much engagement, but I want to check that you are all happy with the figures so we can confirm it before the AGM.">
   <h3>Silent Majority</h3>
-
-  > **Approve the figures in the quarterly report.**
-  There hasn’t been much engagement, but I want to check that you are all happy with the figures so we can confirm it before the AGM.
 
   If you need sign-off to move something forward, raise a proposal to prompt engagement within a specific timeframe. Discussions are open ended, but proposals have deadline.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal5.png" alt="Proposal: I’ve filled in the member survey. Please make sure you fill in the member survey before our meeting on Monday.">
+  <img class="img-right img-300px" src="proposal5.png" alt="Proposal: **I’ve read the report.** Please make sure you see before our meeting on Monday. The report can be found *[here](http://www.loomio.org)*.">
   <h3>Engagement Request</h3>
-
-  > **I’ve read the report.** Please make sure you see before our meeting on Monday. The report can be found *[here](http://www.loomio.org)*.
 
   If you need everyone in your group to complete an action, such as reading a document before an important meeting, use and Engagement Request proposal to define a deadline. Loomio will automatically send out reminders, and you can visually see who has responded. Make sure you make it easy for people to fulfil your request by including any relevant links or documents.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal6.png" alt="Share our pay rates publicly. I know this feels a bit radical, but it is a proactive way for us to live our values of transparency.">
+  <img class="img-right img-300px" src="proposal6.png" alt="**Share our pay rates publicly.** I know some of you have concerns, but this is a proactive way for us to live up to our value of transparency, and many have expressed support.">
   <h3>Polarising Minority</h3>
-
-  > **Share our pay rates publicly.** I know some of you have concerns, but this is a proactive way for us to live up to our value of transparency, and many have expressed support.
 
   Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to reveal that dissenting parties are in the minority, and put their views in perspective.
 
@@ -107,27 +95,22 @@ Proposals are flexible, and can be used in a range of ways.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal7.png" alt="Proposal: I’m happy with the design team using the shared space to host workshops this week. There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.">
+  <img class="img-right img-300px" src="proposal7.png" alt="Proposal: **Design team can use the shared space to host workshops this week.** There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.">
   <h3>Window of Opportunity</h3>
-
-  > **Design team can use the shared space to host workshops this week.** There’ll be a bit of extra noise and traffic in the space but it will be a great way for us to engage some of the new volunteers.
 
   Have you heard the phrase, “speak now or forever hold your peace”? The Window of Opportunity proposal is a way to discover important information or reservations, and to get a mandate to move forward quickly otherwise.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal8.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
+  <img class="img-right img-300px" src="proposal8.png" alt="**Temperature Check: we should change the privacy policy.** I have reservations about this, but I wonder how the group feels.">
   <h3>Temperature Check</h3>
-
-  > **Temperature Check: we should change the privacy policy.** I have reservations about this, but I wonder how the group feels.
 
   A temperature check is a way to test how the group feels without concluding a fully realised proposal. Use it when you want to survey opinions, or test a hunch, rather than advocate for a particular position.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal9.png" alt="Proposal: Temperature Check: we should change the privacy policy. I have reservations about this, but I wonder how the group feels.">
+  <img class="img-right img-300px" src="proposal9.png" alt="*Call for volunteers: join the bike rack working bee.** We’re getting together on Saturday morning to build a bike rack out of recycled timber. Who's in?">
   <h3>Any Volunteers?</h3>
-  > **Call for volunteers: join the bike rack working bee.** We’re getting together on Saturday morning to build a bike rack out of recycled timber. Who's in?
 
   Raise a proposal which asks for people to say “yes” if they are committing. This will give you a list of people to follow up with to form a working group or send invitations to. A great way to turn conversation into action.
 </div>
