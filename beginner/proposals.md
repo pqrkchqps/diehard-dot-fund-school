@@ -41,7 +41,7 @@ Examples:
 
 or
 
-> I've taken on baord everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days.
+> I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days.
 
 Setting outcomes makes your historical decision archive easy to search, because you have a succinct statement for each proposal.
 
@@ -61,6 +61,7 @@ Proposals are flexible, and can be used in a range of ways.
 
 <div class="media-list">
   <img class="img-right img-300px" src="proposal2.png" alt="Proposal: Let’s create a bike park beside the front desk. I know there’s a lot of options for what we do with all the bikes: I just want to clarify who supports or objects to this proposal ">
+
   <h3>Uncover the Controversy</h3>
   If there are two or more clear competing ideas, propose supporting one. Controversial topics might require a series of proposals to build shared understanding.
 </div>
@@ -68,6 +69,7 @@ Proposals are flexible, and can be used in a range of ways.
 <div class="media-list">
   <img class="img-right img-300px" src="proposal3.png" alt="Proposal: We host the conference; dates to be confirmed Looks like it is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
   <h3>Series of Small Yes’s</h3>
+
   > **Host the conference; dates to be confirmed.**
   It is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?
 
@@ -87,6 +89,7 @@ Proposals are flexible, and can be used in a range of ways.
 <div class="media-list">
   <img class="img-right img-300px" src="proposal5.png" alt="Proposal: I’ve filled in the member survey. Please make sure you fill in the member survey before our meeting on Monday.">
   <h3>Engagement Request</h3>
+
   > **I’ve read the report.** Please make sure you see before our meeting on Monday. The report can be found *[here](http://www.loomio.org)*.
 
   If you need everyone in your group to complete an action, such as reading a document before an important meeting, use and Engagement Request proposal to define a deadline. Loomio will automatically send out reminders, and you can visually see who has responded. Make sure you make it easy for people to fulfil your request by including any relevant links or documents.
@@ -95,6 +98,7 @@ Proposals are flexible, and can be used in a range of ways.
 <div class="media-list">
   <img class="img-right img-300px" src="proposal6.png" alt="Share our pay rates publicly. I know this feels a bit radical, but it is a proactive way for us to live our values of transparency.">
   <h3>Polarising Minority</h3>
+
   > **Share our pay rates publicly.** I know some of you have concerns, but this is a proactive way for us to live up to our value of transparency, and many have expressed support.
 
   Sometimes loud voices can seem like they are representing more of the group than they really are. Raise a proposal to reveal that dissenting parties are in the minority, and put their views in perspective.
