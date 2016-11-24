@@ -1,11 +1,12 @@
 # Learn to use Loomio
 
-[What is Loomio?](overview.md)
+[What is Loomio?](overview.md) - An overview of what Loomio is and how it works.
 
-[Starting your group](getting_started.md) - Ensure everyone in the group is ready to participate.
+[Starting your group](getting_started.md) 🏁 - Ensure everyone in the group is ready to participate.
 
-[Joining a group](joining_a_group.md) - You've just been invited to a Loomio group, here's what you need to know.
+[Joining a group](joining_a_group.md) 🔑 - You've just been invited to a Loomio group, here's what you need to know.
 
-[Facilitating discussions](discussions.md) - Tips for having inclusive and effective discussions on Loomio.
+[Using proposals](proposals.md) 💡 - How to converge on shared understanding.
 
-[Using proposals](proposals.md) - Advance from discussion to decision.
+[Facilitating discussions](discussions.md) 🗣 - Tips for having inclusive and effective discussions on Loomio.
+
