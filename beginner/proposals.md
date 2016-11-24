@@ -8,6 +8,8 @@ Our research shows that groups that have 2 proposals in their first week continu
 
 Chose a real topic relevant to your group, big or small, that participants will have a view on. Use proposals early and often to help users understand their value, so when a critical issue arises, you'll be ready.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlfggpCaW4s" frameborder="0" allowfullscreen></iframe>
+
 ## Keep them coming
 If someone writes a comment that suggests a course of action or decision, encourage them to raise it as a proposal.
 
@@ -28,6 +30,8 @@ Some decisions need to be made very quickly. Others should allow time for deeper
 
 If needed, you can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Id8NYW_jTJ8" frameborder="0" allowfullscreen></iframe>
+
 ## What's the outcome?
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 
@@ -44,6 +48,8 @@ or
 > I've taken on board everyone's input. As the project manager, this is my call to make and I've decided we are going to extend the timeline by 10 days.
 
 Setting outcomes makes your historical decision archive easy to search, because you have a succinct statement for each proposal.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5KzVvKmtrCc" frameborder="0" allowfullscreen></iframe>
 
 ## Ways of using proposals
 Proposals are flexible, and can be used in a range of ways.

@@ -51,7 +51,6 @@ To edit the introductions thread, click into it and select the edit option in th
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGUH3UJrxfQ" frameborder="0" allowfullscreen></iframe>
 
 ## Invite people 🙋
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
@@ -65,6 +64,8 @@ Follow up on people who don't make it into the group and give them a nudge. You 
 If people join but don't introduce themselves, you might like to welcome them to the group with an @mention in the introductions thread:
 
 > “Welcome to the group @Jane :) It's great to have you here! Would you saying a little bit about your work in this space?”
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
 
 ## Champion the use of Loomio 🏆
 
