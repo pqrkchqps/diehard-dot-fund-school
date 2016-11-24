@@ -4,7 +4,7 @@ Loomio is an app for collaborative decision-making. It empowers groups to come t
 
 People use it for all kinds of things, from approving funding applications to cooperative governance to stakeholder engagement. The **[case studies](http://loomio.school/case_studies.html)** section shows a variety of ways groups have used Loomio.
 
-It's an open source web application that also works great on mobile phones.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CoYYNthNxOY" frameborder="0" allowfullscreen></iframe>
 
 ## How it works in four steps
 
