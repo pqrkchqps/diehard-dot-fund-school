@@ -1,6 +1,6 @@
 # Starting your group
 
-Getting started is often the hardest part of anything. On Loomio, it involves getting everyone signed up, familiar with the tool, and comfortable making decisions together. If done well, the group will come to life as people take the initiative to start discussions and raise proposals. 
+Getting started is often the hardest part of anything. On Loomio, it involves getting everyone signed up, familiar with the tool, and comfortable making decisions together. If done well, the group will come to life as people take the initiative to start discussions and raise proposals.
 
 Most Loomio groups need a champion to help them get going, and then they build their own momentum. If you're reading this, that champion is probably you!
 
@@ -22,6 +22,9 @@ You need a good understanding of how to use Loomio, so you can assist others.
 
 Make sure you understand the [group settings](https://loomio.gitbooks.io/manual/content/en/group_settings.html), especially privacy. Have a look through the menus and sections to familiarise yourself with the software.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
+
+
 ## Update your group description 🌟
 
 With a clear purpose, people can make judgement calls about what's best for the group. Understanding group context helps people get oriented.
@@ -42,11 +45,13 @@ Uploading a photo that has some meaning to your group significantly improves the
 
 A round of introductions is a great way for people to get to know a bit about each other and to feel more comfortable. Even if people are already acquainted, they can share more specifically about their role or perspective in the Loomio group.
 
-New groups start with an introductions thread automatically. We recommend you edit the thread to make it yours, with a prompt relevant to your group. 
+New groups start with an introductions thread automatically. We recommend you edit the thread to make it yours, with a prompt relevant to your group.
 
 To edit the introductions thread, click into it and select the edit option in the context box.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CGUH3UJrxfQ" frameborder="0" allowfullscreen></iframe>
 
 ## Invite people 🙋
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nm9hoOofblw" frameborder="0" allowfullscreen></iframe>
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
@@ -63,9 +68,9 @@ If people join but don't introduce themselves, you might like to welcome them to
 
 ## Champion the use of Loomio 🏆
 
-### Demonstrate and invite participation. 
+### Demonstrate and invite participation.
 
-If you model behaviour for others  to emulate, your group will be more inclusive and engaging. You can help decisions progress constructively. 
+If you model behaviour for others  to emulate, your group will be more inclusive and engaging. You can help decisions progress constructively.
 
 For example:
 
