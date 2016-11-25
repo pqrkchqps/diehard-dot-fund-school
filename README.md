@@ -1,14 +1,8 @@
 # Loomio School
 
-Thousands of groups around the world are using [Loomio](http://loomio.org): a software tool for making group decisions online!
-
+Thousands of groups around the world are using [Loomio](http://loomio.org) to make group decisions online. We've compiled these resources to help your group become collaboration experts.
 
 ![](loomio-new-way-1f6afc1168e13badfd134e793b92f5eb45eae569234fac1f0db47eaba8592ee9.png)
-
-We've compiled these resources to help your group become collaboration experts.
-
-
-
 <div class="emoji-bullet">💡</div>
 <strong>Learn to use Loomio</strong><br />
 [Spend a few minutes getting familiar with the basics.](beginner/index.md)
@@ -25,8 +19,8 @@ We've compiled these resources to help your group become collaboration experts.
 
 
 <div class="emoji-bullet">🐺</div>
-<strong>The Facilitator's Guide to Loomio</strong><br />
-[How an experienced facilitator approaches Loomio.](facilitators_guide/index.md)
+<strong>The Loomio Facilitation Guide</strong><br />
+[Going in-depth about applying key facilitation concepts in the online space.](facilitators_guide/index.md)
 
 
 <div class="emoji-bullet">⚽</div>
