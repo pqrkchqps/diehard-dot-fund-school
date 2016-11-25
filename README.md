@@ -2,6 +2,7 @@
 
 Thousands of groups around the world are using [Loomio](http://loomio.org): a software tool for making group decisions online!
 
+
 ![](loomio-new-way-1f6afc1168e13badfd134e793b92f5eb45eae569234fac1f0db47eaba8592ee9.png)
 
 While the tool is very easy to use, we all know that group decision-making can be hard, so we've compiled these resources to help your group become collaboration experts.
