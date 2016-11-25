@@ -10,7 +10,7 @@
 * [Guides & How To's](guides/index.md)
    * [Supercharge meetings](guides/using_loomio_in_meetings.md)
    * [How To Handle Trolls](guides/trolls.md)
-* [The Loomio Facilitation Guide](facilitators_guide/index.md)
+* [Facilitation Guide](facilitators_guide/index.md)
    * [1. Preparation](facilitators_guide/preparation.md)
    * [2. Commencing](facilitators_guide/commencing.md)
    * [3. Underway](facilitators_guide/underway.md)
