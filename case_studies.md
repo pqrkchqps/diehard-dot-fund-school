@@ -2,15 +2,13 @@
 
 Stories from people using Loomio for everything from company governance, citizen engagement, event management, to grassroots political organising.
 
-## Conscious Consumers
+## Businesses & Co-ops
 
 <p><strong>Conscious Consumers</strong> use Loomio for good governance. CEO Ben Gleisner explains the value of keeping all their information in one place, and including people along the way to a decision:</p>
 
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/lOUm0qpgDAA?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
-
-## Other Business & Co-op Stories
 
 <div class="tile tile-33pc">
   <img src="img/social-media-squad_650.png" alt="logo" />
@@ -32,23 +30,21 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
-* [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/) - get their members to participate in an important thing
+* [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/) - make funding decisions with their members
 * [NEIT](http://blog.loomio.org/2016/08/30/neit/) - unlock great ideas from the introverts
 * [Trusty Amigos](http://blog.loomio.org/2016/08/17/trustyamigos/) - bilingual members jamming together
-* [Robin Hood Coop](http://blog.loomio.org/2016/01/05/robinhood/)
+* [Robin Hood Coop](http://blog.loomio.org/2016/01/05/robinhood/) - massively increased member participation
 
 ---
 
 
-## Statistics New Zealand
+## Government
 
 <p><strong>Statistics New Zealand</strong> used Loomio to refine the questions in the 2018 Census with members of the public. In this video, they explain how Loomio allowed them to reach a greater number and diversity of people, compared to traditional citizen engagement methods.</p>
 
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HBfO62TXZSo?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
-
-## Other Government Stories
 
 <div class="tile tile-33pc">
   <img src="img/open-data-nz_500.png" alt="logo"/>
@@ -72,15 +68,15 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
-## NGO/NFP/Trust
+## Community
 
-* [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/) - turned a conference into a meeting
+* [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/) - turned a conference into a movement
 * [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/) - create strong small teams within their organisation
 * [Newtown Ethical Lending Trust](http://blog.loomio.org/2013/10/18/trustees-trust-loomio/) - approve loan applications without having a meeting
 
 ---
 
-## Kava Club - Pacific & Māori Arts Collective
+## Collectives
 
 <p><strong>Kava Club</strong> is a Pacific & Māori arts collective. We talked to cofounder Leilani A Visesio about how Loomio helps them organise events, while keeping the group focussed on their purpose:
 </p>
@@ -88,8 +84,6 @@ Stories from people using Loomio for everything from company governance, citizen
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/4zVCUOVbv6g?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe>
 </div>
-
-## Stories from other Collectives
 
 <div class="tile tile-50pc">
   <div class="video-wrapper"><iframe src="https://www.youtube.com/embed/KLKU9JbPel4?list=PLfeqYbxvuD29MfdIvQ7hnzg0LMcK4DEDZ" frameborder="0" allowfullscreen></iframe></div>
@@ -135,6 +129,6 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ## Political
 
-* [Debt Resistance UK](http://blog.loomio.org/2016/03/07/druk/)
+* [Debt Resistance UK](http://blog.loomio.org/2016/03/07/druk/) - increased capacity by making decisions between meetings
 * [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/)
 * [Gen Zero](http://blog.loomio.org/2013/11/19/nation-changing-decision-makers-generation-zero/)
