@@ -130,5 +130,5 @@ Stories from people using Loomio for everything from company governance, citizen
 ## Political
 
 * [Debt Resistance UK](http://blog.loomio.org/2016/03/07/druk/) - increased capacity by making decisions between meetings
-* [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/)
-* [Gen Zero](http://blog.loomio.org/2013/11/19/nation-changing-decision-makers-generation-zero/)
+* [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/) - self-organised to make an impact at COP21
+* [Gen Zero](http://blog.loomio.org/2013/11/19/nation-changing-decision-makers-generation-zero/) - is a youth-led network of climate change activists who are campaigning to make New Zealand zero carbon by 2050
