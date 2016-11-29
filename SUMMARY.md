@@ -8,7 +8,6 @@
    * [Using proposals](beginner/proposals.md)
    * [Facilitating discussions](beginner/discussions.md)
 * [Guides & How To's](guides/index.md)
-   * [Supercharge meetings](guides/using_loomio_in_meetings.md)
    * [How To Handle Trolls](guides/trolls.md)
 * [Facilitation Guide](facilitators_guide/index.md)
    * [1. Preparation](facilitators_guide/preparation.md)
