@@ -4,7 +4,9 @@
 
 * [How to deal with trolls](trolls.md)
 * [Decision-making Protocols: How To Interpret the Results of a Loomio Proposal](decision_making_protocols.md)
-* Supercharge a meeting (need example)
+* [Supercharge your meetings](https://loomio.files.wordpress.com/2016/11/loomio-how-to-e28093c2a0supercharge-your-meetings.pdf)
+* [Develop a health and safety policy](https://loomio.files.wordpress.com/2016/11/loomio-how-to-e28093c2a0meet-health-safety-requirements.pdf)
+* [How the Minstry of Social Development used Loomio to make funding decisions](https://loomio.files.wordpress.com/2016/11/case-study-poster-e28093-funding-decisions-at-the-ministry-of-social-development.pdf)
 * Engage the public in policy development (Stats)
 * Host an AGM online (Robin Hood?)
 * Develop a new policy over 3 months (Enspiral stewardship project)
