@@ -18,5 +18,6 @@
    * [5. Ongoing Practice](facilitators_guide/ongoing_practice.md)
 * [Case Studies & User Stories](case_studies.md)
 * [Coaching resources](coaching_resources.md)
+   * [Basic Training Workshop](basic-training-workshop.md)
 * [Inspiration](inspiration.md)
 
