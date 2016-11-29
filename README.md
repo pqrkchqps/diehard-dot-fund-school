@@ -2,7 +2,7 @@
 
 Thousands of groups around the world are using [Loomio](http://loomio.org) to make group decisions online. We've compiled these resources to help your group become collaboration experts.
 
-<img src="loomio-new-way.png" class="img-50pc img-right"/>
+<img src="img/loomio-new-way.png" alt="illustration showing people collaborating with Loomio" class="img-50pc img-right"/>
 
 **[Learn to use Loomio](beginner/index.md)**
 Spend a few minutes getting familiar with the basics.
