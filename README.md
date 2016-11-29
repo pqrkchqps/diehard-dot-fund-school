@@ -1,26 +1,26 @@
 # Loomio School
 
-Thousands of groups around the world are using [Loomio](http://loomio.org) to make group decisions online. We've compiled these resources to help your group become collaboration experts.
+Training resources, guides and stories illustrating how you can use [Loomio](http://loomio.org?utm_campaign=school) to grow a collaborative culture in your team, collective, or organisation.
 
 <img src="img/loomio-new-way.png" alt="illustration showing people collaborating with Loomio" class="img-50pc img-right"/>
 
 **[Learn to use Loomio](beginner/index.md)**
-Spend a few minutes getting familiar with the basics.
+<br/>Spend a few minutes getting familiar with the basics.
 
 **[Guides & How To's](guides/index.md)**
-Practical guides explaining how Loomio fits in with your other group processes.
+<br/>Practical guides explaining how Loomio fits in with your other group processes.
 
 **[Case Studies & User Stories](case_studies.html)**
-Stories from people using Loomio in co-ops, government, community and business.
+<br/>Stories from people using Loomio in co-ops, government, community and business.
 
 **[The Loomio Facilitation Guide](facilitators_guide/index.md)**
-Going in-depth about applying key facilitation concepts in the online space.
+<br/>Going in-depth about applying key facilitation concepts in the online space.
 
 **[Coaching Resources](coaching_resources.html)**
-Workshop runsheets and training guides.
+<br/>Workshop runsheets and training guides.
 
 **[Inspiration](inspiration.html)**
-Articles, podcasts and videos from the cutting edge of collaborative organising.
+<br/>Articles, podcasts and videos from the cutting edge of collaborative organising.
 
 ---
 
