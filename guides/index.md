@@ -1,6 +1,6 @@
 # Guides & How To's
 
-*More heavy-duty articles explaining a workflow in depth, with a video from a real example, also available in pdf form*
+*Examples of how groups around the world have used Loomio to solve a specific problem*
 
 * [How to deal with trolls](trolls.md)
 * [Supercharge your meetings](https://loomio.files.wordpress.com/2016/11/loomio-how-to-e28093c2a0supercharge-your-meetings.pdf)
