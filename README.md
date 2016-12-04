@@ -1,7 +1,7 @@
 # Loomio School
 
 
-Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories.
+## Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories.
 
 ---
 
