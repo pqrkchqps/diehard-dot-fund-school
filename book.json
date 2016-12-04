@@ -7,7 +7,8 @@
         "video",
         "ga",
         "youtube",
-        "anchorjs"
+        "anchorjs",
+        "meta"
     ],
     "pluginsConfig": {
         "ga": {
