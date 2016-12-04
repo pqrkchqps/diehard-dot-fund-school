@@ -1,6 +1,8 @@
 # Loomio School
 Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories.
 
+---
+
 [Loomio](http://loomio.org?utm_campaign=school) is an online tool used by thousands of groups around the world to increase transparency and inclusion, decrease meetings and emails, and make better decisions together.
 
 <img src="img/loomio-new-way.png" alt="illustration showing people collaborating with Loomio" class="img-50pc img-right"/>
