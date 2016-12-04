@@ -26,3 +26,7 @@ Learn how to do great online facilitation and grow a collaborative culture. Trai
 ---
 
 If you're looking for more support, [get in touch](https://loomio.org/contact). We have a global network of collaboration experts available to help!
+
+<img src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" class="img-right" alt="Creative Commons License" />
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Unported License](http://creativecommons.org/licenses/by-sa/4.0/).
