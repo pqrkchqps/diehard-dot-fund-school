@@ -1,11 +1,12 @@
 # Loomio School
 
 
-<img src="img/loomio-new-way.png" alt="illustration showing people collaborating with Loomio" class="img-50pc img-right"/>
 
 Learn how to do great online facilitation and grow a collaborative culture. Training resources, guides, and stories.
 
 ---
+
+<img src="img/loomio-new-way.png" alt="illustration showing people collaborating with Loomio" class="img-50pc img-right"/>
 
 **[Learn to use Loomio](beginner/index.md)**
 <br/>Spend a few minutes getting familiar with the basics.
