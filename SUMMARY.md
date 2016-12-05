@@ -7,6 +7,7 @@
    * [Joining a group](beginner/joining_a_group.md)
    * [Using proposals](beginner/proposals.md)
    * [Facilitating discussions](beginner/discussions.md)
+   * [Loomio User Manual](https://help.loomio.org/en)
 * [Guides & How To's](guides/index.md)
 * [Facilitation Guide](facilitators_guide/index.md)
    * [1. Preparation](facilitators_guide/preparation.md)
