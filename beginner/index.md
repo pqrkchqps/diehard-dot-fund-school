@@ -10,3 +10,5 @@
 
 [Facilitating discussions](discussions.md) 🗣 - Tips for having inclusive and effective discussions on Loomio.
 
+[Loomio User Manual](https://help.loomio.org/en) - A detailed guide to how the Loomio application works
+
