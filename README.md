@@ -9,13 +9,13 @@ Learn how to do great online facilitation and grow a collaborative culture. Trai
 <img src="img/loomio-new-way.png" alt="illustration showing people collaborating with Loomio" class="img-50pc img-right"/>
 
 **[Learn to use Loomio](beginner/index.md)**
-<br/>Spend a few minutes getting familiar with the basics.
+<br/>Get familiar with the basics.
 
 **[Guides & How To's](guides/index.md)**
-<br/>Practical guides explaining how Loomio fits in with your other group processes.
+<br/>How Loomio fits in with your group processes.
 
 **[Case Studies & User Stories](case_studies.html)**
-<br/>Stories from people using Loomio in co-ops, government, community and business.
+<br/>People using Loomio in co-ops, government, community and business.
 
 **[The Loomio Facilitation Guide](facilitators_guide/index.md)**
 <br/>Going in-depth about applying key facilitation concepts in the online space.
@@ -24,7 +24,7 @@ Learn how to do great online facilitation and grow a collaborative culture. Trai
 <br/>Workshop runsheets and training guides.
 
 **[Inspiration](inspiration.html)**
-<br/>Articles, podcasts and videos from the cutting edge of collaborative organising.
+<br/>Articles, podcasts, and videos from the cutting edge of collaborative organising.
 
 ---
 
