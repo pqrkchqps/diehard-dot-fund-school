@@ -165,7 +165,7 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 
 A productive conversation has a rhythm. The right beat comes from a complex combination of factors and often feels intuitive, like a musician improvising. When is the moment to go deeper, or pull back? When is it right to bring in new information, or further delve into what’s already on the table? This is pacing.
 
-Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off , people will feel frustrated - either impatient or left behind.
+Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off, people will feel frustrated - either impatient or left behind.
 
 ### On Loomio
 
