@@ -157,7 +157,7 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 * Topic-based discussion threads are a powerful tool for effective scope - even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question, while other aspects can be addressed simultaneously in other threads.
 * We often see users making facilitation interventions like "That’s out of the scope of this topic, but why don’t you start a new discussion about it?"
 * The act of creating a Loomio group helps define who are we and what are we here to discuss. This helps participants manage scope. 
-* The sequential proposals design of Loomio is very good for a "series of small yess's" approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
+* The sequential proposals design of Loomio is very good for a "series of small yes's" approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
 * Asynchronous online communication can allow some people to go way out of scope without holding up others. They can simply start a new discussion or subgroup and go as deep and long as they want, while the main scope of the group is maintained.
 * The discussion context box and group description are spaces to define the scope of a conversation or group, respectively.
 
