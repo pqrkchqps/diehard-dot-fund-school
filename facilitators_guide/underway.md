@@ -76,7 +76,7 @@ Some classic design building blocks to address communication diversity in collab
 
 ### On Loomio
 
-* The design of Loomio has always been about ‘hearing all voices’, including people who aren’t able to be there in person, are quieter, are busy, etc.
+* The design of Loomio has always been about “hearing all voices”, including people who aren’t able to be there in person, are quieter, are busy, etc.
 * In text, every voice is more or less the same “volume” and “speed”. Written asynchronous communication offers a kind of leveling of the field.
 * The proposal feature is essentially a “round”, assisting groups to facilitate each individual person having their say (if they want to) on an equal basis.
 * Loomio enables multi-media (links, videos, images, diagrams, supporting evidence), which serve various communication styles.
@@ -84,12 +84,12 @@ Some classic design building blocks to address communication diversity in collab
 * Loomio provides flexible tools for small and large group interaction, using parent groups and subgroups. Some large consultation processes have involved multiple smaller groups which are then synthesised into a larger outcome.
 * People who want time for individual reflection can take time out and process their thoughts, and then come back and share a longer comment or link to a document. This is a “self-selecting” example of creating interplay between individual and group communication.
 * Loomio accessibility features and multi-lingual translations make it possible for people with very different needs to participate as equals in one discussion. This is a key example of how technology can enable equitable participation in a way that’s nearly impossible in person.
-* If someone is contributing more than their share (talking too much), it’s technically possible to just scroll on by (whereas in person this behaviour can totally dominate the interaction). However, people posting ‘walls of text’ can still be detrimental to a balanced Loomio discussion.
+* If someone is contributing more than their share (talking too much), it’s technically possible to just scroll on by (whereas in person this behaviour can totally dominate the interaction). However, people posting “walls of text” can still be detrimental to a balanced Loomio discussion.
 
 
 ## Counter Cognitive Bias
 
-Human brains have evolved over millions of years to balance quick, efficient ‘good enough’ thinking with slow, expensive, deep analysis. This allows us to use instincts, heuristics, and generalisations as cheap and fast solutions most of the time, and to engage deep analysis when needed.
+Human brains have evolved over millions of years to balance quick, efficient “good enough” thinking with slow, expensive, deep analysis. This allows us to use instincts, heuristics, and generalisations as cheap and fast solutions most of the time, and to engage deep analysis when needed.
 
 But sometimes we get it wrong. In fact, there are well-known “bugs” in the human cognition program, which can keep people from making the best decisions. This is further complicated in group situations. We need to be aware of these dynamics.
 
@@ -100,7 +100,7 @@ One powerful tool to counter cognitive bias and increase quality of decisions is
 Some examples of processes that can help mitigate cognitive bias:
 
 * [De Bono’s Hats](http://www.debonoforschools.com/asp/six_hats.asp): different colored hats participants can wear (metaphorically) to step outside their own opinions and try on different modes of thinking.
-* Checklists: thinking ‘ruts’ can cause us to miss even obvious things (especially in areas we're very familiar with), so a checklist can weed out errors.
+* Checklists: thinking “ruts” can cause us to miss even obvious things (especially in areas we're very familiar with), so a checklist can weed out errors.
 * The Five Why’s: only asking why once or twice can mislead you into thinking you’ve reached the conclusion before you get to the root level of the issue. Asking five times tends to get to the bottom of it.
 * Mental models: exercises like [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis), the [business model canvas](https://en.wikipedia.org/wiki/Business_Model_Canvas), or any number of countless other structured information gathering exercises can guide you to cleaner analysis and reveal assumptions.
 
@@ -114,7 +114,7 @@ Some examples of processes that can help mitigate cognitive bias:
 
 ## Balancing Divergent & Convergent
 
-The ‘diamond’ of divergence and convergence is a conversational shape. It expands outward at first - opening up space for ideas, information, and different perspectives - then begins to come to a point. The right timing for this shift is key for effective facilitation of action-oriented, productive, collaborative discussions.
+The “diamond” of divergence and convergence is a conversational shape. It expands outward at first - opening up space for ideas, information, and different perspectives - then begins to come to a point. The right timing for this shift is key for effective facilitation of action-oriented, productive, collaborative discussions.
 
 <a href="collaboration-process.png" alt="Collaboration process diagram"><img src="collaboration-process.png" class="img-center img-50pc"/></a>
 
@@ -137,7 +137,7 @@ Within a group, different individuals will usually tend to prefer one mode or th
 
 Successful collaboration often depends on biting off the right size pieces in the right order.
 
-You can apply a ‘project management’ mindset to facilitation, designing for questions like:
+You can apply a “project management” mindset to facilitation, designing for questions like:
 
 * * What are the dependencies (what’s the critical path, which things need to be done first to enable other things)?
 * What’s the most important bits to focus on? What can be left out?
@@ -198,10 +198,10 @@ Structured processes and information sorting exercises are important facilitatio
 ### On Loomio
 
 * One of the most important attention management features in Loomio is topic-based discussion threading. There’s a reason why this format was one of the first to emerge in online communication decades ago, and continues to be used widely today: it’s a highly effective way to sort attention. Most Loomio users intuitively understand how to stay on topic when it’s listed in big letters at the top of the page.
-* Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered “salient” activity that generates notifications (for example, comments, votes, and outcomes are, while a ‘like’ on a comment is not), developed based on user feedback.
+* Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered “salient” activity that generates notifications (for example, comments, votes, and outcomes are, while a “like” on a comment is not), developed based on user feedback.
 * Users can exercise a lot of customised control over their Loomio attention economy through notification settings. Helping users set these preferences is an important tool to wisely using the attention economy of the group.
 * Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
-* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ to fully process a proposal before moving on.
+* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s “feet to the fire” to fully process a proposal before moving on.
 
 > Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)
 

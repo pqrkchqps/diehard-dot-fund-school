@@ -38,7 +38,7 @@ The experience happens in the moment, but its impact often comes from putting ha
 ### On Loomio
 
 * Loomio is self-documenting - notes write themselves as an integrated part of the process. This creates a gold-mine of archival content for groups, without any extra effort.
-* We have some features to support harvesting and archiving: the search function, the ‘previous decisions’ list, and the print discussion option.
+* We have some features to support harvesting and archiving: the search function, the “previous decisions” list, and the print discussion option.
 * Premium plans offer the option to export all your group's Loomio data.
 * Many groups use Loomio to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Loomio, having the meeting in person, posting the notes back on Loomio, and making related decisions in the same thread. This expands the “self-harvesting” ability of Loomio beyond the online space.
 
@@ -76,7 +76,7 @@ Participants often look to the leader or facilitator for confirmation of when it
 
 * The clearest indication of conclusion on Loomio is publishing a decision outcome.
 * Some groups make use of [Thread Archive](http://blog.loomio.org/2016/04/23/organise/) subgroups to move old discussions to.
-* Deactivating a group is the strongest possible ‘closure’ move. No one can say anything else after that.
+* Deactivating a group is the strongest possible “closure” move. No one can say anything else after that.
 * Since Loomio groups can remain while group activity goes up and down, it can be useful to recognise milestones like the conclusion of a particular phase, even if the group will reactivate in the future.
 
 

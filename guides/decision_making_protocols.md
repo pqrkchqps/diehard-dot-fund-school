@@ -26,8 +26,8 @@ block - “I cannot support this decision. This proposal would jeopardise my mem
 A proposal passes if:
 there are no blocks AND
 at least 75% of people participate AND
-we have made a reasonable* effort to resolve any ‘No’ votes AND
-at least 75% of participants have said ‘Yes’
+we have made a reasonable* effort to resolve any “No” votes AND
+at least 75% of participants have said “Yes”
 
 
 *Reasonable: If a member votes no, they must give a reason for it and it must be discussed at the next meeting or resolved beforehand.

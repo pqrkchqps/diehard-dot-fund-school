@@ -38,9 +38,9 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 
 ### On Loomio
 
-* Inviting people into a new digital space specifically for decision-making is powerful - there’s a ‘threshold crossing’ experience making it as distinct from other online spaces (which might be for socialising or other functions).
+* Inviting people into a new digital space specifically for decision-making is powerful - there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
 * [Customising your group photo](https://loomio.gitbooks.io/manual/content/en/coordinating_your_group.html) is a prime opportunity to craft the feeling of the space.
-* The group description is a main piece of ‘furniture’ on the group page, and [you can customise it](http://blog.loomio.org/2016/04/23/organise/) to suit.
+* The group description is a main piece of “furniture” on the group page, and [you can customise it](http://blog.loomio.org/2016/04/23/organise/) to suit.
 
 
 ## Supplies, Tools, Materials
@@ -69,7 +69,7 @@ Time and time again we have seen people drastically underestimate the need for p
 
 * Skilled users are already adapting Loomio for various experience designs - such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
 * Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](http://blog.loomio.org/2016/11/09/advice-process/)).
-* [Case studies](http://loomio.school/case_studies.html) of thoughtfully designed processes could be used as ‘recipes’ - if you're ot sure what design to use, start by seeing what others have tried.
+* [Case studies](http://loomio.school/case_studies.html) of thoughtfully designed processes could be used as “recipes” - if you're ot sure what design to use, start by seeing what others have tried.
 
 
 
@@ -86,7 +86,7 @@ Key Context Questions:
 
 ### On Loomio
 
-* Loomio groups nearly always have a ‘champion’, who understands the group’s context and makes the call about whether introducing Loomio is right for them.
+* Loomio groups nearly always have a “champion”, who understands the group’s context and makes the call about whether introducing Loomio is right for them.
 * It's not wise to try to change everything at once. Any time Loomio fits nicely into existing workflows, groups will adopt it better.
 * Good timing is when the group is ready to incorporate online collaborative practice effectively. They have to feel the pain of not having the online decision-making space, and be motivated to solve that problem.
 * Consider the group’s attention economy to determine when the right time to raise a given topic might be. Collective attention is a limited resource.

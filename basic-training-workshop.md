@@ -54,7 +54,7 @@ Set up a Loomio Workshop group to use as an example and invite people to join in
 
 * **Proposal:** To test an idea or make a decision. Is a visual representation of how the group feels,.
 
---- **Invite workshop attendees to join a 'Workshop' Loomio group and participate.**
+--- **Invite workshop attendees to join a “Workshop” Loomio group and participate.**
 
 * **Vote**: Select a position and quickly express your thoughts about it. Change it at any time while the proposal is still open
 
@@ -94,7 +94,7 @@ How confident are you at hosting and facilitating groups?
 
 
 ### Section 1 - Onboarding
-*show examples in the 'Workshop' group on Loomio*
+*show examples in the “Workshop” group on Loomio*
 
 **Internally**
 
@@ -149,7 +149,7 @@ Some interventions:
 
 **Working out loud **- Take notes in meetings and post them on Loomio to share with people who weren’t there. Put followup actions on Loomio after meetings with @mentions - make Loomio your place for documenting what happened so you can refer to it later, and it becomes a useful resource.
 
-**Stay on topic**: Notice when people are going off topic and, if necessary, create separate discussion threads for topics that diverge from the core discussion. Don’t be afraid to '@mention' people to keep the conversation on track.
+**Stay on topic**: Notice when people are going off topic and, if necessary, create separate discussion threads for topics that diverge from the core discussion. Don’t be afraid to “@mention” people to keep the conversation on track.
 
 **Notice** when the same voices are dominating the discussion and invite some of the quieter people to contribute by @mentioning them and asking them what they think. In exceptional cases you may want to ask someone to wait before commenting again.
 

@@ -63,12 +63,12 @@ Even among groups who already know each other well, this introduction process co
 
 People's expression does not occur in a vaccuum, but in the context of who the are. A multi-faceted view of someone’s identity is an essential aspect of interpreting their contributions.
 
-> We start many of our meetings with everyone ‘checking in’ before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
+> We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
 
 ### On Loomio
 
-* Introduction threads began as a user-created 'hack' of discussion threads. They were so widespread that now new Loomio groups automatically start with an intro thread pre-loaded. You can edit this thread to best suit your group's needs. It provides a useful first “call to action” everyone coming in will understand: introduce yourself.
-* For ‘request to join’ groups, we have a function that allowed the requestor to introduce themselves to the coordinator to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.
+* Introduction threads began as a user-created “hack” of discussion threads. They were so widespread that now new Loomio groups automatically start with an intro thread pre-loaded. You can edit this thread to best suit your group's needs. It provides a useful first “call to action” everyone coming in will understand: introduce yourself.
+* For “request to join” groups, we have a function that allowed the requestor to introduce themselves to the coordinator to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.
 * Upload profile photos! Photos of faces are one of the most powerful ways of feeling like you know who is in the room with you online.
 
 

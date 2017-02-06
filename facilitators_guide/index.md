@@ -50,7 +50,7 @@ Whether employed by a professional facilitator, people peer-facilitating each ot
 
 Loomio is *groupware*:
 
-> Collaborative software, or groupware, is designed to help people involved in a common task achieve their goals. One of the earliest definitions of collaborative software is 'intentional group processes plus software to support them.' -- Wikipedia
+> Collaborative software, or groupware, is designed to help people involved in a common task achieve their goals. One of the earliest definitions of collaborative software is “intentional group processes plus software to support them.” -- Wikipedia
 
 
 There is a huge body of knowledge, best practice, and tradition in both in-person facilitation and online moderation, but the art and science of their intersection is only just emerging. This is the specific space where Loomio strives to excel.
