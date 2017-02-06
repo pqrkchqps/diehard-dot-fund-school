@@ -139,13 +139,13 @@ Some interventions:
    
     * Divergent-convergent (double diamond)
 
-    * If people revert to old habits, intervene and remind them that the group agreed to make a switch and the reasons why. For example, "We should move this conversation off email and onto Loomio because discussing it here won’t lead to a clear outcome," or “Let’s continue this discussion on Loomio so we can include the people who aren’t able to be here at the meeting.”
+    * If people revert to old habits, intervene and remind them that the group agreed to make a switch and the reasons why. For example, “We should move this conversation off email and onto Loomio because discussing it here won’t lead to a clear outcome,” or “Let’s continue this discussion on Loomio so we can include the people who aren’t able to be here at the meeting.”
 
 * If you have redundant channels causing confusion (for example, both Loomio and an email mailing list), shut one of them down, or at least clarify which channels to use when. Having no more channels than you absolutely need will reduce redundancy and noise, and help you get critical mass for engagement.
 
 **Be a champion** to keep Loomio active - post discussions and proposals and encourage users to participate, after a while the group becomes used to it.
 
-**Keep the discussion together**: Hey, would you mind re-posting that in Loomio? Can’t have parallel systems going on. If you want to use Loomio, you have to shut down big "reply all" emails.
+**Keep the discussion together**: Hey, would you mind re-posting that in Loomio? Can’t have parallel systems going on. If you want to use Loomio, you have to shut down big “reply all” emails.
 
 **Working out loud **- Take notes in meetings and post them on Loomio to share with people who weren’t there. Put followup actions on Loomio after meetings with @mentions - make Loomio your place for documenting what happened so you can refer to it later, and it becomes a useful resource.
 
@@ -160,7 +160,7 @@ Some interventions:
 
 ### Section 3 - Using Proposals
 
-*Pre-set 3-4 simple proposal examples taken from "9 ways to use a proposal" article.*
+*Pre-set 3-4 simple proposal examples taken from “9 ways to use a proposal” article.*
 
 * Questions, examples and applications (20')
 

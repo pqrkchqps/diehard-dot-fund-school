@@ -27,14 +27,14 @@ Mapping the process well enough to communicate it also challenges facilitators t
 
 * A Loomio decision already follows a basic logical progression (which is why it works): Gather (open/invite), Discuss (divergent), Propose (convergent), Decide and Act (conclude).
 * Many Loomio users are employing the tool as part of explicitly mapped experiences, such as a multi-stage consultation process.
-* We offer some tools of facilitators to help "reveal the map" to users, such as the group description field, and proposal deadlines. These can be proactively leveraged to increase context for participants.
+* We offer some tools of facilitators to help “reveal the map” to users, such as the group description field, and proposal deadlines. These can be proactively leveraged to increase context for participants.
 
 
 ## The Art of Noticing
 
 Noticing is probably the most critical facilitation skill of all. The facilitator uses noticing to figure out what interventions or responses are needed, how to invite the right contributions, and to help the group notice itself. The value of facilitation is having someone paying attention and acting on what they notice, while others may be focused on specific content or their own agendas.
 
-Effective noticing is a combination of good informational inputs, and sensitivity and skill to interpret them. Many facilitators talk about "reading" a room: emotional reactions, tensions,  power dynamics. Facilitators need effective information signalling systems.
+Effective noticing is a combination of good informational inputs, and sensitivity and skill to interpret them. Many facilitators talk about “reading” a room: emotional reactions, tensions,  power dynamics. Facilitators need effective information signalling systems.
 
 ### On Loomio
 
@@ -44,7 +44,7 @@ Effective noticing is a combination of good informational inputs, and sensitivit
 * Talking online can make the implicit explicit, and therefore easier to notice.
 * Communicating in writing can be very good for naming what’s being noticed and why a certain action is being taken in response. For example, you can quote someone’s exact words and reflect back what’s revealed by them. Or you can do the same thing at the level of a whole discussion, picking out a range of quotes and noticing themes or emerging conflicts.
 * Noticing is much easier when you slow things down, which is one of Loomio’s great advantages - asynchronous communication you can read at any pace. It also makes it possible to notice across time, referring directly to past discussions.
-* Because you can have simultaneous discussions, it's possible to have a layer of "meta" discussion (aka "blue hat", aka discussion about the discussion) at the same time as progressing the main discussions. So you can collectively have a space to practice noticing without slowing down the process.
+* Because you can have simultaneous discussions, it's possible to have a layer of “meta” discussion (aka “blue hat”, aka discussion about the discussion) at the same time as progressing the main discussions. So you can collectively have a space to practice noticing without slowing down the process.
 
 
 ## Hearing Diverse Voices
@@ -76,13 +76,13 @@ Some classic design building blocks to address communication diversity in collab
 
 ### On Loomio
 
-* The design of Loomio has always been about ‘hearing all voices’, including people who aren’t able to be there in person, are quieter, are busy, etc. 
-* In text, every voice is more or less the same "volume" and "speed". Written asynchronous communication offers a kind of leveling of the field.
-* The proposal feature is essentially a "round", assisting groups to facilitate each individual person having their say (if they want to) on an equal basis.
+* The design of Loomio has always been about ‘hearing all voices’, including people who aren’t able to be there in person, are quieter, are busy, etc.
+* In text, every voice is more or less the same “volume” and “speed”. Written asynchronous communication offers a kind of leveling of the field.
+* The proposal feature is essentially a “round”, assisting groups to facilitate each individual person having their say (if they want to) on an equal basis.
 * Loomio enables multi-media (links, videos, images, diagrams, supporting evidence), which serve various communication styles.
-* Loomio itself is pretty basic, but with active facilitation and group maturity, it is possible to employ discussion protocols "manually" using cultural norms or agreed rules (eg, a discussion where everyone only posts once until everyone else has participated).
+* Loomio itself is pretty basic, but with active facilitation and group maturity, it is possible to employ discussion protocols “manually” using cultural norms or agreed rules (eg, a discussion where everyone only posts once until everyone else has participated).
 * Loomio provides flexible tools for small and large group interaction, using parent groups and subgroups. Some large consultation processes have involved multiple smaller groups which are then synthesised into a larger outcome.
-* People who want time for individual reflection can take time out and process their thoughts, and then come back and share a longer comment or link to a document. This is a "self-selecting" example of creating interplay between individual and group communication.
+* People who want time for individual reflection can take time out and process their thoughts, and then come back and share a longer comment or link to a document. This is a “self-selecting” example of creating interplay between individual and group communication.
 * Loomio accessibility features and multi-lingual translations make it possible for people with very different needs to participate as equals in one discussion. This is a key example of how technology can enable equitable participation in a way that’s nearly impossible in person.
 * If someone is contributing more than their share (talking too much), it’s technically possible to just scroll on by (whereas in person this behaviour can totally dominate the interaction). However, people posting ‘walls of text’ can still be detrimental to a balanced Loomio discussion.
 
@@ -91,11 +91,11 @@ Some classic design building blocks to address communication diversity in collab
 
 Human brains have evolved over millions of years to balance quick, efficient ‘good enough’ thinking with slow, expensive, deep analysis. This allows us to use instincts, heuristics, and generalisations as cheap and fast solutions most of the time, and to engage deep analysis when needed.
 
-But sometimes we get it wrong. In fact, there are well-known "bugs" in the human cognition program, which can keep people from making the best decisions. This is further complicated in group situations. We need to be aware of these dynamics.
+But sometimes we get it wrong. In fact, there are well-known “bugs” in the human cognition program, which can keep people from making the best decisions. This is further complicated in group situations. We need to be aware of these dynamics.
 
 There is a huge [range of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) (this list is really worth a read), all of which have potential impacts on decision-making and collaboration. Facilitation can be an important tool to deal with them, to raise awareness of their existence, encourage proactive choices about them. For example, asking when is it more important to move quickly and when is it more important to be accurate.
 
-One powerful tool to counter cognitive bias and increase quality of decisions is structured processes and communication. The challenge of following a process instead of the "path of least resistance" can help highlight thinking errors and bias. Facilitators sometimes push for things that feel challenging or trigger resistance, precisely because brains are being asked to step out of familiar patterns. Discipline in this area can help groups achieve their deeper goals, which can be worth some temporary discomfort.
+One powerful tool to counter cognitive bias and increase quality of decisions is structured processes and communication. The challenge of following a process instead of the “path of least resistance” can help highlight thinking errors and bias. Facilitators sometimes push for things that feel challenging or trigger resistance, precisely because brains are being asked to step out of familiar patterns. Discipline in this area can help groups achieve their deeper goals, which can be worth some temporary discomfort.
 
 Some examples of processes that can help mitigate cognitive bias:
 
@@ -106,7 +106,7 @@ Some examples of processes that can help mitigate cognitive bias:
 
 ### On Loomio
 
-* Diverse information and inputs can disrupt assumptions or bias. This is built into Loomio’s basic design: by enabling more voices to contribute to a discussion on a more equitable basis, you have a chance to escape "groupthink".
+* Diverse information and inputs can disrupt assumptions or bias. This is built into Loomio’s basic design: by enabling more voices to contribute to a discussion on a more equitable basis, you have a chance to escape “groupthink”.
 * Loomio gives participants the ability to dissent constructively. Safe and valued dissent is essential for a culture of critical thinking.
 * Communicating asynchronously in writing slows conversation down and lets it be more carefully considered, giving people a chance to think more carefully and avoid cognitive errors.
 * Loomio invites people into a semi-structured process that leads to more considered decision-making. Loomio can be used for a huge range of different processes, but simply having *some* structure in a discussion enables other possibilities.
@@ -143,7 +143,7 @@ You can apply a ‘project management’ mindset to facilitation, designing for 
 * What’s the most important bits to focus on? What can be left out?
 * What is an achievable scope to tackle at a given time to get to a useful place with the time, energy, and information available?
 
-It’s important not to try to "boil the ocean", and instead break things down into manageable chunks. You can build toward a bigger outcome in a series of smaller pieces. It’s often better to achieve something small but useful than to fail to reach any conclusions. It’s also possible to get too bogged down in details and fail to hit the bigger issues. 
+It’s important not to try to “boil the ocean”, and instead break things down into manageable chunks. You can build toward a bigger outcome in a series of smaller pieces. It’s often better to achieve something small but useful than to fail to reach any conclusions. It’s also possible to get too bogged down in details and fail to hit the bigger issues.
 
 In a collaboration, no one knows exactly what will emerge, so scope must evolve with the discussion. Whether branching out at a given moment is a distraction or an evolution is a judgement call. Too much rigidity and too much flexibility can both be damaging. Often times it’s not about whether something is relevant or not relevant, but a question of sequence and timing in terms of what will be most constructive.
 
@@ -155,9 +155,9 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 ### On Loomio
 
 * Topic-based discussion threads are a powerful tool for effective scope - even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question, while other aspects can be addressed simultaneously in other threads.
-* We often see users making facilitation interventions like "That’s out of the scope of this topic, but why don’t you start a new discussion about it?"
-* The act of creating a Loomio group helps define who are we and what are we here to discuss. This helps participants manage scope. 
-* The sequential proposals design of Loomio is very good for a "series of small yess's" approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
+* We often see users making facilitation interventions like “That’s out of the scope of this topic, but why don’t you start a new discussion about it?”
+* The act of creating a Loomio group helps define who are we and what are we here to discuss. This helps participants manage scope.
+* The sequential proposals design of Loomio is very good for a “series of small yess's” approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
 * Asynchronous online communication can allow some people to go way out of scope without holding up others. They can simply start a new discussion or subgroup and go as deep and long as they want, while the main scope of the group is maintained.
 * The discussion context box and group description are spaces to define the scope of a conversation or group, respectively.
 
@@ -173,8 +173,8 @@ Different participants will have different needs and preferences - some will nee
 * It’s possible to scroll right past people moving slowly and push for forward momentum, and simultaneously possible to continue digging into something slowly while others press forward. This is not possible in synchronous communication.
 * Proposal deadlines are a pace-setting tool. Topics that need to move quickly use shorter timeframes, and longer ones can have more time. Different decisions can go at different speeds.
 * It’s easy to modulate your own pace of engagement. If a conversation is moving too fast or slowly for you, you can drop your input and step back, and then return later when a proposal is raised.
-* It’s interesting to note how a "fast" decision on Loomio is 1 or 2 days, while a “fast” decision in person is more like 5 minutes. And yet, Loomio does not seem “slow”, the way taking 2 days to reach a decision in person would. Loomio runs decisions in parallel to other ongoing work, and it's much more efficient gathering everyone’s input on Loomio over 2 days versus having to schedule an in-person meeting.
-* Facilitation on Loomio could be likened to "bullet time" (when Neo can stop time and just walk around a bullet in the Matrix) - you can walk through a living conversation frame by frame. It’s like a superpower.
+* It’s interesting to note how a “fast” decision on Loomio is 1 or 2 days, while a “fast” decision in person is more like 5 minutes. And yet, Loomio does not seem “slow”, the way taking 2 days to reach a decision in person would. Loomio runs decisions in parallel to other ongoing work, and it's much more efficient gathering everyone’s input on Loomio over 2 days versus having to schedule an in-person meeting.
+* Facilitation on Loomio could be likened to “bullet time” (when Neo can stop time and just walk around a bullet in the Matrix) - you can walk through a living conversation frame by frame. It’s like a superpower.
 
 <a href="bulletime.jpg" alt="Neo Matrix Bullet Time"><img src="bulletime.jpg" class="img-center img-50pc"/></a>
 
@@ -198,7 +198,7 @@ Structured processes and information sorting exercises are important facilitatio
 ### On Loomio
 
 * One of the most important attention management features in Loomio is topic-based discussion threading. There’s a reason why this format was one of the first to emerge in online communication decades ago, and continues to be used widely today: it’s a highly effective way to sort attention. Most Loomio users intuitively understand how to stay on topic when it’s listed in big letters at the top of the page.
-* Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered "salient" activity that generates notifications (for example, comments, votes, and outcomes are, while a ‘like’ on a comment is not), developed based on user feedback.
+* Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered “salient” activity that generates notifications (for example, comments, votes, and outcomes are, while a ‘like’ on a comment is not), developed based on user feedback.
 * Users can exercise a lot of customised control over their Loomio attention economy through notification settings. Helping users set these preferences is an important tool to wisely using the attention economy of the group.
 * Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
 * The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ to fully process a proposal before moving on. 

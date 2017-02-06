@@ -40,7 +40,7 @@ The experience happens in the moment, but its impact often comes from putting ha
 * Loomio is self-documenting - notes write themselves as an integrated part of the process. This creates a gold-mine of archival content for groups, without any extra effort.
 * We have some features to support harvesting and archiving: the search function, the ‘previous decisions’ list, and the print discussion option.
 * Premium plans offer the option to export all your group's Loomio data.
-* Many groups use Loomio to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Loomio, having the meeting in person, posting the notes back on Loomio, and making related decisions in the same thread. This expands the "self-harvesting" ability of Loomio beyond the online space.
+* Many groups use Loomio to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Loomio, having the meeting in person, posting the notes back on Loomio, and making related decisions in the same thread. This expands the “self-harvesting” ability of Loomio beyond the online space.
 
 
 ## Turning Discussion into Action
@@ -62,8 +62,8 @@ If there are any blocks around these issues, it can be damaging to leave this re
 
 * You can @mention the names of people who will take actions out of a decision.
 * Many users accomplish integrating Loomio content into other organisational systems through other channels like reviewing Loomio decisions in regular offline meetings, or transferring outcomes to their task tracking process.
-* Making an explicit decision naturally leads people to ask, "OK, but how are we going to take this forward?"
-* Forming a Loomio group often surfaces important questions like, "Who needs to participate here to turn these decisions into action?" If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
+* Making an explicit decision naturally leads people to ask, “OK, but how are we going to take this forward?”
+* Forming a Loomio group often surfaces important questions like, “Who needs to participate here to turn these decisions into action?” If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
 
 
 ## It Ain’t Over Til It’s Over

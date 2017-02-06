@@ -18,7 +18,7 @@ There are many approaches to continuous improvement, but they all create space f
 
 ### On Loomio
 
-* People use Loomio itself to talk about how they use Loomio. It provides an obvious platform to "talk about the talking".
+* People use Loomio itself to talk about how they use Loomio. It provides an obvious platform to “talk about the talking”.
 * The process of joining Loomio causes groups to reflect on many aspects of their collaboration and decision-making process, which creates the opportunity to improve.
 
 
@@ -38,7 +38,7 @@ People who are less used to taking acts of facilitation can be supported with ed
 
 > You don’t need an agenda to be a facilitator. Facilitating is just about making a group situation easy. Next time you’re at a family gathering, party or morning tea: approach it like a facilitator and make sure everybody in the group feels included and able to participate. — Silvia Zuur
 
-Distributed facilitation can work beautifully, but it can also cause people to step all over each other. At first, it’s awkward as people learn the dance. It’s important to differentiate between distributed facilitation (peers helping the collective), "facipulation" (manipulating the group toward your own agenda), and backseat facilitation (taking acts of facilitation when you do not have the mandate).
+Distributed facilitation can work beautifully, but it can also cause people to step all over each other. At first, it’s awkward as people learn the dance. It’s important to differentiate between distributed facilitation (peers helping the collective), “facipulation” (manipulating the group toward your own agenda), and backseat facilitation (taking acts of facilitation when you do not have the mandate).
 
 Consciously decide when peer facilitation is a good choice, and when a specific facilitator is called for. In certain situations, such as a high-conflict discussion where a specified neutral party is needed, or there is a lack of trust, distributed facilitation might not work.
 
@@ -66,7 +66,7 @@ On the negative side, people who can’t or won’t be facilitated can be detrim
 
 * With a little practice, most users quickly upskill on being responsive to acts of facilitation on Loomio, such as replying when @mentioned.
 * Taking acts of facilitation on Loomio helps people become more responsive to facilitation themselves.
-* Because everything is archived, users can see past acts of facilitation "frozen in time", gaining the benefits of observing them without having been there.
+* Because everything is archived, users can see past acts of facilitation “frozen in time”, gaining the benefits of observing them without having been there.
 
 
 ## Culture Change
@@ -75,12 +75,12 @@ A collaborative, participatory culture is something that emerges over time, with
 
 Is the company party participatory? Does the office potluck just happen like magic? Are ideas able to emerge from anywhere, evolve through many brains and hands, and get implemented in a way better than anyone first imagined? 
 
-Deep culture change is when the culture of collaboration starts to leak out of specific "collaboration" spaces and shows up in every aspect of the organisation. Collaboration is not about post-it notes and check-ins, but the very timbre of organisational life.
+Deep culture change is when the culture of collaboration starts to leak out of specific “collaboration” spaces and shows up in every aspect of the organisation. Collaboration is not about post-it notes and check-ins, but the very timbre of organisational life.
 
 ### On Loomio
 
 * The [theory of change of Loomio](http://www.loomio.org/about) is that more groups practicing effective, inclusive decision-making can change organisational dynamics at a global scale. This shows up in everything about how the tool is designed and [how we run as a co-op](http://loomio.coop). Ultimately, it’s about culture change through collaborative practice.
 * Loomio groups have experienced evolving culture through the tool. Like groups that already has a collaborative culture scale while holding onto that, or a participatory group continuing to exists instead of imploding due to challanges around inclusive decicion-making.
-* Loomio makes a certain kind of "new normal" of collaborative practice possible, through making collaborative practice more accessible and achievable.
+* Loomio makes a certain kind of “new normal” of collaborative practice possible, through making collaborative practice more accessible and achievable.
 
 For inspiration about Ongoing Practice, check out [stories of Loomio groups](http://loomio.school/case_studies.html).

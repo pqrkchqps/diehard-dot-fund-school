@@ -26,12 +26,12 @@ Visit the [email settings](https://www.loomio.org/email_preferences) to configur
 
 ## Is anyone missing? 🔍
 
-Check the members list on your Loomio group page. Are people missing? Click "invite people" to add them. Give them a phone call or an email to make sure they got their invitation.
+Check the members list on your Loomio group page. Are people missing? Click “invite people” to add them. Give them a phone call or an email to make sure they got their invitation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwE0IM1k64E" frameborder="0" allowfullscreen></iframe>
 
 
-## Say "Hello" 👋🏽
+## Say “Hello” 👋🏽
 Every Loomio group starts off with an Introductions thread. This is a place where you can say hello. Share why you've joined the group, and tell people something about yourself so they can understand you a bit better.
 
 ## This is *your* group
