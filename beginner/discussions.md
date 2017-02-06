@@ -30,7 +30,7 @@ By default everyone is emailed when you start a discussion, so you should assume
 
 __Mentioning__
 
-A direct way of asking for someone's attention. Use the '@' symbol and select the person's name. It's expected that you respond when someone _mentions_ you.
+A direct way of asking for someone's attention. Use the `@` symbol and select the person's name. It's expected that you respond when someone _mentions_ you.
 
 __Raise a proposal__
 
