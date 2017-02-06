@@ -12,7 +12,7 @@ You're reading Phase 5 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Continuous Improvement
 
-No matter how amazing a group or facilitator is, they can always improve. If they incrementally head in a good direction they will get to a better place. Incremental improvement requires a an effective protocol for meta-conversation (talking about how you collaborate). With it, anything is possible. Without it, you stagnate.
+No matter how amazing a group or facilitator is, they can always improve. If they incrementally head in a good direction they will get to a better place. Incremental improvement requires an effective protocol for meta-conversation (talking about how you collaborate). With it, anything is possible. Without it, you stagnate.
 
 There are many approaches to continuous improvement, but they all create space for reflection and feedback, and a way to make changes in response. For teams that work together on an ongoing basis, they might employ a methodology like <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank">scrum</a>, including retrospectives and regular process improvements. For a one-off session, a facilitator might simply follow up with a request for feedback.
 
@@ -58,7 +58,7 @@ Consciously decide when peer facilitation is a good choice, and when a specific 
 
 Like the skill of being the follow in a ballroom dance pair, being facilitated is an art itself. People with experience facilitating themselves, or who have participated in a lot of well-facilitated processes, will receive facilitation differently than those who haven't.
 
-On the positive side, skillful receptivity to facilitation is a capacoty that can be grown, and it can have a big impact on group success. This ranges from things as simple as showing up on time, to following instructions, to being willing to try a new style of thinking or communicating. Sometimes people have a good experience and they don’t quite know why - pointing out that facilitation is the reason for the smoothness or depth can help them understand what it is they valued about the process.
+On the positive side, skillful receptivity to facilitation is a capacity that can be grown, and it can have a big impact on group success. This ranges from things as simple as showing up on time, to following instructions, to being willing to try a new style of thinking or communicating. Sometimes people have a good experience and they don’t quite know why - pointing out that facilitation is the reason for the smoothness or depth can help them understand what it is they valued about the process.
 
 On the negative side, people who can’t or won’t be facilitated can be detrimental to group collaboration. No matter how skilled a facilitator is, if they encounter a certain level of resistance they won’t be able to do their job. Common problems include dominating the discussion, playing devil’s advocate, disrupting the process, disrespecting the facilitator or participants, or being disengaged. At some level individuals must take responsibility for their willingness to be facilitated.
 
