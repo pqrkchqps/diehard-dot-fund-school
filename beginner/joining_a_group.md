@@ -35,6 +35,6 @@ Check the members list on your Loomio group page. Are people missing? Click “i
 Every Loomio group starts off with an Introductions thread. This is a place where you can say hello. Share why you've joined the group, and tell people something about yourself so they can understand you a bit better.
 
 ## This is *your* group
-Discussions and Proposals are invitations to use your voice. It's ok to change your mind. It's ok to be unsure. Your perspective is valued - that's why you've been invited to the group!
+Discussions and Proposals are invitations to use your voice. It's ok to change your mind. It's ok to be unsure. Your perspective is valued — that's why you've been invited to the group!
 
 Loomio is about participation, so find your unique way to contribute to ongoing threads. And when you feel comfortable, think about starting discussions and proposals of your own.

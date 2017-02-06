@@ -17,10 +17,10 @@ To make a group decision, anyone can raise a proposal, which should be open for 
 
 
 We use the following four voting options:
-agree - “I’m happy with this”
-disagree - “I think we can do better, but I will go along with the group if they think it is best”
-abstain - “I’m happy for the group to decide without me”
-block - “I cannot support this decision. This proposal would jeopardise my membership in the group.”
+agree — “I’m happy with this”
+disagree — “I think we can do better, but I will go along with the group if they think it is best”
+abstain — “I’m happy for the group to decide without me”
+block — “I cannot support this decision. This proposal would jeopardise my membership in the group.”
 
 
 A proposal passes if:

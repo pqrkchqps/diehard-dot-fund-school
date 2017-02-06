@@ -1,5 +1,5 @@
 # Facilitating discussions
-TThe definition of *facilitation* is “to make easier; help forward”. There are a lot of things you can do to help your group along - and you don't have to be a pro. In fact, everyone in a Loomio group can take acts of facilitation.
+TThe definition of *facilitation* is “to make easier; help forward”. There are a lot of things you can do to help your group along — and you don't have to be a pro. In fact, everyone in a Loomio group can take acts of facilitation.
 
 ## Maintain a safe environment 😎
 > A [study of more than 180 teams within Google](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/) tells us that the number one factor in team performance is __psychological safety__.

@@ -31,7 +31,7 @@ Key aspects to an invitation:
 
 * The tool has a built-in function to [invite users](https://loomio.gitbooks.io/manual/content/en/inviting_new_members.html) by email or by sending them a special link. Users can also request to join your group if your settings allow.
 * The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
-* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter - such as thoughtful [privacy options](https://loomio.gitbooks.io/manual/content/en/group_settings.html).
+* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](https://loomio.gitbooks.io/manual/content/en/group_settings.html).
 * The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.
 * Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different lanlanguages. Emphasising these aspects in an invitation can make some people feel more welcome.
 
@@ -84,7 +84,7 @@ It’s especially important to think about who is not in room when trying to sol
 
 ### On Loomio
 
-* Collaborating online can allow for whole other levels of inclusion. Instead of thinking about a “digital divide”, think about the “digital bridge” - how technology can include people who cannot attend in-person meetings or participate at a specific time, and enable whole new possibilities like multi-lingual discussions.
+* Collaborating online can allow for whole other levels of inclusion. Instead of thinking about a “digital divide”, think about the “digital bridge” — how technology can include people who cannot attend in-person meetings or participate at a specific time, and enable whole new possibilities like multi-lingual discussions.
 * Loomio makes it very clear who is invited to a group and who has participated in a discussion, giving important information for thinking about inclusion. If people are missing, you can see that.
 * If inclusive decision making and diversity of thinking are important to you, periodically ask yourself, “Who’s not in the room Why?”
 
@@ -113,6 +113,6 @@ Like a legal contract, you hope you never have to enforce a code of conduct, but
 * Some groups already use the group description field to note a code of conduct or expectations for behavior. Others have collectively agreed a set of expectations that govern participation.
 * Many groups use Loomio itself to decide their group protocols, such as how to engage, what is allowed, what a decision means and what makes it valid, etc.
 * Some core protocol issues are answered simply by using Loomio: Who is allowed here? How do we communicate?
-* One of the most basic decisions Loomio users all encounter is about decision-making protocol - Consensus? Majority? Quorum? Unanimity? Bringing the question of decision-making protocol to the fore can be a very productive step in cultural development.
+* One of the most basic decisions Loomio users all encounter is about decision-making protocol — Consensus? Majority? Quorum? Unanimity? Bringing the question of decision-making protocol to the fore can be a very productive step in cultural development.
 
 > Move on to [Phase 3](underway.md) of the [5 Phases of Faciliation in Loomio](index.md).

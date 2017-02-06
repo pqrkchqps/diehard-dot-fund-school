@@ -18,7 +18,7 @@ You're reading Phase 1 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Understand Purpose
 
-Clarification of purpose is one of the highest value offerings of a skilled facilitator - if they can help the group nail that, everything else is possible. Purpose operates at the level of a group as a whole, and at the level of individual discussions/decisions. Purpose is what enables judgment calls about what tools to deploy, what interventions to enact, and what outcomes to aim for. Lack of shared understanding about purpose can be fatal to a discussion, or to the group itself.
+Clarification of purpose is one of the highest value offerings of a skilled facilitator — if they can help the group nail that, everything else is possible. Purpose operates at the level of a group as a whole, and at the level of individual discussions/decisions. Purpose is what enables judgment calls about what tools to deploy, what interventions to enact, and what outcomes to aim for. Lack of shared understanding about purpose can be fatal to a discussion, or to the group itself.
 
 > Always refer back to your purpose-finding questions to check that you’re covering off what the participants want to learn or achieve. — Silvia Zuur
 
@@ -38,7 +38,7 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 
 ### On Loomio
 
-* Inviting people into a new digital space specifically for decision-making is powerful - there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
+* Inviting people into a new digital space specifically for decision-making is powerful — there’s a “threshold crossing” experience making it as distinct from other online spaces (which might be for socialising or other functions).
 * [Customising your group photo](https://loomio.gitbooks.io/manual/content/en/coordinating_your_group.html) is a prime opportunity to craft the feeling of the space.
 * The group description is a main piece of “furniture” on the group page, and [you can customise it](http://blog.loomio.org/2016/04/23/organise/) to suit.
 
@@ -50,7 +50,7 @@ When facilitation is running smoothly, all the supplies a group needs are right 
 ### On Loomio
 
 * Many groups use the group description to link out to a shared drive of collaborative documents, background information, the group's project management or task tracking system, a list of contacts, etc.
-* Each thread deserves consideration of what people might need to engage with it - putting all the information right at hand is essential (for example, if you reference something, linking directly to it is much more effective than expecting people to search for it).
+* Each thread deserves consideration of what people might need to engage with it — putting all the information right at hand is essential (for example, if you reference something, linking directly to it is much more effective than expecting people to search for it).
 
 
 ## Design the Experience
@@ -67,9 +67,9 @@ Time and time again we have seen people drastically underestimate the need for p
 
 <a href="collaboration-process.png" alt="Collaboration process diagram"><img src="collaboration-process.png" class="img-center img-50pc"/></a>
 
-* Skilled users are already adapting Loomio for various experience designs - such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
+* Skilled users are already adapting Loomio for various experience designs — such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
 * Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](http://blog.loomio.org/2016/11/09/advice-process/)).
-* [Case studies](http://loomio.school/case_studies.html) of thoughtfully designed processes could be used as “recipes” - if you're ot sure what design to use, start by seeing what others have tried.
+* [Case studies](http://loomio.school/case_studies.html) of thoughtfully designed processes could be used as “recipes” — if you're ot sure what design to use, start by seeing what others have tried.
 
 
 
@@ -100,7 +100,7 @@ Good facilitation requires self-awareness on an individual and collective level.
 > Have the power handed over to you. When you’re invited into a new group or organisation, everybody will be thinking: Who’s this joker? Why should we listen to them? Get somebody who the participants know and trust to introduce you. This builds you up in the participants” minds and helps to hand over the power over to you. — Silvia Zuur
 
 ### Consent
-It’s critical that the group consents to be facilitated. Attempting to facilitate otherwise can be at worst coercive (unfair to the group) and dangerous (unfair to the facilitator) - and will face resistance and confusion. Facilitators put themselves in a vulnerable position; they must have mandate or they should not agree to engage. Consent is critical for both the facilitator and participants.
+It’s critical that the group consents to be facilitated. Attempting to facilitate otherwise can be at worst coercive (unfair to the group) and dangerous (unfair to the facilitator) — and will face resistance and confusion. Facilitators put themselves in a vulnerable position; they must have mandate or they should not agree to engage. Consent is critical for both the facilitator and participants.
 
 ### Responsibility
 Once a facilitator takes up a mandate, they carry enhanced responsibilities. Facilitators have more claim to floor time, and directing the group’s attention. This has to be used in service to the whole, not for a personal agenda. The words and demeanor of the facilitator will also have a disproportionate effect, meaning they have to act with heightened consideration.
@@ -118,7 +118,7 @@ Facilitators do their best work when they can adapt effectively to the emergent 
 
 * Many groups using Loomio are experienced with facilitation and already have a shared understanding of the role. They already adapt the tool to meet these needs with some success.
 * Often the person who starts a discussion is assumed to be facilitating it, barring another agreed understanding in the group. Clarity about who is facilitating can greatly enhance mutual safety and success.
-* Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc - but this often left implicit. Explicitly naming what acts of facilitation are and discussing whether this role is centralised or distributed can clarify the role.
+* Loomio naturally creates a dynamic open to distributed acts of facilitation, such as users tagging in others, requests to stay on topic, suggestions of the right timing for a proposal, etc — but this often left implicit. Explicitly naming what acts of facilitation are and discussing whether this role is centralised or distributed can clarify the role.
 * Implicit distributed facilitation can be the default starting place for an online group (ie, no discussion of facilitation as a named role), but that setup is actually best for advanced groups prgressing past working with explicit facilitation.
 
 

@@ -38,12 +38,12 @@ Effective noticing is a combination of good informational inputs, and sensitivit
 
 ### On Loomio
 
-* Many current features assist with noticing - the biggest one is probably watching how the pie is shaping up in a proposal.
+* Many current features assist with noticing — the biggest one is probably watching how the pie is shaping up in a proposal.
 * The software notices some things: who has and has not yet participated, what topics are being raised, who has and has not accepted their group invitation, etc.
 * On Loomio, a single facilitator can read across dozens of discussions at the same time, see clearly what’s being shared, and act accordingly.
 * Talking online can make the implicit explicit, and therefore easier to notice.
 * Communicating in writing can be very good for naming what’s being noticed and why a certain action is being taken in response. For example, you can quote someone’s exact words and reflect back what’s revealed by them. Or you can do the same thing at the level of a whole discussion, picking out a range of quotes and noticing themes or emerging conflicts.
-* Noticing is much easier when you slow things down, which is one of Loomio’s great advantages - asynchronous communication you can read at any pace. It also makes it possible to notice across time, referring directly to past discussions.
+* Noticing is much easier when you slow things down, which is one of Loomio’s great advantages — asynchronous communication you can read at any pace. It also makes it possible to notice across time, referring directly to past discussions.
 * Because you can have simultaneous discussions, it's possible to have a layer of “meta” discussion (aka “blue hat”, aka discussion about the discussion) at the same time as progressing the main discussions. So you can collectively have a space to practice noticing without slowing down the process.
 
 
@@ -57,7 +57,7 @@ But the best ideas do not always come from the loudest voices, and the role of f
 
 > If you want to innovate, you have to make space for different points of view — luckily, this is also what you need to do if you want a team where everyone is empowered. All kinds of cultural and technical factors conspire to privilege some voices at the expense of others. There are many practices you can implement to systematically challenge that bias, but just being aware of it is a good starting point. — Richard Bartlett
 
-Our lived human experience is to inhabit a singular consciousness, so humans tend to forget that others experience the world differently. Even within a seemingly homogenous group, there is incredible diversity - perspectives, pace, preferences. Internalising this truth - that others are different from myself - is a central personal growth challenge.
+Our lived human experience is to inhabit a singular consciousness, so humans tend to forget that others experience the world differently. Even within a seemingly homogenous group, there is incredible diversity — perspectives, pace, preferences. Internalising this truth — that others are different from myself — is a central personal growth challenge.
 
 There is no such thing as one size fits all. Any mode of interacting enhances some voices and quiets others, or emphasises different tendencies within an individual. So, it’s necessary to employ a range of approaches to invite the best from multiple diverse voices.
 
@@ -69,9 +69,9 @@ One of the best approaches to bringing out and weaving together diverse voices i
 
 Some classic design building blocks to address communication diversity in collaborative communication:
 
-* **Group size** - individual reflection, pairs, small group, large group, one-to-one, one-to-many, many-to-many.
-* **Medium of expression** - writing, drawing, video, singing, dance, flowcharts, equations, symbols, stories, tears, laughter, debate, etc.
-* **Discussion protocols** - rounds (hear from each person once before moving on), rate limiting (you can only speak again after two others have spoken), talking stick (only speak when you have the stick - no interrupting), time-limited contributions (you can talk for 1 minute only), time-unlimited contributions (you can hold the floor indefinitely and everyone will deeply listen), tracking contributions (how much have women vs men spoken, etc), holding periods of silence between speakers (for processing and reflection).
+* **Group size** — individual reflection, pairs, small group, large group, one-to-one, one-to-many, many-to-many.
+* **Medium of expression** — writing, drawing, video, singing, dance, flowcharts, equations, symbols, stories, tears, laughter, debate, etc.
+* **Discussion protocols** — rounds (hear from each person once before moving on), rate limiting (you can only speak again after two others have spoken), talking stick (only speak when you have the stick — no interrupting), time-limited contributions (you can talk for 1 minute only), time-unlimited contributions (you can hold the floor indefinitely and everyone will deeply listen), tracking contributions (how much have women vs men spoken, etc), holding periods of silence between speakers (for processing and reflection).
 * **Embrace silence** *Silence is only awkward if you let it be awkward. Silence is a chance for people to think. — Silvia Zuur*
 
 ### On Loomio
@@ -114,7 +114,7 @@ Some examples of processes that can help mitigate cognitive bias:
 
 ## Balancing Divergent & Convergent
 
-The “diamond” of divergence and convergence is a conversational shape. It expands outward at first - opening up space for ideas, information, and different perspectives - then begins to come to a point. The right timing for this shift is key for effective facilitation of action-oriented, productive, collaborative discussions.
+The “diamond” of divergence and convergence is a conversational shape. It expands outward at first — opening up space for ideas, information, and different perspectives — then begins to come to a point. The right timing for this shift is key for effective facilitation of action-oriented, productive, collaborative discussions.
 
 <a href="collaboration-process.png" alt="Collaboration process diagram"><img src="collaboration-process.png" class="img-center img-50pc"/></a>
 
@@ -130,7 +130,7 @@ Within a group, different individuals will usually tend to prefer one mode or th
 * The core Loomio process does an excellent job of guiding groups to touch on each phase of the process, with the discussion being divergent and proposals being convergent. Awareness of the diamond was a big inspiration for the original design of the Loomio process.
 * Loomio helps groups to use the diamond in dynamic ways, such as when an attempt to converge (a proposal) ends up becoming a deeper level of divergence (disagreement), revealing or clarifying information to support an even better convergence (iterated proposal).
 * Some of Loomio’s basic features go a long way toward supporting each mode, such as notifications to group members when a new discussion is starting (prompting divergent contribution), and deadlines on proposals (prompting participation in convergence).
-* Loomio users are already able to use the existing feature set to facilitate convergence - namely starting a proposal. Good use of proposals is one of the most obvious symptoms of an effective Loomio group, and simply advising users to start more proposals unblocks many groups who are having issues.
+* Loomio users are already able to use the existing feature set to facilitate convergence — namely starting a proposal. Good use of proposals is one of the most obvious symptoms of an effective Loomio group, and simply advising users to start more proposals unblocks many groups who are having issues.
 
 
 ## Working with Scope
@@ -154,10 +154,10 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 
 ### On Loomio
 
-* Topic-based discussion threads are a powerful tool for effective scope - even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question, while other aspects can be addressed simultaneously in other threads.
+* Topic-based discussion threads are a powerful tool for effective scope — even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question, while other aspects can be addressed simultaneously in other threads.
 * We often see users making facilitation interventions like “That’s out of the scope of this topic, but why don’t you start a new discussion about it?”
 * The act of creating a Loomio group helps define who are we and what are we here to discuss. This helps participants manage scope.
-* The sequential proposals design of Loomio is very good for a “series of small yess's” approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
+* The sequential proposals design of Loomio is very good for a “series of small yess's” approach — you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
 * Asynchronous online communication can allow some people to go way out of scope without holding up others. They can simply start a new discussion or subgroup and go as deep and long as they want, while the main scope of the group is maintained.
 * The discussion context box and group description are spaces to define the scope of a conversation or group, respectively.
 
@@ -165,7 +165,7 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 
 A productive conversation has a rhythm. The right beat comes from a complex combination of factors and often feels intuitive, like a musician improvising. When is the moment to go deeper, or pull back? When is it right to bring in new information, or further delve into what’s already on the table? This is pacing.
 
-Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off , people will feel frustrated - either impatient or left behind.
+Different participants will have different needs and preferences — some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off , people will feel frustrated — either impatient or left behind.
 
 ### On Loomio
 
@@ -174,7 +174,7 @@ Different participants will have different needs and preferences - some will nee
 * Proposal deadlines are a pace-setting tool. Topics that need to move quickly use shorter timeframes, and longer ones can have more time. Different decisions can go at different speeds.
 * It’s easy to modulate your own pace of engagement. If a conversation is moving too fast or slowly for you, you can drop your input and step back, and then return later when a proposal is raised.
 * It’s interesting to note how a “fast” decision on Loomio is 1 or 2 days, while a “fast” decision in person is more like 5 minutes. And yet, Loomio does not seem “slow”, the way taking 2 days to reach a decision in person would. Loomio runs decisions in parallel to other ongoing work, and it's much more efficient gathering everyone’s input on Loomio over 2 days versus having to schedule an in-person meeting.
-* Facilitation on Loomio could be likened to “bullet time” (when Neo can stop time and just walk around a bullet in the Matrix) - you can walk through a living conversation frame by frame. It’s like a superpower.
+* Facilitation on Loomio could be likened to “bullet time” (when Neo can stop time and just walk around a bullet in the Matrix) — you can walk through a living conversation frame by frame. It’s like a superpower.
 
 <a href="bulletime.jpg" alt="Neo Matrix Bullet Time"><img src="bulletime.jpg" class="img-center img-50pc"/></a>
 
@@ -189,10 +189,10 @@ Another important way facilitators work with attention is to insist on the group
 
 Structured processes and information sorting exercises are important facilitation tools in this area. Some examples:
 
-* **Time-boxing** - specifying a period of brainstorming, or conversation on a given topic.
-* **Agenda prioritisation** - listing everything people want to talk about and then picking to top items to focus on, before jumping into content.
-* **Post-it cloud** - generating a bunch of ideas or questions and grouping them thematically and then condensing them into topics.
-* **Parking lot** - a space to stick ideas or questions that come up that are not immediately relevant, to be addressed later.
+* **Time-boxing** — specifying a period of brainstorming, or conversation on a given topic.
+* **Agenda prioritisation** — listing everything people want to talk about and then picking to top items to focus on, before jumping into content.
+* **Post-it cloud** — generating a bunch of ideas or questions and grouping them thematically and then condensing them into topics.
+* **Parking lot** — a space to stick ideas or questions that come up that are not immediately relevant, to be addressed later.
 * **What does success look like??** Defining success criteria and keeping the group focused on it until those criteria are achieved.
 
 ### On Loomio
@@ -201,7 +201,7 @@ Structured processes and information sorting exercises are important facilitatio
 * Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered “salient” activity that generates notifications (for example, comments, votes, and outcomes are, while a “like” on a comment is not), developed based on user feedback.
 * Users can exercise a lot of customised control over their Loomio attention economy through notification settings. Helping users set these preferences is an important tool to wisely using the attention economy of the group.
 * Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
-* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s “feet to the fire” to fully process a proposal before moving on.
+* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention — holding a group’s “feet to the fire” to fully process a proposal before moving on.
 
 > Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)
 
@@ -222,7 +222,7 @@ Almost all interventions in face-to-face facilitation can be reimagined and empl
 ### On Loomio
 
 * Intervention tools in Loomio include comments, @mentions, adding/removing users, and starting/deleting discussions. These can be employed for various forms of supportive and assertive interventions.
-* The most commonly used intervention is the comment - simply talking to the group and inviting or trying to reduce certain behavior.
+* The most commonly used intervention is the comment — simply talking to the group and inviting or trying to reduce certain behavior.
 * [Participation permissions](https://help.loomio.org/en/group_settings.html) offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals.
 * Loomio offers some trust-based features that other tools lack, such as the default ability for all participants to edit discussion contexts (even if it was posted originally by another user). These are inspired by things like Wikipedia and open source software development.
 

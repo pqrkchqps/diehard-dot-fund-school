@@ -23,7 +23,7 @@ Have a [video of a screncast](https://youtu.be/Zuk6M36FhU0) with the use of the 
 Set up a Loomio Workshop group to use as an example and invite people to join in through the workshop, that way they can test the features, ask questions and leave comentary. Is a good place to share follow up resources.
 
 
-## **Part 1 - Introduction to Loomio**
+## **Part 1 — Introduction to Loomio**
 
 *  Introducing each other (15')
 
@@ -71,7 +71,7 @@ Set up a Loomio Workshop group to use as an example and invite people to join in
 #### -- Brake (15')
 
 
-## **Part 2 - Art of Facilitation (50')**
+## **Part 2 — Art of Facilitation (50')**
 
 Designed for people who are trying to activate and engage their groups. The intention here is that all users feel confident trying one or two new things in their existing loomio groups.
 
@@ -93,12 +93,12 @@ How confident are you at hosting and facilitating groups?
     * Asynchronous, days or weeks-long discussion
 
 
-### Section 1 - Onboarding
+### Section 1 — Onboarding
 *show examples in the “Workshop” group on Loomio*
 
 **Internally**
 
-* Exercise: What is the purpose of your group - put this in your Context box
+* Exercise: What is the purpose of your group — put this in your Context box
 
 * Identify your key users and key champions
 
@@ -110,16 +110,16 @@ How confident are you at hosting and facilitating groups?
 
     * Invitation to do things first
 
-* Setting up the Loomio space - context, starting threads, introductions
+* Setting up the Loomio space — context, starting threads, introductions
 
-* Developing a terms of reference - some groups do this
+* Developing a terms of reference — some groups do this
 
 
-**Bringing people in - A cup of tea on arrival**
+**Bringing people in — A cup of tea on arrival**
 
-* Internal team - Host a conversation (in person, email, video chat, - wherever the group communicates) to talk through the reasons for switching and to hear people’s concerns. Make sure your key decision-makers are on board. Gain group agreement and buy-in.
+* Internal team — Host a conversation (in person, email, video chat, — wherever the group communicates) to talk through the reasons for switching and to hear people’s concerns. Make sure your key decision-makers are on board. Gain group agreement and buy-in.
 
-* Advisory group - Host a training for your users
+* Advisory group — Host a training for your users
 
     * *similar to what we have done here*
 
@@ -127,7 +127,7 @@ How confident are you at hosting and facilitating groups?
 
 
 
-### Section 2 - Engaging
+### Section 2 — Engaging
 
 This is acts of facilitation
 
@@ -143,22 +143,22 @@ Some interventions:
 
 * If you have redundant channels causing confusion (for example, both Loomio and an email mailing list), shut one of them down, or at least clarify which channels to use when. Having no more channels than you absolutely need will reduce redundancy and noise, and help you get critical mass for engagement.
 
-**Be a champion** to keep Loomio active - post discussions and proposals and encourage users to participate, after a while the group becomes used to it.
+**Be a champion** to keep Loomio active — post discussions and proposals and encourage users to participate, after a while the group becomes used to it.
 
 **Keep the discussion together**: Hey, would you mind re-posting that in Loomio? Can’t have parallel systems going on. If you want to use Loomio, you have to shut down big “reply all” emails.
 
-**Working out loud **- Take notes in meetings and post them on Loomio to share with people who weren’t there. Put followup actions on Loomio after meetings with @mentions - make Loomio your place for documenting what happened so you can refer to it later, and it becomes a useful resource.
+**Working out loud **- Take notes in meetings and post them on Loomio to share with people who weren’t there. Put followup actions on Loomio after meetings with @mentions — make Loomio your place for documenting what happened so you can refer to it later, and it becomes a useful resource.
 
 **Stay on topic**: Notice when people are going off topic and, if necessary, create separate discussion threads for topics that diverge from the core discussion. Don’t be afraid to “@mention” people to keep the conversation on track.
 
 **Notice** when the same voices are dominating the discussion and invite some of the quieter people to contribute by @mentioning them and asking them what they think. In exceptional cases you may want to ask someone to wait before commenting again.
 
-**In ongoing conflict** - Pick up the phone or meet in person. Sometimes people need to talk to each other, privately, to resolve issues.
+**In ongoing conflict** — Pick up the phone or meet in person. Sometimes people need to talk to each other, privately, to resolve issues.
 
-**Job to do** - Develop a workflow that works for you.
+**Job to do** — Develop a workflow that works for you.
 
 
-### Section 3 - Using Proposals
+### Section 3 — Using Proposals
 
 *Pre-set 3-4 simple proposal examples taken from “9 ways to use a proposal” article.*
 
@@ -169,7 +169,7 @@ Take questions here and work backwards from the bottom to ensure that everyone g
 This is about identifying the general use case, and working with the group to get an a-ha moment that this is in fact a familiar challenge with a solution.
 
 
-## Part 3 - Moving forward (10')
+## Part 3 — Moving forward (10')
 
 This is the place to pitch other workshops and services:
 
