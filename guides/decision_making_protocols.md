@@ -31,7 +31,7 @@ at least 75% of participants have said ‘Yes’
 
 
 *Reasonable: If a member votes no, they must give a reason for it and it must be discussed at the next meeting or resolved beforehand.
- 
+
 4.3 If a proposal is not passed, a new proposal should be created to address the concerns raised.
 
 
@@ -41,7 +41,7 @@ at least 75% of participants have said ‘Yes’
 4.5 Some decisions require 100% agreement and 100% participation, e.g. purchasing land, approving documents such as this one.
 
 
-4.6 A member absent from a meeting is expected to read the meeting minutes and may request to revisit an agenda item at the next meeting. Members not present at a meeting are still expected to participate in the online decision-making process via Loomio. 
+4.6 A member absent from a meeting is expected to read the meeting minutes and may request to revisit an agenda item at the next meeting. Members not present at a meeting are still expected to participate in the online decision-making process via Loomio.
 
 
 4.7 Past decisions can only be reopened at a meeting, by the agreement of 50% of members.

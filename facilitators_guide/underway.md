@@ -17,7 +17,7 @@ You're reading Phase 3 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Where are we on the Map?
 
-People feel more confident and better held if they can orient themselves on a timeline or agenda. They want to know what they’re doing now, what’s coming up, and to be reminded of what they’ve already done. Understanding the overall shape of the process helps people understand how to contribute effectively. 
+People feel more confident and better held if they can orient themselves on a timeline or agenda. They want to know what they’re doing now, what’s coming up, and to be reminded of what they’ve already done. Understanding the overall shape of the process helps people understand how to contribute effectively.
 
 For example if they can see there’s a Q&A section later, they'll be more willing to hold their questions during a presentation. If it’s clear that there’s a divergent phase and then a convergent phase, people will hold back from jumping to solutions too soon. People need to know what kind of input they are being asked for when.
 
@@ -38,9 +38,9 @@ Effective noticing is a combination of good informational inputs, and sensitivit
 
 ### On Loomio
 
-* Many current features assist with noticing - the biggest one is probably watching how the pie is shaping up in a proposal. 
+* Many current features assist with noticing - the biggest one is probably watching how the pie is shaping up in a proposal.
 * The software notices some things: who has and has not yet participated, what topics are being raised, who has and has not accepted their group invitation, etc.
-* On Loomio, a single facilitator can read across dozens of discussions at the same time, see clearly what’s being shared, and act accordingly. 
+* On Loomio, a single facilitator can read across dozens of discussions at the same time, see clearly what’s being shared, and act accordingly.
 * Talking online can make the implicit explicit, and therefore easier to notice.
 * Communicating in writing can be very good for naming what’s being noticed and why a certain action is being taken in response. For example, you can quote someone’s exact words and reflect back what’s revealed by them. Or you can do the same thing at the level of a whole discussion, picking out a range of quotes and noticing themes or emerging conflicts.
 * Noticing is much easier when you slow things down, which is one of Loomio’s great advantages - asynchronous communication you can read at any pace. It also makes it possible to notice across time, referring directly to past discussions.
@@ -49,7 +49,7 @@ Effective noticing is a combination of good informational inputs, and sensitivit
 
 ## Hearing Diverse Voices
 
-In our society, multiple layers of history, power dynamics, culture, and psychology conspire to amplify certain voices and suppress others. This plays out at every level of experience, from our innermost subconscious beliefs to our political system and laws. 
+In our society, multiple layers of history, power dynamics, culture, and psychology conspire to amplify certain voices and suppress others. This plays out at every level of experience, from our innermost subconscious beliefs to our political system and laws.
 
 But the best ideas do not always come from the loudest voices, and the role of facilitation is to counteract these biases. It’s important to be aware of the dynamics we are collectively grappling with if our goals are social justice, group effectiveness, and high quality decision-making.
 
@@ -135,11 +135,11 @@ Within a group, different individuals will usually tend to prefer one mode or th
 
 ## Working with Scope
 
-Successful collaboration often depends on biting off the right size pieces in the right order. 
+Successful collaboration often depends on biting off the right size pieces in the right order.
 
-You can apply a ‘project management’ mindset to facilitation, designing for questions like: 
+You can apply a ‘project management’ mindset to facilitation, designing for questions like:
 
-* * What are the dependencies (what’s the critical path, which things need to be done first to enable other things)? 
+* * What are the dependencies (what’s the critical path, which things need to be done first to enable other things)?
 * What’s the most important bits to focus on? What can be left out?
 * What is an achievable scope to tackle at a given time to get to a useful place with the time, energy, and information available?
 
@@ -149,7 +149,7 @@ In a collaboration, no one knows exactly what will emerge, so scope must evolve 
 
 > If you plan a session with multiple, interlinked parts – each one building on the other, and all leading to a life-changing, mind-exploding conclusion – and you can pull it off, then that’s amazing. But more often than not, a complicated session will go over-time and may not hit the participant’s wants and needs. -- Silvia Zuur
 
-#### A series of small yes's 
+#### A series of small yes's
 Lumping too many conversations together simply creates confusion. Frustrated groups are often helped by breaking things down. If an issue seems hopeless complex or conflicted, it can be possible to separate out individual questions and reach consensus on them, starting with the easiest things to agree. Then when it comes to points of disagreement, you can pare it down to only the crux of the issues and work on them in a focused way.
 
 ### On Loomio
@@ -169,7 +169,7 @@ Different participants will have different needs and preferences - some will nee
 
 ### On Loomio
 
-* Because it’s asynchronous, people can read and respond at their own pace on Loomio, allowing a natural pace to emerge. 
+* Because it’s asynchronous, people can read and respond at their own pace on Loomio, allowing a natural pace to emerge.
 * It’s possible to scroll right past people moving slowly and push for forward momentum, and simultaneously possible to continue digging into something slowly while others press forward. This is not possible in synchronous communication.
 * Proposal deadlines are a pace-setting tool. Topics that need to move quickly use shorter timeframes, and longer ones can have more time. Different decisions can go at different speeds.
 * It’s easy to modulate your own pace of engagement. If a conversation is moving too fast or slowly for you, you can drop your input and step back, and then return later when a proposal is raised.
@@ -201,14 +201,14 @@ Structured processes and information sorting exercises are important facilitatio
 * Activity in Loomio is the currency of its attention economy, and everything that generates a notification spends that currency. The software has opinions about what should be considered “salient” activity that generates notifications (for example, comments, votes, and outcomes are, while a ‘like’ on a comment is not), developed based on user feedback.
 * Users can exercise a lot of customised control over their Loomio attention economy through notification settings. Helping users set these preferences is an important tool to wisely using the attention economy of the group.
 * Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
-* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ to fully process a proposal before moving on. 
+* The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ to fully process a proposal before moving on.
 
 > Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)
 
 
 ## Facilitation Interventions
 
-There are as many facilitation techniques as there are facilitators in the world, and entire libraries of books have been written on the topic. It’s not possible to provide a comprehensive list of interventions. 
+There are as many facilitation techniques as there are facilitators in the world, and entire libraries of books have been written on the topic. It’s not possible to provide a comprehensive list of interventions.
 
 However, it might be useful to consider two categories of interventions:
 
@@ -221,7 +221,7 @@ Almost all interventions in face-to-face facilitation can be reimagined and empl
 
 ### On Loomio
 
-* Intervention tools in Loomio include comments, @mentions, adding/removing users, and starting/deleting discussions. These can be employed for various forms of supportive and assertive interventions. 
+* Intervention tools in Loomio include comments, @mentions, adding/removing users, and starting/deleting discussions. These can be employed for various forms of supportive and assertive interventions.
 * The most commonly used intervention is the comment - simply talking to the group and inviting or trying to reduce certain behavior.
 * [Participation permissions](https://help.loomio.org/en/group_settings.html) offer relatively blunt but effective tools to moderate users, such as allowing or disallowing posting discussions or proposals.
 * Loomio offers some trust-based features that other tools lack, such as the default ability for all participants to edit discussion contexts (even if it was posted originally by another user). These are inspired by things like Wikipedia and open source software development.

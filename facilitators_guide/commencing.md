@@ -91,9 +91,9 @@ It’s especially important to think about who is not in room when trying to sol
 
 ## Culture, Protocol, Expectations
 
-Culture can be quite a nebulous concept, and operates at multiple levels. The culture of the wider society has a big influence, but you can think of every group, and every session or discussion, as having a culture of its own. 
+Culture can be quite a nebulous concept, and operates at multiple levels. The culture of the wider society has a big influence, but you can think of every group, and every session or discussion, as having a culture of its own.
 
-How do we roll? How do we talk to one another? What is and is not ok here? What are the rules of the game, of how we interact? 
+How do we roll? How do we talk to one another? What is and is not ok here? What are the rules of the game, of how we interact?
 
 The process of confronting cultural questions can be a powerful moment of self-awareness for a group. Not confronting them can harm the ability to meet  goals, or sometimes tear apart a group completely.
 

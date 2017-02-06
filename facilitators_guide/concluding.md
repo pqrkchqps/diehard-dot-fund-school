@@ -12,13 +12,13 @@ You're reading Phase 4 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Outcomes & Next Steps
 
-Confirming the outcome can be critical to feel like the goals of a collaborative discussion have been achieved. A facilitator can pull together what’s been decided and reflect it back, to help the group walk away with the answers to some key questions: 
+Confirming the outcome can be critical to feel like the goals of a collaborative discussion have been achieved. A facilitator can pull together what’s been decided and reflect it back, to help the group walk away with the answers to some key questions:
 
-* What did we do? 
-* What does it mean? 
-* What will happen now? 
-* What is my responsibility? 
-* What will be different because we went through this experience? 
+* What did we do?
+* What does it mean?
+* What will happen now?
+* What is my responsibility?
+* What will be different because we went through this experience?
 
 Sometimes the answers to these questions are very concrete, such as action points, while other times they are more abstract, such as deepening shared understanding.
 

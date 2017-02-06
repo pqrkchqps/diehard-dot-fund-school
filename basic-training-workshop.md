@@ -3,38 +3,38 @@
 
 **Background**
 
-We have run 3 workshops recently, with a good level of interest and success. 
+We have run 3 workshops recently, with a good level of interest and success.
 
-Attendees are a mix of people with some Loomio experience and those who have not previously used the software. 
+Attendees are a mix of people with some Loomio experience and those who have not previously used the software.
 
 
 **Intent**
 
-These workshops are designed to encourage people to start groups, feel comfortable with Loomio functionalities, and get some simple facilitation tips to help then activate and engage their team members. 
+These workshops are designed to encourage people to start groups, feel comfortable with Loomio functionalities, and get some simple facilitation tips to help then activate and engage their team members.
 
 We can introduce availability of further information online, and connect with Loomio Associate(s) to assist them with further training, consultation, facilitation support and coaching services.
 
 **Suggested structure**
 
-Separate in 2 parts, Features (basic level) and Facilitation (intermidiate level). 
+Separate in 2 parts, Features (basic level) and Facilitation (intermidiate level).
 
 Have a [video of a screncast](https://youtu.be/Zuk6M36FhU0) with the use of the functionalities set up to show on the date. The presenter can explain the steps live and pauses the video to reply to questions.
 
-Set up a Loomio Workshop group to use as an example and invite people to join in through the workshop, that way they can test the features, ask questions and leave comentary. Is a good place to share follow up resources. 
+Set up a Loomio Workshop group to use as an example and invite people to join in through the workshop, that way they can test the features, ask questions and leave comentary. Is a good place to share follow up resources.
 
 
 ## **Part 1 - Introduction to Loomio**
 
 *  Introducing each other (15')
 
-### Introduction to Loomio (30') 
+### Introduction to Loomio (30')
 *Show functionalities through a preset screncast video*
 
 * **Start a group**
 
     - Title and **description**: context about the group’s purpose and useful information for group members. You can add links to important threads or external documents. Let people know who are the coordinators and how they can contact them
 
-    - Group **privacy and permissions**: Who can find the group. What members are allowed to do. 
+    - Group **privacy and permissions**: Who can find the group. What members are allowed to do.
 
     - Upload a **logo and cover photo**
 
@@ -65,7 +65,7 @@ Set up a Loomio Workshop group to use as an example and invite people to join in
 
     - **Notification settings*** (sidebar): *Choose the level of information you want to get by email. (Leave mentions enabled unless you have the habit of checking Loomio)
 
-    - Help + Contact 
+    - Help + Contact
 
 
 #### -- Brake (15')
@@ -93,7 +93,7 @@ How confident are you at hosting and facilitating groups?
     * Asynchronous, days or weeks-long discussion
 
 
-### Section 1 - Onboarding 
+### Section 1 - Onboarding
 *show examples in the 'Workshop' group on Loomio*
 
 **Internally**
@@ -115,17 +115,17 @@ How confident are you at hosting and facilitating groups?
 * Developing a terms of reference - some groups do this
 
 
-**Bringing people in - A cup of tea on arrival** 
+**Bringing people in - A cup of tea on arrival**
 
 * Internal team - Host a conversation (in person, email, video chat, - wherever the group communicates) to talk through the reasons for switching and to hear people’s concerns. Make sure your key decision-makers are on board. Gain group agreement and buy-in.
 
 * Advisory group - Host a training for your users
 
-    * *similar to what we have done here* 
+    * *similar to what we have done here*
 
-    * invite a Loomio consultant either to deliver that or to work with you to deliver that. 
+    * invite a Loomio consultant either to deliver that or to work with you to deliver that.
 
-       
+
 
 ### Section 2 - Engaging
 
@@ -136,7 +136,7 @@ Some interventions:
 * What is it to be a Loomio Champion?
 
 * Keep the discussion flowing
-   
+
     * Divergent-convergent (double diamond)
 
     * If people revert to old habits, intervene and remind them that the group agreed to make a switch and the reasons why. For example, “We should move this conversation off email and onto Loomio because discussing it here won’t lead to a clear outcome,” or “Let’s continue this discussion on Loomio so we can include the people who aren’t able to be here at the meeting.”
@@ -173,7 +173,7 @@ This is about identifying the general use case, and working with the group to ge
 
 This is the place to pitch other workshops and services:
 
-*'We know it can be tough for facilitators to engage their team. 
+*'We know it can be tough for facilitators to engage their team.
 Would you be interested in a facilitation support service?'*
 
 * There are [other services](https://docs.google.com/document/d/1pwyp0yCfqv3y0TSvSW3wSxTJ79MA4IkoD3C-b2twk78/edit?usp=sharing) we can offer through our Loomio Associates Network:

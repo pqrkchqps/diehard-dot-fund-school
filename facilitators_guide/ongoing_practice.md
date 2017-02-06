@@ -26,12 +26,12 @@ There are many approaches to continuous improvement, but they all create space f
 
 As a group becomes more experienced, more individuals build capacity for facilitation. Facilitation can cease to be a role held by a specific person, and become more of a function that can be distributed. Anyone can take acts of facilitation, and a dance of give and take, leading and following, can emerge among participants. For groups with aspirations toward shared leadership and non-hierarchy, this is a very important thing to encourage.
 
-People who are less used to taking acts of facilitation can be supported with education, invitations, and suggestions of first steps. Some examples of acts of facilitation almost anyone can be encouraged to try: 
+People who are less used to taking acts of facilitation can be supported with education, invitations, and suggestions of first steps. Some examples of acts of facilitation almost anyone can be encouraged to try:
 
 * reflecting back what you’re hearing or summarising
-* inviting others to contribute 
-* asking questions to enhance collective understanding 
-* noticing who is and is not participating 
+* inviting others to contribute
+* asking questions to enhance collective understanding
+* noticing who is and is not participating
 * appreciating contributions explicitly
 
 <img src="img/silvia_200.png" class="img-right img-100px"/>
@@ -48,7 +48,7 @@ Consciously decide when peer facilitation is a good choice, and when a specific 
 
 ### Translating this into Loomio
 
-* The online space is uniquely suited to distributed facilitation. Different people can come along at different points depending on what they notice and their skill set. 
+* The online space is uniquely suited to distributed facilitation. Different people can come along at different points depending on what they notice and their skill set.
 * An online discussion is by default a distributed collaboration among peers. Any other setup requires explicit design. This is the opposite of offline spaces where the default is that someone called a meeting and distributing the role requires proactivity.
 * Loomio is designed with a group of equals in mind. In many ways, a distributed facilitation approach is the best fit for the tool.
 * Current Loomio users do peer facilitation all the time, whether they realise that’s what they are doing or not. Simple things like suggesting someone raise a proposal, tagging people, summarising the process so far, etc, are all acts of facilitation.
@@ -71,9 +71,9 @@ On the negative side, people who can’t or won’t be facilitated can be detrim
 
 ## Culture Change
 
-A collaborative, participatory culture is something that emerges over time, with lots of practice and trial and error. Understanding, valuing, and inviting facilitation can play a pivotal role in this cultural emergence. Facilitation can evolve from a role, to a function, to a mindset. A truly collaborative culture is one where everyone is facilitating everyone in myriad different ways. 
+A collaborative, participatory culture is something that emerges over time, with lots of practice and trial and error. Understanding, valuing, and inviting facilitation can play a pivotal role in this cultural emergence. Facilitation can evolve from a role, to a function, to a mindset. A truly collaborative culture is one where everyone is facilitating everyone in myriad different ways.
 
-Is the company party participatory? Does the office potluck just happen like magic? Are ideas able to emerge from anywhere, evolve through many brains and hands, and get implemented in a way better than anyone first imagined? 
+Is the company party participatory? Does the office potluck just happen like magic? Are ideas able to emerge from anywhere, evolve through many brains and hands, and get implemented in a way better than anyone first imagined?
 
 Deep culture change is when the culture of collaboration starts to leak out of specific “collaboration” spaces and shows up in every aspect of the organisation. Collaboration is not about post-it notes and check-ins, but the very timbre of organisational life.
 

@@ -45,7 +45,7 @@ In offline spaces, literally rearranging the furniture is a habit that helps fac
 
 ## Supplies, Tools, Materials
 
-When facilitation is running smoothly, all the supplies a group needs are right at hand. In offline spaces, this stuff like post-its, pens, paper, name tags, printouts, and background material. Every step a facilitator takes to be well-prepared in this way allows more time and energy for the work. 
+When facilitation is running smoothly, all the supplies a group needs are right at hand. In offline spaces, this stuff like post-its, pens, paper, name tags, printouts, and background material. Every step a facilitator takes to be well-prepared in this way allows more time and energy for the work.
 
 ### On Loomio
 
@@ -67,7 +67,7 @@ Time and time again we have seen people drastically underestimate the need for p
 
 <a href="collaboration-process.png" alt="Collaboration process diagram"><img src="collaboration-process.png" class="img-center img-50pc"/></a>
 
-* Skilled users are already adapting Loomio for various experience designs - such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape. 
+* Skilled users are already adapting Loomio for various experience designs - such as a multi-step consultation processes, signing off documents, etc. Each job, when facilitated effectively, takes a certain repeatable shape.
 * Online collaboration design doesn't have to reinvent the wheel. Trust what you know works, and translate it. Many tried and tested offline processes can be adapted to the online space (ex: the [Advice Process](http://blog.loomio.org/2016/11/09/advice-process/)).
 * [Case studies](http://loomio.school/case_studies.html) of thoughtfully designed processes could be used as ‘recipes’ - if you're ot sure what design to use, start by seeing what others have tried.
 
@@ -79,10 +79,10 @@ Discussions do not occur in a vacuum, but in the larger context of the group’s
 
 Key Context Questions:
 
-* Is this a moment of transition? 
-* Is this an enhancement of existing practice? 
-* Is this one of many concurrent processes, or a singular focus? 
-* Are we here to solve a problem, or go deeper, wider, narrower? 
+* Is this a moment of transition?
+* Is this an enhancement of existing practice?
+* Is this one of many concurrent processes, or a singular focus?
+* Are we here to solve a problem, or go deeper, wider, narrower?
 
 ### On Loomio
 
@@ -97,7 +97,7 @@ Key Context Questions:
 
 Good facilitation requires self-awareness on an individual and collective level. Lack of understanding of the role can lead to misunderstandings, conflict, or unsafe situations.
 
-> Have the power handed over to you. When you’re invited into a new group or organisation, everybody will be thinking: Who’s this joker? Why should we listen to them? Get somebody who the participants know and trust to introduce you. This builds you up in the participants’ minds and helps to hand over the power over to you. — Silvia Zuur
+> Have the power handed over to you. When you’re invited into a new group or organisation, everybody will be thinking: Who’s this joker? Why should we listen to them? Get somebody who the participants know and trust to introduce you. This builds you up in the participants” minds and helps to hand over the power over to you. — Silvia Zuur
 
 ### Consent
 It’s critical that the group consents to be facilitated. Attempting to facilitate otherwise can be at worst coercive (unfair to the group) and dangerous (unfair to the facilitator) - and will face resistance and confusion. Facilitators put themselves in a vulnerable position; they must have mandate or they should not agree to engage. Consent is critical for both the facilitator and participants.
