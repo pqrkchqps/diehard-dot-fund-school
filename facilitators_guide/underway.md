@@ -157,7 +157,7 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 * Topic-based discussion threads are a powerful tool for effective scope - even more than face-to-face conversation, Loomio discussions can be usefully delineated to encourage focus on a specific question, while other aspects can be addressed simultaneously in other threads.
 * We often see users making facilitation interventions like "That’s out of the scope of this topic, but why don’t you start a new discussion about it?"
 * The act of creating a Loomio group helps define who are we and what are we here to discuss. This helps participants manage scope. 
-* The sequential proposals design of Loomio is very good for a "series of small yess's" approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
+* The sequential proposals design of Loomio is very good for a "series of small yes's" approach - you can build small agreements while maintaining context in a single discussion thread, and build on the history of previous proposals.
 * Asynchronous online communication can allow some people to go way out of scope without holding up others. They can simply start a new discussion or subgroup and go as deep and long as they want, while the main scope of the group is maintained.
 * The discussion context box and group description are spaces to define the scope of a conversation or group, respectively.
 
@@ -165,7 +165,7 @@ Lumping too many conversations together simply creates confusion. Frustrated gro
 
 A productive conversation has a rhythm. The right beat comes from a complex combination of factors and often feels intuitive, like a musician improvising. When is the moment to go deeper, or pull back? When is it right to bring in new information, or further delve into what’s already on the table? This is pacing.
 
-Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off , people will feel frustrated - either impatient or left behind.
+Different participants will have different needs and preferences - some will need reigning in, while others need pulling along. The right pace emerges when a creative tension between digging deeper and moving forward is found. When it’s off, people will feel frustrated - either impatient or left behind.
 
 ### On Loomio
 
@@ -203,7 +203,7 @@ Structured processes and information sorting exercises are important facilitatio
 * Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
 * The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention - holding a group’s ‘feet to the fire’ to fully process a proposal before moving on. 
 
-> Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)
+> Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)**
 
 
 ## Facilitation Interventions

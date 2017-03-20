@@ -33,7 +33,7 @@ Sometimes the answers to these questions are very concrete, such as action point
 
 To understand the meaning of an experience, you have to inquire into how it fits into the bigger context. What was this moment, in the bigger rhythm of our progress? What form will our understanding from this experience take - a story, a report, a change, a call to action?
 
-The experience happens in the moment, but its impact often comes from putting handles on it, giving it a name, and being able to use it and refer to it. Otherwise you risk forgetting, leaving people out who weren't there, or having to repeat it later. Productive collaboration is ofetn helped by tangible documentation or reporting.
+The experience happens in the moment, but its impact often comes from putting handles on it, giving it a name, and being able to use it and refer to it. Otherwise you risk forgetting, leaving people out who weren't there, or having to repeat it later. Productive collaboration is often helped by tangible documentation or reporting.
 
 ### On Loomio
 
