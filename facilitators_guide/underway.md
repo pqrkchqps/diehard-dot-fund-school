@@ -203,7 +203,7 @@ Structured processes and information sorting exercises are important facilitatio
 * Subgroups can be a powerful tool to help people moderate their attention economy. If only some people need to pay attention, you can split it out.
 * The intentional but somewhat unpopular design decision to disallow concurrent proposals in Loomio is about the flow of attention — holding a group’s “feet to the fire” to fully process a proposal before moving on.
 
-> Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)
+> Many designers of information systems incorrectly represented their design problem as information scarcity rather than attention scarcity, and as a result they built systems that excelled at providing more and more information to people, when what was really needed were systems that excelled at filtering out unimportant or irrelevant information. — **[Wikipedia](https://en.wikipedia.org/wiki/Attention_economy)**
 
 
 ## Facilitation Interventions

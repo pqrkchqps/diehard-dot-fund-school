@@ -12,7 +12,7 @@ You're reading Phase 5 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Continuous Improvement
 
-No matter how amazing a group or facilitator is, they can always improve. If they incrementally head in a good direction they will get to a better place. Incremental improvement requires a an effective protocol for meta-conversation (talking about how you collaborate). With it, anything is possible. Without it, you stagnate.
+No matter how amazing a group or facilitator is, they can always improve. If they incrementally head in a good direction they will get to a better place. Incremental improvement requires an effective protocol for meta-conversation (talking about how you collaborate). With it, anything is possible. Without it, you stagnate.
 
 There are many approaches to continuous improvement, but they all create space for reflection and feedback, and a way to make changes in response. For teams that work together on an ongoing basis, they might employ a methodology like <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" target="_blank">scrum</a>, including retrospectives and regular process improvements. For a one-off session, a facilitator might simply follow up with a request for feedback.
 

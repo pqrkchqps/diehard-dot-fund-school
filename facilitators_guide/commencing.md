@@ -33,7 +33,7 @@ Key aspects to an invitation:
 * The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
 * Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](https://loomio.gitbooks.io/manual/content/en/group_settings.html).
 * The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.
-* Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different lanlanguages. Emphasising these aspects in an invitation can make some people feel more welcome.
+* Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different languages. Emphasising these aspects in an invitation can make some people feel more welcome.
 
 
 ## Arrival
