@@ -44,15 +44,15 @@ If you're forming a new organisation, community, or network, there will invariab
 
 <img src="https://i.imgur.com/gMgY7kv.png" width="150px" style="float: left">
 
-Collaboration is confrontational. 
+Collaboration is confrontational.
 
 It requires you to confront yourself. Some people need to learn how to take up less space in a group. Others need to learn how to take up more. Either way, this is deep therapy.
 
-The most effective method I've seen for doing this therapy is by sitting in circles. 
+The most effective method I've seen for doing this therapy is by sitting in circles.
 
-Every six months, we go away for a weekend retreat together, which combines work with relaxation, ritual with fun, and freedom with form. 
+Every six months, we go away for a weekend retreat together, which combines work with relaxation, ritual with fun, and freedom with form.
 
-At a retreat the circle can become magical, challenging, nurturing, healing, bonding. 
+At a retreat the circle can become magical, challenging, nurturing, healing, bonding.
 
 Retreats are a luxury though, we can't be in those circles all the time. We create miniature magical circles in the office with little every day practices, like asking everyone, *how are you feeling today?* and genuinely listening to the answer.
 
@@ -67,7 +67,7 @@ When you're building a decentralised organisation, all the cool technology, all 
 
 <img src="https://i.imgur.com/gLtJKeC.png" width="150px" style="float: left">
 
-If you're going to ditch the hierarchy, you need to install a bunch of alternative structures in its place. 
+If you're going to ditch the hierarchy, you need to install a bunch of alternative structures in its place.
 
 If you just remove the hierarchy without providing an alternative, you'll wind up ruled by [the tyranny of structurelessness](http://www.jofreeman.com/joreen/tyranny.htm).
 
@@ -107,13 +107,13 @@ At Loomio, we organise by consent: we have rejected force as an organising tool.
 
 That means our **principles and policies are co-designed** with the people that are affected by them.
 
-Here's a real-life example: 
+Here's a real-life example:
 
 At one of our retreats, someone raised the idea that we should have a conflict resolution policy. We discussed the idea with the whole team and got a shared sense that it was important, and that it would take a bit of work. A small working group formed to facilitate the policy development process.
 
 The working group went away and did some research, to develop a first draft of the policy. They used Loomio to share the draft with the whole team and check that people had read it and shared any concerns.
 
-The working group developed a second draft in response to the first round of input. 
+The working group developed a second draft in response to the first round of input.
 
 Finally, we used [Loomio, our online decision-making tool](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles), to officially agree to the new policy, which is now [published in our cooperative handbook](http://loomio.coop/conflict_resolution.html).
 

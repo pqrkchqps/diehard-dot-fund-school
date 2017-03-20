@@ -12,13 +12,13 @@ You're reading Phase 4 of the [5 Phases of Faciliation in Loomio](index.md). In 
 
 ## Outcomes & Next Steps
 
-Confirming the outcome can be critical to feel like the goals of a collaborative discussion have been achieved. A facilitator can pull together what’s been decided and reflect it back, to help the group walk away with the answers to some key questions: 
+Confirming the outcome can be critical to feel like the goals of a collaborative discussion have been achieved. A facilitator can pull together what’s been decided and reflect it back, to help the group walk away with the answers to some key questions:
 
-* What did we do? 
-* What does it mean? 
-* What will happen now? 
-* What is my responsibility? 
-* What will be different because we went through this experience? 
+* What did we do?
+* What does it mean?
+* What will happen now?
+* What is my responsibility?
+* What will be different because we went through this experience?
 
 Sometimes the answers to these questions are very concrete, such as action points, while other times they are more abstract, such as deepening shared understanding.
 
@@ -31,16 +31,16 @@ Sometimes the answers to these questions are very concrete, such as action point
 
 ## Reporting & Harvesting
 
-To understand the meaning of an experience, you have to inquire into how it fits into the bigger context. What was this moment, in the bigger rhythm of our progress? What form will our understanding from this experience take - a story, a report, a change, a call to action?
+To understand the meaning of an experience, you have to inquire into how it fits into the bigger context. What was this moment, in the bigger rhythm of our progress? What form will our understanding from this experience take — a story, a report, a change, a call to action?
 
 The experience happens in the moment, but its impact often comes from putting handles on it, giving it a name, and being able to use it and refer to it. Otherwise you risk forgetting, leaving people out who weren't there, or having to repeat it later. Productive collaboration is often helped by tangible documentation or reporting.
 
 ### On Loomio
 
-* Loomio is self-documenting - notes write themselves as an integrated part of the process. This creates a gold-mine of archival content for groups, without any extra effort.
-* We have some features to support harvesting and archiving: the search function, the ‘previous decisions’ list, and the print discussion option.
+* Loomio is self-documenting — notes write themselves as an integrated part of the process. This creates a gold-mine of archival content for groups, without any extra effort.
+* We have some features to support harvesting and archiving: the search function, the “previous decisions” list, and the print discussion option.
 * Premium plans offer the option to export all your group's Loomio data.
-* Many groups use Loomio to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Loomio, having the meeting in person, posting the notes back on Loomio, and making related decisions in the same thread. This expands the "self-harvesting" ability of Loomio beyond the online space.
+* Many groups use Loomio to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Loomio, having the meeting in person, posting the notes back on Loomio, and making related decisions in the same thread. This expands the “self-harvesting” ability of Loomio beyond the online space.
 
 
 ## Turning Discussion into Action
@@ -49,11 +49,11 @@ There comes a moment when you have to re-engage with the reality outside the roo
 
 It’s at this point that a collaborative process intersects with other organisational systems, and the facilitator has to help figure out how it will work. These other systems might include:
 
-* **Power** - Who actually makes decisions? What has to happen for ideas to turn into reality here?
-* **Management** - How does this fit into other priorities? What dependencies might exist?
-* **Delegation** - Who will take responsibility for next steps? Will they be held accountable?
-* **Communication** - How will this process or discussion be relayed to others? What do they need to know?
-* **Administration** - How will information from one system be input into another, such as a task tracking or communications tool? Where will information be stored?
+* **Power** — Who actually makes decisions? What has to happen for ideas to turn into reality here?
+* **Management** — How does this fit into other priorities? What dependencies might exist?
+* **Delegation** — Who will take responsibility for next steps? Will they be held accountable?
+* **Communication** — How will this process or discussion be relayed to others? What do they need to know?
+* **Administration** — How will information from one system be input into another, such as a task tracking or communications tool? Where will information be stored?
 
 If there are any blocks around these issues, it can be damaging to leave this realisation until the moment of conclusion. For example, if the participants don’t actually have the power to make a change they have decided, they will feel defeated.Think ahead toward confronting reality when setting up the process, and scope the collaboration accordingly.
 
@@ -62,8 +62,8 @@ If there are any blocks around these issues, it can be damaging to leave this re
 
 * You can @mention the names of people who will take actions out of a decision.
 * Many users accomplish integrating Loomio content into other organisational systems through other channels like reviewing Loomio decisions in regular offline meetings, or transferring outcomes to their task tracking process.
-* Making an explicit decision naturally leads people to ask, "OK, but how are we going to take this forward?"
-* Forming a Loomio group often surfaces important questions like, "Who needs to participate here to turn these decisions into action?" If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
+* Making an explicit decision naturally leads people to ask, “OK, but how are we going to take this forward?”
+* Forming a Loomio group often surfaces important questions like, “Who needs to participate here to turn these decisions into action?” If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
 
 
 ## It Ain’t Over Til It’s Over
@@ -76,7 +76,7 @@ Participants often look to the leader or facilitator for confirmation of when it
 
 * The clearest indication of conclusion on Loomio is publishing a decision outcome.
 * Some groups make use of [Thread Archive](http://blog.loomio.org/2016/04/23/organise/) subgroups to move old discussions to.
-* Deactivating a group is the strongest possible ‘closure’ move. No one can say anything else after that.
+* Deactivating a group is the strongest possible “closure” move. No one can say anything else after that.
 * Since Loomio groups can remain while group activity goes up and down, it can be useful to recognise milestones like the conclusion of a particular phase, even if the group will reactivate in the future.
 
 

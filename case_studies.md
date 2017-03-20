@@ -30,10 +30,10 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ---
 
-* [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/) - make funding decisions with their members
-* [NEIT](http://blog.loomio.org/2016/08/30/neit/) - unlock great ideas from the introverts
-* [Trusty Amigos](http://blog.loomio.org/2016/08/17/trustyamigos/) - bilingual members jamming together
-* [Robin Hood Coop](http://blog.loomio.org/2016/01/05/robinhood/) - massively increased member participation
+* [SolidFund Coop](http://blog.loomio.org/2016/08/15/solidfund/) — make funding decisions with their members
+* [NEIT](http://blog.loomio.org/2016/08/30/neit/) — unlock great ideas from the introverts
+* [Trusty Amigos](http://blog.loomio.org/2016/08/17/trustyamigos/) — bilingual members jamming together
+* [Robin Hood Coop](http://blog.loomio.org/2016/01/05/robinhood/) — massively increased member participation
 
 ---
 
@@ -70,9 +70,9 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ## Community
 
-* [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/) - turned a conference into a movement
-* [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/) - create strong small teams within their organisation
-* [Newtown Ethical Lending Trust](http://blog.loomio.org/2013/10/18/trustees-trust-loomio/) - approve loan applications without having a meeting
+* [Equally Well](http://blog.loomio.org/2015/06/05/turning-a-conference-into-a-movement-with-loomio/) — turned a conference into a movement
+* [Pathways](http://blog.loomio.org/2014/04/07/jacqui-graham-meaningful-engagement-in-a-large-organisation/) — create strong small teams within their organisation
+* [Newtown Ethical Lending Trust](http://blog.loomio.org/2013/10/18/trustees-trust-loomio/) — approve loan applications without having a meeting
 
 ---
 
@@ -129,6 +129,6 @@ Stories from people using Loomio for everything from company governance, citizen
 
 ## Political
 
-* [Debt Resistance UK](http://blog.loomio.org/2016/03/07/druk/) - increased capacity by making decisions between meetings
-* [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/) - self-organised to make an impact at COP21
-* [Gen Zero](http://blog.loomio.org/2013/11/19/nation-changing-decision-makers-generation-zero/) - is a youth-led network of climate change activists who are campaigning to make New Zealand zero carbon by 2050
+* [Debt Resistance UK](http://blog.loomio.org/2016/03/07/druk/) — increased capacity by making decisions between meetings
+* [COY11 Global Youth Coalition](http://blog.loomio.org/2015/12/23/coy11/) — self-organised to make an impact at COP21
+* [Gen Zero](http://blog.loomio.org/2013/11/19/nation-changing-decision-makers-generation-zero/) — is a youth-led network of climate change activists who are campaigning to make New Zealand zero carbon by 2050

@@ -63,7 +63,7 @@ To edit the introductions thread, click into it and select the edit option in th
 
 You're ready to invite people into the group! Loomio is a group collaboration tool, so this is an important step.
 
-Visit your group page and click the "Invite people" button.
+Visit your group page and click the “Invite people” button.
 
 * If you have their email addresses, you can send invitations to each member of your group.
 * Or you can share the invitation link via email or however your team communicates.

@@ -1,5 +1,5 @@
 # Using proposals
-[Proposals](https://help.loomio.org/en/proposals.html) are a flexible and powerful tool for *convergence* - bringing a discussion to a conclusion or clear outcome. Groups that use proposals tend to get more value out of using Loomio.
+[Proposals](https://help.loomio.org/en/proposals.html) are a flexible and powerful tool for *convergence* — bringing a discussion to a conclusion or clear outcome. Groups that use proposals tend to get more value out of using Loomio.
 
 Proposals are *not* only for when you have consensus. They are very useful for clarifying any disagreements, inviting more participation, and helping issues progress.
 
@@ -74,7 +74,7 @@ Proposals are flexible, and can be used in a range of ways.
   It is going to take a while to figure out the logistics, but can we agree that we definitely want to host the conference?">
   <h3>Series of Small Yes’s</h3>
 
-  Break down a complex issue into smaller parts and agree them piece by piece. Start with the high level decision - for example, it's not productive to spend time working out the details of an event before agreeing that you want to host it at all.
+  Break down a complex issue into smaller parts and agree them piece by piece. Start with the high level decision — for example, it's not productive to spend time working out the details of an event before agreeing that you want to host it at all.
 </div>
 
 <div class="media-list">

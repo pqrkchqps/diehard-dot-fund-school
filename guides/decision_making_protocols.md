@@ -17,21 +17,21 @@ To make a group decision, anyone can raise a proposal, which should be open for 
 
 
 We use the following four voting options:
-agree - “I’m happy with this”
-disagree - “I think we can do better, but I will go along with the group if they think it is best”
-abstain - “I’m happy for the group to decide without me”
-block - “I cannot support this decision. This proposal would jeopardise my membership in the group.”
+agree — “I’m happy with this”
+disagree — “I think we can do better, but I will go along with the group if they think it is best”
+abstain — “I’m happy for the group to decide without me”
+block — “I cannot support this decision. This proposal would jeopardise my membership in the group.”
 
 
 A proposal passes if:
 there are no blocks AND
 at least 75% of people participate AND
-we have made a reasonable* effort to resolve any ‘No’ votes AND
-at least 75% of participants have said ‘Yes’
+we have made a reasonable* effort to resolve any “No” votes AND
+at least 75% of participants have said “Yes”
 
 
 *Reasonable: If a member votes no, they must give a reason for it and it must be discussed at the next meeting or resolved beforehand.
- 
+
 4.3 If a proposal is not passed, a new proposal should be created to address the concerns raised.
 
 
@@ -41,7 +41,7 @@ at least 75% of participants have said ‘Yes’
 4.5 Some decisions require 100% agreement and 100% participation, e.g. purchasing land, approving documents such as this one.
 
 
-4.6 A member absent from a meeting is expected to read the meeting minutes and may request to revisit an agenda item at the next meeting. Members not present at a meeting are still expected to participate in the online decision-making process via Loomio. 
+4.6 A member absent from a meeting is expected to read the meeting minutes and may request to revisit an agenda item at the next meeting. Members not present at a meeting are still expected to participate in the online decision-making process via Loomio.
 
 
 4.7 Past decisions can only be reopened at a meeting, by the agreement of 50% of members.
