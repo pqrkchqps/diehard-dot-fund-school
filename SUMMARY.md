@@ -5,7 +5,7 @@
    * [What is Loomio?](beginner/overview.md)
    * [Starting your group](beginner/getting_started.md)
    * [Joining a group](beginner/joining_a_group.md)
-   * [Using proposals](beginner/proposals.md)
+   * [Making decisions](beginner/decision_tools.md)
    * [Facilitating discussions](beginner/discussions.md)
    * [Loomio User Manual](https://help.loomio.org/en)
 * [Guides & How To's](guides/index.md)
@@ -19,4 +19,3 @@
 * [Coaching resources](coaching_resources.md)
    * [Basic Training Workshop](basic-training-workshop.md)
 * [Inspiration](inspiration.md)
-
