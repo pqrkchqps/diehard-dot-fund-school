@@ -2,13 +2,22 @@
 
 Loomio does not make decisions for you. Rather, we provide tools designed to
 
-1. Communicate what decisions are being made
-2. Make it easy to participate
-3. Highlight agreement and surface disagreement
-4. Support development of understanding together, allowing people to change their minds.
-5. Keep people informed of the stages in the process.
+- Communicate what decision is being made
+- Make it easy to participate
+- Highlight agreement and surface disagreement
+- Build shared understanding
+- Keep people informed of progress
 
-Here's how these tools work.
+## All decisions follow a common pattern
+
+1. Author sets up the decision with title, details and options
+2. People participate
+3. People can change their minds as understanding develops
+4. A reminder is sent out the day before closing
+5. The poll closes, and everyone is informed of the results
+6. The author sets an outcome, notifying everyone of what will happen next
+
+Once you've tried one tool, you'll be familiar with them all.
 
 ## Time poll
 _Find a time to meet_
@@ -109,14 +118,12 @@ When making a proposal, state your expectations and describe the impact the prop
 
 If things feel tense on a personal level, we recommend that you talk one on one with the person to hear their concerns.
 
-## What they have in common
-
 ### Closing time
 Consider how the proposal closing time will affect engagement from your group members, and choose accordingly. You might want to time the proposal so it closes before a meeting, or avoid closing over a weekend.
 
 You can extend the deadline of an open proposal. This can be a good idea if engagement is active and people are working through the issue, or if engagement has been sparse and you'd like to prompt more participation before concluding.
 
-### Outcome
+### Setting an outcome
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 
 In Loomio, it's not assumed that majority wins - the outcome or conclusion of a decision is up to you to define on behalf of the group. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.

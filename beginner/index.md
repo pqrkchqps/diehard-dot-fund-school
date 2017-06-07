@@ -6,9 +6,8 @@
 
 [Joining a group](joining_a_group.md) 🔑 — You've just been invited to a Loomio group, here's what you need to know.
 
-[Using proposals](proposals.md) 💡 — How to converge on shared understanding.
+[Decision tools](decision_tools.md) 💡 — How to converge on shared understanding.
 
 [Facilitating discussions](discussions.md) 🗣 — Tips for having inclusive and effective discussions on Loomio.
 
 [Loomio User Manual](https://help.loomio.org/en) — A detailed guide to the Loomio software application.
-
