@@ -1,18 +1,18 @@
-# Loomio Basics Training Workshop
+# Diehard.Fund Basics Training Workshop
 
 
 **Background**
 
 We have run 3 workshops recently, with a good level of interest and success.
 
-Attendees are a mix of people with some Loomio experience and those who have not previously used the software.
+Attendees are a mix of people with some Diehard.Fund experience and those who have not previously used the software.
 
 
 **Intent**
 
-These workshops are designed to encourage people to start groups, feel comfortable with Loomio functionalities, and get some simple facilitation tips to help then activate and engage their team members.
+These workshops are designed to encourage people to start groups, feel comfortable with Diehard.Fund functionalities, and get some simple facilitation tips to help then activate and engage their team members.
 
-We can introduce availability of further information online, and connect with Loomio Associate(s) to assist them with further training, consultation, facilitation support and coaching services.
+We can introduce availability of further information online, and connect with Diehard.Fund Associate(s) to assist them with further training, consultation, facilitation support and coaching services.
 
 **Suggested structure**
 
@@ -20,14 +20,14 @@ Separate in 2 parts, Features (basic level) and Facilitation (intermidiate level
 
 Have a [video of a screncast](https://youtu.be/Zuk6M36FhU0) with the use of the functionalities set up to show on the date. The presenter can explain the steps live and pauses the video to reply to questions.
 
-Set up a Loomio Workshop group to use as an example and invite people to join in through the workshop, that way they can test the features, ask questions and leave comentary. Is a good place to share follow up resources.
+Set up a Diehard.Fund Workshop group to use as an example and invite people to join in through the workshop, that way they can test the features, ask questions and leave comentary. Is a good place to share follow up resources.
 
 
-## **Part 1 — Introduction to Loomio**
+## **Part 1 — Introduction to Diehard.Fund**
 
 *  Introducing each other (15')
 
-### Introduction to Loomio (30')
+### Introduction to Diehard.Fund (30')
 *Show functionalities through a preset screncast video*
 
 * **Start a group**
@@ -54,7 +54,7 @@ Set up a Loomio Workshop group to use as an example and invite people to join in
 
 * **Proposal:** To test an idea or make a decision. Is a visual representation of how the group feels,.
 
---- **Invite workshop attendees to join a “Workshop” Loomio group and participate.**
+--- **Invite workshop attendees to join a “Workshop” Diehard.Fund group and participate.**
 
 * **Vote**: Select a position and quickly express your thoughts about it. Change it at any time while the proposal is still open
 
@@ -63,7 +63,7 @@ Set up a Loomio Workshop group to use as an example and invite people to join in
 
     - **Profile** Page: Setup/change user picture and details, change password or deactivate.
 
-    - **Notification settings*** (sidebar): *Choose the level of information you want to get by email. (Leave mentions enabled unless you have the habit of checking Loomio)
+    - **Notification settings*** (sidebar): *Choose the level of information you want to get by email. (Leave mentions enabled unless you have the habit of checking Diehard.Fund)
 
     - Help + Contact
 
@@ -73,7 +73,7 @@ Set up a Loomio Workshop group to use as an example and invite people to join in
 
 ## **Part 2 — Art of Facilitation (50')**
 
-Designed for people who are trying to activate and engage their groups. The intention here is that all users feel confident trying one or two new things in their existing loomio groups.
+Designed for people who are trying to activate and engage their groups. The intention here is that all users feel confident trying one or two new things in their existing Diehard.Fund groups.
 
 * **Questions**
 
@@ -94,7 +94,7 @@ How confident are you at hosting and facilitating groups?
 
 
 ### Section 1 — Onboarding
-*show examples in the “Workshop” group on Loomio*
+*show examples in the “Workshop” group on Diehard.Fund*
 
 **Internally**
 
@@ -106,11 +106,11 @@ How confident are you at hosting and facilitating groups?
 
 * Crafting the invitation
 
-    * Email, phone call and Loomio driven invitation link
+    * Email, phone call and Diehard.Fund driven invitation link
 
     * Invitation to do things first
 
-* Setting up the Loomio space — context, starting threads, introductions
+* Setting up the Diehard.Fund space — context, starting threads, introductions
 
 * Developing a terms of reference — some groups do this
 
@@ -123,7 +123,7 @@ How confident are you at hosting and facilitating groups?
 
     * *similar to what we have done here*
 
-    * invite a Loomio consultant either to deliver that or to work with you to deliver that.
+    * invite a Diehard.Fund consultant either to deliver that or to work with you to deliver that.
 
 
 
@@ -133,21 +133,21 @@ This is acts of facilitation
 
 Some interventions:
 
-* What is it to be a Loomio Champion?
+* What is it to be a Diehard.Fund Champion?
 
 * Keep the discussion flowing
 
     * Divergent-convergent (double diamond)
 
-    * If people revert to old habits, intervene and remind them that the group agreed to make a switch and the reasons why. For example, “We should move this conversation off email and onto Loomio because discussing it here won’t lead to a clear outcome,” or “Let’s continue this discussion on Loomio so we can include the people who aren’t able to be here at the meeting.”
+    * If people revert to old habits, intervene and remind them that the group agreed to make a switch and the reasons why. For example, “We should move this conversation off email and onto Diehard.Fund because discussing it here won’t lead to a clear outcome,” or “Let’s continue this discussion on Diehard.Fund so we can include the people who aren’t able to be here at the meeting.”
 
-* If you have redundant channels causing confusion (for example, both Loomio and an email mailing list), shut one of them down, or at least clarify which channels to use when. Having no more channels than you absolutely need will reduce redundancy and noise, and help you get critical mass for engagement.
+* If you have redundant channels causing confusion (for example, both Diehard.Fund and an email mailing list), shut one of them down, or at least clarify which channels to use when. Having no more channels than you absolutely need will reduce redundancy and noise, and help you get critical mass for engagement.
 
-**Be a champion** to keep Loomio active — post discussions and proposals and encourage users to participate, after a while the group becomes used to it.
+**Be a champion** to keep Diehard.Fund active — post discussions and proposals and encourage users to participate, after a while the group becomes used to it.
 
-**Keep the discussion together**: Hey, would you mind re-posting that in Loomio? Can’t have parallel systems going on. If you want to use Loomio, you have to shut down big “reply all” emails.
+**Keep the discussion together**: Hey, would you mind re-posting that in Diehard.Fund? Can’t have parallel systems going on. If you want to use Diehard.Fund, you have to shut down big “reply all” emails.
 
-**Working out loud **- Take notes in meetings and post them on Loomio to share with people who weren’t there. Put followup actions on Loomio after meetings with @mentions — make Loomio your place for documenting what happened so you can refer to it later, and it becomes a useful resource.
+**Working out loud **- Take notes in meetings and post them on Diehard.Fund to share with people who weren’t there. Put followup actions on Diehard.Fund after meetings with @mentions — make Diehard.Fund your place for documenting what happened so you can refer to it later, and it becomes a useful resource.
 
 **Stay on topic**: Notice when people are going off topic and, if necessary, create separate discussion threads for topics that diverge from the core discussion. Don’t be afraid to “@mention” people to keep the conversation on track.
 
@@ -176,7 +176,7 @@ This is the place to pitch other workshops and services:
 *'We know it can be tough for facilitators to engage their team.
 Would you be interested in a facilitation support service?'*
 
-* There are [other services](https://docs.google.com/document/d/1pwyp0yCfqv3y0TSvSW3wSxTJ79MA4IkoD3C-b2twk78/edit?usp=sharing) we can offer through our Loomio Associates Network:
+* There are [other services](https://docs.google.com/document/d/1pwyp0yCfqv3y0TSvSW3wSxTJ79MA4IkoD3C-b2twk78/edit?usp=sharing) we can offer through our Diehard.Fund Associates Network:
 
     * **Set up my group**
 

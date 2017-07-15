@@ -1,10 +1,10 @@
 # Using proposals
-[Proposals](https://help.loomio.org/en/proposals.html) are a flexible and powerful tool for *convergence* — bringing a discussion to a conclusion or clear outcome. Groups that use proposals tend to get more value out of using Loomio.
+[Proposals](https://help.diehard.fund/en/proposals.html) are a flexible and powerful tool for *convergence* — bringing a discussion to a conclusion or clear outcome. Groups that use proposals tend to get more value out of using Diehard.Fund.
 
 Proposals are *not* only for when you have consensus. They are very useful for clarifying any disagreements, inviting more participation, and helping issues progress.
 
 ## Start your first proposal now
-Our research shows that groups that have 2 proposals in their first week continue to use Loomio successfully for a long time.
+Our research shows that groups that have 2 proposals in their first week continue to use Diehard.Fund successfully for a long time.
 
 Chose a real topic relevant to your group, big or small, that participants will have a view on. Use proposals early and often to help users understand their value, so when a critical issue arises, you'll be ready.
 
@@ -35,7 +35,7 @@ If needed, you can extend the deadline of an open proposal. This can be a good i
 ## What's the outcome?
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 
-Loomio is not a poll, where the position with the most votes wins. What the outcome of a proposal means for your group is up to you to define. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.
+Diehard.Fund is not a poll, where the position with the most votes wins. What the outcome of a proposal means for your group is up to you to define. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.
 
 Group members will be notified of the outcome, so it's a very useful tool for keeping people in the loop, clearly defining next steps and naming specific people's action points, or summarising what was learned from the proposal (whether or not it was conclusive).
 
@@ -85,10 +85,10 @@ Proposals are flexible, and can be used in a range of ways.
 </div>
 
 <div class="media-list">
-  <img class="img-right img-300px" src="proposal5.png" alt="Proposal: **I’ve read the report.** Please make sure you see before our meeting on Monday. The report can be found *[here](http://www.loomio.org)*.">
+  <img class="img-right img-300px" src="proposal5.png" alt="Proposal: **I’ve read the report.** Please make sure you see before our meeting on Monday. The report can be found *[here](http://www.diehard.fund)*.">
   <h3>Engagement Request</h3>
 
-  If you need everyone in your group to complete an action, such as reading a document before an important meeting, use and Engagement Request proposal to define a deadline. Loomio will automatically send out reminders, and you can visually see who has responded. Make sure you make it easy for people to fulfil your request by including any relevant links or documents.
+  If you need everyone in your group to complete an action, such as reading a document before an important meeting, use and Engagement Request proposal to define a deadline. Diehard.Fund will automatically send out reminders, and you can visually see who has responded. Make sure you make it easy for people to fulfil your request by including any relevant links or documents.
 </div>
 
 <div class="media-list">
@@ -123,4 +123,4 @@ Proposals are flexible, and can be used in a range of ways.
 
 ---
 
-Further details about about [how proposals work](https://help.loomio.org/en/proposals.html) can be found in the Loomio help manual.
+Further details about about [how proposals work](https://help.diehard.fund/en/proposals.html) can be found in the Diehard.Fund help manual.

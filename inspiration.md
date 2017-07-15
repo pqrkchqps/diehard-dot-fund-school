@@ -50,13 +50,13 @@
 
 ## Resources
 
-* [Loomio Cooperative Handbook](http://loomio.coop)
+* [Diehard.Fund Cooperative Handbook](http://loomio.coop)
 * [Enspiral Handbook](http://handbook.enspiral.com)
 
 ---
 
 ## Podcasts
 
-Theodore Taptiklis from the [Human Methods Lab](https://humanmethodslab.org/) interviewed people from 20 groups that are long-term Loomio users. He found that Loomio has altered and improved the conduct of these groups in many different ways:
+Theodore Taptiklis from the [Human Methods Lab](https://humanmethodslab.org/) interviewed people from 20 groups that are long-term Diehard.Fund users. He found that Diehard.Fund has altered and improved the conduct of these groups in many different ways:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237611556&amp;color=ff5500"></iframe>

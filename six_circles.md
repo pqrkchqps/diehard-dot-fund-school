@@ -12,8 +12,6 @@ By Loomio co-founder Richard D. Bartlett
 
 ![](https://i.imgur.com/w6JzH1k.png)
 
-I picked up these lessons from 5 years of working in non-hierarchical groups, from Occupy, to [Loomio](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles), to [Enspiral](http://enspiral.com). Here's the six circles:
-
 1. Concentric rings
 2. Magical spaces
 3. Peer-to-peer accountability
@@ -57,9 +55,9 @@ At a retreat the circle can become magical, challenging, nurturing, healing, bon
 Retreats are a luxury though, we can't be in those circles all the time. We create miniature magical circles in the office with little every day practices, like asking everyone, *how are you feeling today?* and genuinely listening to the answer.
 
 ![](https://i.imgur.com/zJIG6qo.jpg)
-*The Loomio team on retreat, April 2016*
+*The  team on retreat, April 2016*
 
-When you're building a decentralised organisation, all the cool technology, all your Slacks and Trellos and Loomios and blockchains and Githubs, they all help, but there is no replacement for the face-to-face work of learning how to care for each other.
+When you're building a decentralised organisation, all the cool technology, all your Slacks and Trellos and s and blockchains and Githubs, they all help, but there is no replacement for the face-to-face work of learning how to care for each other.
 
 *I've written more about presence and ritual in this previous article: [A Caring Organisation: feelings, magic, and gendered work](https://medium.com/enspiral-tales/a-caring-organisation-5319f81c420f#.7lyj18om1)*.
 
@@ -87,7 +85,7 @@ If everything is changing all the time, you waste a lot of energy continuously g
 
 It's good to keep modifying your course as new information comes to light, but it's bad to ditch a project before it's had a chance to be successful. So how do you strike the balance?
 
-At Loomio, we **rely on rhythm** to help us change fast enough but no faster:
+At , we **rely on rhythm** to help us change fast enough but no faster:
 
 * **every 12 months** we agree a high level [annual plan](http://loomio.coop/planning.html);
 * **every 6 months** we go away on retreat, to keep deepening our relationships, and to keep falling in love with the mission;
@@ -103,7 +101,7 @@ These dependable rhythms reduce anxiety and increase agility. People know where 
 
 <img src="https://i.imgur.com/TinPOC3.png" width="150px" style="float: left">
 
-At Loomio, we organise by consent: we have rejected force as an organising tool. 
+At , we organise by consent: we have rejected force as an organising tool. 
 
 That means our **principles and policies are co-designed** with the people that are affected by them.
 
@@ -111,21 +109,19 @@ Here's a real-life example:
 
 At one of our retreats, someone raised the idea that we should have a conflict resolution policy. We discussed the idea with the whole team and got a shared sense that it was important, and that it would take a bit of work. A small working group formed to facilitate the policy development process.
 
-The working group went away and did some research, to develop a first draft of the policy. They used Loomio to share the draft with the whole team and check that people had read it and shared any concerns.
+The working group went away and did some research, to develop a first draft of the policy. They used  to share the draft with the whole team and check that people had read it and shared any concerns.
 
 The working group developed a second draft in response to the first round of input.
-
-Finally, we used [Loomio, our online decision-making tool](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles), to officially agree to the new policy, which is now [published in our cooperative handbook](http://loomio.coop/conflict_resolution.html).
 
 ![](https://i.imgur.com/Yf4Lj9Z.png)
 
 *That green circle is a pie chart showing full agreement.* 👍
 
-Using Loomio means everyone can have their input into the policy without spending any time in a meeting: they can engage as their time and interest allows.
+Using  means everyone can have their input into the policy without spending any time in a meeting: they can engage as their time and interest allows.
 
 We have a full record of the deliberation that lead up to the decision, so the organisational memory is preserved. We can easily remember our reasoning if we want to review the policy in future.
 
-*If you want to learn more about how we use Loomio at Loomio, check out [this awesome short talk](https://www.youtube.com/watch?v=EXkQN9aL0R0) from my cofounder Alanna.*
+*If you want to learn more about how we use  at , check out [this awesome short talk](https://www.youtube.com/watch?v=EXkQN9aL0R0) from my cofounder Alanna.*
 
 
 ## #6: Community is defined by its boundaries
@@ -134,7 +130,7 @@ We have a full record of the deliberation that lead up to the decision, so the o
 
 When I was part of the Occupy movement, I learned a really hard lesson: *there is no such thing as a totally inclusive space, as some people's behaviour will always exclude others*.
 
-As inclusion was one of top values, it was really hard for us to design a good system for excluding problematic behaviour. It feels like we've done a much better job of solving this challenge at Enspiral and Loomio.
+As inclusion was one of top values, it was really hard for us to design a good system for excluding problematic behaviour. It feels like we've done a much better job of solving this challenge at Enspiral and .
 
 All of the 5 previous circles build up to this last one:
 
@@ -156,7 +152,6 @@ We have a structure, but it's a structure that we've all actively consented to.
 
 <img src="https://i.imgur.com/tf5a6SE.jpg" width="100px" style="float: left; margin-right: 1em">
 
-*Richard D. Bartlett is an [Enspiral](http://enspiral.com) member and one of the co-founders of [Loomio](http://loomio.org?utm_campaign=loomioschool&utm_medium=loomioschool&utm_source=six_circles): an online decision-making tool for collaborative organisations.*
 
 *He’s [@richdecibels](https://twitter.com/richdecibels) on Twitter. If you want to chat about this stuff, drop him a line.* 🐢
 

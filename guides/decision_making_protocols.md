@@ -1,4 +1,4 @@
-# Decision-making Protocols: How To Interpret the Results of a Loomio Proposal
+# Decision-making Protocols: How To Interpret the Results of a Diehard.Fund Proposal
 
 
 Enspiral Example: https://handbook.enspiral.com/decisions_agreement.html
@@ -10,7 +10,7 @@ MEETINGS AND DECISION MAKING
 4.1 We agree to listen to the person who is speaking and respect the opinions and emotions of all members of the group. We aim to create a space in meetings where all ideas, concerns, fears and dreams can be expressed and are equally honoured and respected.
 
 
-4.2 Decision-making is by the agreed process outlined below. All significant decisions must be passed using The Village Loomio Group.
+4.2 Decision-making is by the agreed process outlined below. All significant decisions must be passed using The Village Diehard.Fund Group.
 
 
 To make a group decision, anyone can raise a proposal, which should be open for at least 2 weeks to give people time to participate.
@@ -41,9 +41,9 @@ at least 75% of participants have said “Yes”
 4.5 Some decisions require 100% agreement and 100% participation, e.g. purchasing land, approving documents such as this one.
 
 
-4.6 A member absent from a meeting is expected to read the meeting minutes and may request to revisit an agenda item at the next meeting. Members not present at a meeting are still expected to participate in the online decision-making process via Loomio.
+4.6 A member absent from a meeting is expected to read the meeting minutes and may request to revisit an agenda item at the next meeting. Members not present at a meeting are still expected to participate in the online decision-making process via Diehard.Fund.
 
 
 4.7 Past decisions can only be reopened at a meeting, by the agreement of 50% of members.
 
-Do you have a decision-making protocol you want to share here? [Get in touch](https://www.loomio.org/contact).
+Do you have a decision-making protocol you want to share here? [Get in touch](https://www.diehard.fund/contact).

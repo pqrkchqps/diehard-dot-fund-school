@@ -1,13 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [Learn to use Loomio](beginner/index.md)
-   * [What is Loomio?](beginner/overview.md)
+* [Learn to use Diehard.Fund](beginner/index.md)
+   * [What is Diehard.Fund?](beginner/overview.md)
    * [Starting your group](beginner/getting_started.md)
    * [Joining a group](beginner/joining_a_group.md)
    * [Making decisions](beginner/decision_tools.md)
    * [Facilitating discussions](beginner/discussions.md)
-   * [Loomio User Manual](https://help.loomio.org/en)
+   * [Diehard.Fund User Manual](https://help.diehard.fund/en)
 * [Guides & How To's](guides/index.md)
 * [Facilitation Guide](facilitators_guide/index.md)
    * [1. Preparation](facilitators_guide/preparation.md)

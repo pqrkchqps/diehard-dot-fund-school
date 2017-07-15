@@ -1,8 +1,8 @@
-<h1 id="facilitation">Loomio Facilitation 🐝</h1>
+<h1 id="facilitation">Diehard.Fund Facilitation 🐝</h1>
 
 *Brief articles, each with a 1 minute video and accompanying text. Targetted at all users.*
 
-## Loomio 101
+## Diehard.Fund 101
 
 * invite people in
 * discussion threads
@@ -14,8 +14,8 @@
 * reply from your email.
 * turn off all the emails
 * Likes emojis.
-* [10 tips for making great decisions with Loomio](https://blog.loomio.org/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)
-* [9 ways to to use a Loomio proposal to turn a conversation into action](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
+* [10 tips for making great decisions with Diehard.Fund](https://blog.loomio.org/2015/09/10/10-tips-for-making-great-decisions-with-loomio/)
+* [9 ways to to use a Diehard.Fund proposal to turn a conversation into action](https://blog.loomio.org/2015/09/18/9-ways-to-use-a-loomio-proposal-to-turn-a-conversation-into-action/)
 
 ## Facilitator's FAQ
 *The FAQ that trip everyone up as soon as they have an active group.*
@@ -28,7 +28,7 @@
 * How do I deal with rants and horrible people?
 * How do I get people to use the tool?
 * How do I introduce people?
-* Help there are too many Loomios!
+* Help there are too many Diehard.Funds!
 
 ## Acts of facilitation
 *More indepth articles, specifically targetted at group facilitators.*
@@ -45,7 +45,7 @@
 * Suggest people talk to each other in person.
 
 
-## What people do with Loomio
+## What people do with Diehard.Fund
 
 *More heavy-duty articles explaining a workflow in depth, with a video from a real example, also available in pdf form*
 

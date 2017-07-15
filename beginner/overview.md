@@ -1,8 +1,8 @@
-# What is Loomio?
+# What is Diehard.Fund?
 
-Loomio is an app for collaborative decision-making. It empowers groups to come together, build shared understanding, and agree on a clear course of action.
+Diehard.Fund is an app for collaborative decision-making. It empowers groups to come together, build shared understanding, and agree on a clear course of action.
 
-People use it for all kinds of things, from approving funding applications to cooperative governance to stakeholder engagement. The **[case studies](http://loomio.school/case_studies.html)** section shows a variety of ways groups have used Loomio.
+People use it for all kinds of things, from approving funding applications to cooperative governance to stakeholder engagement. The **[case studies](http://school.diehard.fund/case_studies.html)** section shows a variety of ways groups have used Diehard.Fund.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CoYYNthNxOY" frameborder="0" allowfullscreen></iframe>
 
@@ -12,7 +12,7 @@ People use it for all kinds of things, from approving funding applications to co
 
 ![](https://i.imgur.com/0GuZDL3.png)
 
-A Loomio **group** is an online place for people to have **discussions** and make **decisions** together.
+A Diehard.Fund **group** is an online place for people to have **discussions** and make **decisions** together.
 
 
 ### 2. Discuss
@@ -27,7 +27,7 @@ Anyone in the group can start a **discussion**. Everyone in the group is able to
 
 ![](https://i.imgur.com/niOczGK.png)
 
-**Proposals** are the defining feature of Loomio. Use a proposal to move a discussion towards **conclusion**. If you're wondering how to move a conversation forward, the answer is almost always **start a proposal**!
+**Proposals** are the defining feature of Diehard.Fund. Use a proposal to move a discussion towards **conclusion**. If you're wondering how to move a conversation forward, the answer is almost always **start a proposal**!
 
 ### 4. Decide & Act
 
@@ -48,10 +48,10 @@ Over time you'll build a **history of decisions** you can refer to.
 
 ---
 ## About us
-Loomio is a cooperative social enterprise. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives. We're a social enterprise based in Wellington, Aotearoa New Zealand. [Find out more](https://www.loomio.org/about).
+Diehard.Fund is a cooperative social enterprise. Our mission is to empower anyone, anywhere to participate in decisions that affect their lives. We're a social enterprise based in Wellington, Aotearoa New Zealand. [Find out more](https://www.diehard.fund/about).
 
 ---
 
 # Keep learning
 
-Being a Loomio group coordinator is a lot like hosting a great meeting. Read on for tips about [**starting a Loomio group**](getting_started.md)....
+Being a Diehard.Fund group coordinator is a lot like hosting a great meeting. Read on for tips about [**starting a Diehard.Fund group**](getting_started.md)....

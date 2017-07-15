@@ -1,6 +1,6 @@
 # Concluding
 
-You're reading Phase 4 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
+You're reading Phase 4 of the [5 Phases of Faciliation in Diehard.Fund](index.md). In this phase we'll cover:
 
 * Outcomes & Next Steps
 * Reporting & Harvesting
@@ -22,10 +22,10 @@ Confirming the outcome can be critical to feel like the goals of a collaborative
 
 Sometimes the answers to these questions are very concrete, such as action points, while other times they are more abstract, such as deepening shared understanding.
 
-### On Loomio
+### On Diehard.Fund
 
-* Decision [outcome statements](https://help.loomio.org/en/proposals.html) are a very important tool. A proposal ending is not quite the end: there’s a need to sum up conclusively. That's what the outcome feature is for.
-* Many Loomio discussions come to a natural end without even using proposals or publishing outcomes. These discussions still provide a lot of value, and it can be helpful to update the context box with an outcome summary for later reference.
+* Decision [outcome statements](https://help.diehard.fund/en/proposals.html) are a very important tool. A proposal ending is not quite the end: there’s a need to sum up conclusively. That's what the outcome feature is for.
+* Many Diehard.Fund discussions come to a natural end without even using proposals or publishing outcomes. These discussions still provide a lot of value, and it can be helpful to update the context box with an outcome summary for later reference.
 * If specific people have action points, you can @mention their names and they will be notified.
 
 
@@ -35,12 +35,12 @@ To understand the meaning of an experience, you have to inquire into how it fits
 
 The experience happens in the moment, but its impact often comes from putting handles on it, giving it a name, and being able to use it and refer to it. Otherwise you risk forgetting, leaving people out who weren't there, or having to repeat it later. Productive collaboration is often helped by tangible documentation or reporting.
 
-### On Loomio
+### On Diehard.Fund
 
-* Loomio is self-documenting — notes write themselves as an integrated part of the process. This creates a gold-mine of archival content for groups, without any extra effort.
+* Diehard.Fund is self-documenting — notes write themselves as an integrated part of the process. This creates a gold-mine of archival content for groups, without any extra effort.
 * We have some features to support harvesting and archiving: the search function, the “previous decisions” list, and the print discussion option.
-* Premium plans offer the option to export all your group's Loomio data.
-* Many groups use Loomio to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Loomio, having the meeting in person, posting the notes back on Loomio, and making related decisions in the same thread. This expands the “self-harvesting” ability of Loomio beyond the online space.
+* Premium plans offer the option to export all your group's Diehard.Fund data.
+* Many groups use Diehard.Fund to integrate content from various channels. For example, posting a meeting announcement and building the agenda on Diehard.Fund, having the meeting in person, posting the notes back on Diehard.Fund, and making related decisions in the same thread. This expands the “self-harvesting” ability of Diehard.Fund beyond the online space.
 
 
 ## Turning Discussion into Action
@@ -58,12 +58,12 @@ It’s at this point that a collaborative process intersects with other organisa
 If there are any blocks around these issues, it can be damaging to leave this realisation until the moment of conclusion. For example, if the participants don’t actually have the power to make a change they have decided, they will feel defeated.Think ahead toward confronting reality when setting up the process, and scope the collaboration accordingly.
 
 
-### On Loomio
+### On Diehard.Fund
 
 * You can @mention the names of people who will take actions out of a decision.
-* Many users accomplish integrating Loomio content into other organisational systems through other channels like reviewing Loomio decisions in regular offline meetings, or transferring outcomes to their task tracking process.
+* Many users accomplish integrating Diehard.Fund content into other organisational systems through other channels like reviewing Diehard.Fund decisions in regular offline meetings, or transferring outcomes to their task tracking process.
 * Making an explicit decision naturally leads people to ask, “OK, but how are we going to take this forward?”
-* Forming a Loomio group often surfaces important questions like, “Who needs to participate here to turn these decisions into action?” If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
+* Forming a Diehard.Fund group often surfaces important questions like, “Who needs to participate here to turn these decisions into action?” If you're missing key stakeholders, leaders, or administrators, you'll get stuck.
 
 
 ## It Ain’t Over Til It’s Over
@@ -72,12 +72,12 @@ Ending well is important. There’s a ritual to closing a process, and if it’s
 
 Participants often look to the leader or facilitator for confirmation of when it’s actually over, and it usually pays to be explicit. Sometimes the signal is a clear statement that the session is wrapping up, a recap of decisions or next steps, and bidding everyone goodbye. Other times groups have established practices like a check-out. Letting a session vaguely trail off will leave a bad taste.
 
-### On Loomio
+### On Diehard.Fund
 
-* The clearest indication of conclusion on Loomio is publishing a decision outcome.
+* The clearest indication of conclusion on Diehard.Fund is publishing a decision outcome.
 * Some groups make use of [Thread Archive](http://blog.loomio.org/2016/04/23/organise/) subgroups to move old discussions to.
 * Deactivating a group is the strongest possible “closure” move. No one can say anything else after that.
-* Since Loomio groups can remain while group activity goes up and down, it can be useful to recognise milestones like the conclusion of a particular phase, even if the group will reactivate in the future.
+* Since Diehard.Fund groups can remain while group activity goes up and down, it can be useful to recognise milestones like the conclusion of a particular phase, even if the group will reactivate in the future.
 
 
-> Move on to [Phase 5](ongoing_practice.md) of the [5 Phases of Faciliation in Loomio](index.md).
+> Move on to [Phase 5](ongoing_practice.md) of the [5 Phases of Faciliation in Diehard.Fund](index.md).

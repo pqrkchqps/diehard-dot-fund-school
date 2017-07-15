@@ -1,6 +1,6 @@
 # Commencing
 
-You're reading Phase 2 of the [5 Phases of Faciliation in Loomio](index.md). In this phase we'll cover:
+You're reading Phase 2 of the [5 Phases of Faciliation in Diehard.Fund](index.md). In this phase we'll cover:
 
 * Invitation
 * Arrival
@@ -27,13 +27,13 @@ Key aspects to an invitation:
 * **Safety.** Does this invitation indicate thoughtfulness, trust, and understanding? Is the structure of the engagement up to handling the inherent power dynamics at play? What level of honesty or vulnerability will this require of me? Do I think the person inviting is going to hold me well?
 * **Accessibility.** Will my basic requirements for participation be accommodated? Language, assistive technology, unfamiliar jargon, etc. Will it be possible for me to engage?
 
-### On Loomio
+### On Diehard.Fund
 
-* The tool has a built-in function to [invite users](https://loomio.gitbooks.io/manual/content/en/inviting_new_members.html) by email or by sending them a special link. Users can also request to join your group if your settings allow.
-* The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Loomio through a separate process.
-* Many aspects of Loomio are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](https://loomio.gitbooks.io/manual/content/en/group_settings.html).
+* The tool has a built-in function to [invite users](https://manual.diehard.fund/en/inviting_new_members.html) by email or by sending them a special link. Users can also request to join your group if your settings allow.
+* The invitation tools built into the software are very basic, and getting an unexpected login request for new software without context isn't very inviting, so group creators often introduce people to the idea of Diehard.Fund through a separate process.
+* Many aspects of Diehard.Fund are already designed to create a safe and respectful space users would want to enter — such as thoughtful [privacy options](https://manual.diehard.fund/en/group_settings.html).
 * The design of the software itself is meant to be friendly, simple, and professional, hopefully putting out a trustworthy vibe.
-* Loomio has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different languages. Emphasising these aspects in an invitation can make some people feel more welcome.
+* Diehard.Fund has accessibility features, for people who use assistive technology like screen readers, and translation features for people who speak different languages. Emphasising these aspects in an invitation can make some people feel more welcome.
 
 
 ## Arrival
@@ -46,11 +46,11 @@ To enable openness to engagement, participation, and receptivity, a person has t
 ### Settling
 When someone enters a physical room, they want to know where to sit, where the exit is, where to go to the bathroom, and if there is coffee available. They need a basic introduction to the space and their place in it.
 
-### On Loomio
+### On Diehard.Fund
 
 * The group description fields and discussion context box are the main space to put a “welcome message” for people arriving into the space.
-* Take a tour of the Loomio space, tweak things to make yourself comfortable (like [notification settings](https://loomio.gitbooks.io/manual/content/en/keeping_up_to_date.html) and your [profile photo](https://loomio.gitbooks.io/manual/content/en/your_user_profile.html)).
-* See information how you like using [different thread views and options](https://loomio.gitbooks.io/manual/content/en/reading_loomio.html) like Recent, Unread, Mute, and Star. Make yourself at home.
+* Take a tour of the Diehard.Fund space, tweak things to make yourself comfortable (like [notification settings](https://manual.diehard.fund/en/keeping_up_to_date.html) and your [profile photo](https://manual.diehard.fund/en/your_user_profile.html)).
+* See information how you like using [different thread views and options](https://manual.diehard.fund/en/reading_diehard_fund.html) like Recent, Unread, Mute, and Star. Make yourself at home.
 
 
 ## Who’s in the Room
@@ -65,9 +65,9 @@ People's expression does not occur in a vaccuum, but in the context of who the a
 
 > We start many of our meetings with everyone “checking in” before we get to the agenda. These check-ins are focused not on your work tasks, but on how you’re doing as a human being. If you’re going through a rough patch at home, or you’re sick, or you have exciting positive news, understanding your state of mind will help the entire group have the right context to interpret how you’re communicating. — Richard Bartlett
 
-### On Loomio
+### On Diehard.Fund
 
-* Introduction threads began as a user-created “hack” of discussion threads. They were so widespread that now new Loomio groups automatically start with an intro thread pre-loaded. You can edit this thread to best suit your group's needs. It provides a useful first “call to action” everyone coming in will understand: introduce yourself.
+* Introduction threads began as a user-created “hack” of discussion threads. They were so widespread that now new Diehard.Fund groups automatically start with an intro thread pre-loaded. You can edit this thread to best suit your group's needs. It provides a useful first “call to action” everyone coming in will understand: introduce yourself.
 * For “request to join” groups, we have a function that allowed the requestor to introduce themselves to the coordinator to get access to the group. Some groups have a process of re-posting this content in the intro thread to welcome people in.
 * Upload profile photos! Photos of faces are one of the most powerful ways of feeling like you know who is in the room with you online.
 
@@ -82,10 +82,10 @@ Someone who does not have particular accessibility needs may not even notice tha
 
 It’s especially important to think about who is not in room when trying to solve problems for others: build with, not for; talk with people, not about them. If the people you are trying to serve are not in the room, it’s very unlikely you’ll have all the input you need to be effective. This is just as much about effectiveness for business outcomes as about social justice; it’s almost always better to design collaboration *with* the users or stakeholders.
 
-### On Loomio
+### On Diehard.Fund
 
 * Collaborating online can allow for whole other levels of inclusion. Instead of thinking about a “digital divide”, think about the “digital bridge” — how technology can include people who cannot attend in-person meetings or participate at a specific time, and enable whole new possibilities like multi-lingual discussions.
-* Loomio makes it very clear who is invited to a group and who has participated in a discussion, giving important information for thinking about inclusion. If people are missing, you can see that.
+* Diehard.Fund makes it very clear who is invited to a group and who has participated in a discussion, giving important information for thinking about inclusion. If people are missing, you can see that.
 * If inclusive decision making and diversity of thinking are important to you, periodically ask yourself, “Who’s not in the room Why?”
 
 
@@ -105,14 +105,14 @@ People often want to leave things to “common sense” and avoid agreeing a cod
 
 Like a legal contract, you hope you never have to enforce a code of conduct, but if you need it you’re very glad it’s there. You want to agree it *before* it became necessary. In order for a facilitator or any member of the group to effectively stand up and say, “that’s not OK here”, you need to have already invested in culture-building and expectation-setting.
 
-### On Loomio
+### On Diehard.Fund
 
-* Because Loomio is usually used as a space for constructive deliberation among groups with a specific purpose and set of members, for the most part people engage in good faith and behave respectfully.
-* Loomio is designed specifically to give voice to the individual, and let them communicate their needs and concerns. Even if a majority doesn’t see a problem, a single person can raise it and be heard.
+* Because Diehard.Fund is usually used as a space for constructive deliberation among groups with a specific purpose and set of members, for the most part people engage in good faith and behave respectfully.
+* Diehard.Fund is designed specifically to give voice to the individual, and let them communicate their needs and concerns. Even if a majority doesn’t see a problem, a single person can raise it and be heard.
 * Communicating online enables a certain level of physical safety, because people are not face to face.
 * Some groups already use the group description field to note a code of conduct or expectations for behavior. Others have collectively agreed a set of expectations that govern participation.
-* Many groups use Loomio itself to decide their group protocols, such as how to engage, what is allowed, what a decision means and what makes it valid, etc.
-* Some core protocol issues are answered simply by using Loomio: Who is allowed here? How do we communicate?
-* One of the most basic decisions Loomio users all encounter is about decision-making protocol — Consensus? Majority? Quorum? Unanimity? Bringing the question of decision-making protocol to the fore can be a very productive step in cultural development.
+* Many groups use Diehard.Fund itself to decide their group protocols, such as how to engage, what is allowed, what a decision means and what makes it valid, etc.
+* Some core protocol issues are answered simply by using Diehard.Fund: Who is allowed here? How do we communicate?
+* One of the most basic decisions Diehard.Fund users all encounter is about decision-making protocol — Consensus? Majority? Quorum? Unanimity? Bringing the question of decision-making protocol to the fore can be a very productive step in cultural development.
 
-> Move on to [Phase 3](underway.md) of the [5 Phases of Faciliation in Loomio](index.md).
+> Move on to [Phase 3](underway.md) of the [5 Phases of Faciliation in Diehard.Fund](index.md).

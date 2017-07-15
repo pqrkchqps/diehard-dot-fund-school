@@ -1,6 +1,6 @@
-# Making decisions in Loomio
+# Making decisions in Diehard.Fund
 
-Loomio does not make decisions for you. Rather, we provide tools designed to
+Diehard.Fund does not make decisions for you. Rather, we provide tools designed to
 
 - Communicate what decision is being made
 - Make it easy to participate
@@ -26,7 +26,7 @@ Time poll makes it easy to identify when is the best time to meet.
 
 Enter a selection of times and share the poll with the people involved. Participants tick the times they can attend and the result is a table showing who is available when, so you're able to pick the best time for the group.
 
-So that you can arrange calls with people in other parts of the world, Loomio adjusts times so they are correct when displayed for each participant.
+So that you can arrange calls with people in other parts of the world, Diehard.Fund adjusts times so they are correct when displayed for each participant.
 
 If the times don't work, participants can suggest alternatives using the message field. You can then update the poll with new times.
 
@@ -126,7 +126,7 @@ You can extend the deadline of an open proposal. This can be a good idea if enga
 ### Setting an outcome
 When your proposal closes, you’ll be prompted to set a proposal outcome.
 
-In Loomio, it's not assumed that majority wins - the outcome or conclusion of a decision is up to you to define on behalf of the group. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.
+In Diehard.Fund, it's not assumed that majority wins - the outcome or conclusion of a decision is up to you to define on behalf of the group. Sometimes it makes sense to go with the majority, but sometimes even one dissenting voice means it's a no.
 
 Group members will be notified of the outcome, so it's a very useful tool for keeping people in the loop. You can clearly define next steps and name specific actions, or summarise what was learned from the process.
 
